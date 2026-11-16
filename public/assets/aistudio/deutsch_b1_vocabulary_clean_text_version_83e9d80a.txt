@@ -1,0 +1,2035 @@
+====================================================================
+DEUTSCH B1 ALL VOCABULARY (CLEAN UNICODE TEXT VERSION)
+Source: B1 All Vocabulary by Deutsch mit Shakil
+Format: [Nr] German Word | বাংলা অর্থ - English Meaning | Example Sentence
+====================================================================
+
+--------------------------------------------------------------------
+KAPITEL 1 (অধ্যায় ১)
+--------------------------------------------------------------------
+[1a ÜB] faulenzen | অলস সময় কাটানো - to lounge around | Im Urlaub möchte ich einfach nur faulenzen.
+[1a ÜB] giftig | বিষাক্ত - poisonous | Achtung, dieser Pilz im Wald ist giftig!
+[1a ÜB] der Himmel, - | আকাশ - sky | Der Himmel ist heute blau und ohne Wolken.
+[1a ÜB] im Freien | বাইরে / খোলা জায়গায় - outdoors | Wir essen im Sommer gerne im Freien.
+[1a ÜB] das Insekt, -en | পতঙ্গ - insect | Eine Biene ist ein nützliches Insekt.
+[1a ÜB] das Netz, -e | জাল - net | Wir brauchen ein Netz gegen Mücken.
+[1a ÜB] der Pilz, -e | মাশরুম - mushroom | Wir suchen im Herbst Pilze im Wald.
+[1a ÜB] der Schutz (Sg.) | সুরক্ষা - protection | Sonnencreme ist ein wichtiger Schutz für die Haut.
+[1a ÜB] zelten | তাবু গেড়ে থাকা - to camp | Wir wollen am Wochenende am See zelten.
+[2] angenehm | মনোরম / আরামদায়ক - pleasant | Das Wetter am Meer ist sehr angenehm.
+[2] die Aussicht, -en | দৃশ্য - view | Von diesem Berg hat man eine tolle Aussicht.
+[2] dabei sein | উপস্থিত থাকা / অংশ নেওয়া - to be present | Bist du bei unserem Ausflug auch dabei?
+[2] drüben | ওই পাশে - over there | Das Hotel liegt gleich dort drüben.
+[2] das Erlebnis, -se | অভিজ্ঞতা - experience | Die Reise war ein tolles Erlebnis für uns.
+[2] der Genuss (Sg.) | আনন্দ / ভোগ - treat / enjoyment | Das Essen in Italien ist ein echter Genuss.
+[2] herrlich | চমৎকার - glorious | Das Wasser im Pool ist herrlich warm.
+[2] die Küste, -n | উপকূল - coast | Wir spazieren gerne an der Küste entlang.
+[2] reif | পাকা (ফল) - ripe | Die Tomaten im Garten sind endlich reif.
+[2] der Sand (Sg.) | বালি - sand | Die Kinder spielen gerne im Sand.
+[2] die Traube, -n | আঙুর - grape | Ich esse morgens gerne süße Trauben.
+[2] der Urlaubsgruß, "-e | ভ্রমণের শুভেচ্ছা - greetings from abroad | Ich schicke dir einen herzlichen Urlaubsgruß.
+[3b] derselbe, dieselbe, dasselbe | একই - the same | Wir wohnen im selben Hotel wie letztes Jahr.
+[3b] die Entfernung, -en | দূরত্ব - distance | Die Entfernung zum Strand ist nicht weit.
+[3b] das Ferienhaus, "-er | ছুটির বাড়ি - holiday home | Wir mieten im Sommer ein Ferienhaus.
+[3b] gründlich | পুঙ্খানুপুঙ্খ - thorough | Bitte planen Sie die Reise sehr gründlich.
+[3b] rechtzeitig | সঠিক সময়ে - on time | Wir müssen rechtzeitig am Bahnhof sein.
+[3b] schick | আভিজাত্যপূর্ণ / সুন্দর - fancy | Sie trägt ein sehr schickes Kleid.
+[3b] der Typ, -en | ধরন - type | Welcher Urlaubstyp bist du eigentlich?
+[3b] der Urlaubstyp, -en | ভ্রমণের ধরন - holiday type | Er ist eher der sportliche Urlaubstyp.
+[3b] das Urlaubsziel, -e | ভ্রমণের গন্তব্য - holiday destination | Spanien ist ein beliebtes Urlaubsziel.
+[4a] der Chat, -s | চ্যাট - chat | Ich schreibe eine Nachricht im Chat.
+[4a] erholen (sich) | বিশ্রাম নেওয়া - to relax | Im Urlaub möchte ich mich gut erholen.
+[4a] der Kompromiss, -e | আপস - compromise | Wir müssen einen Kompromiss finden.
+[4a] meinetwegen | আমার কোনো আপত্তি নেই - fine with me | Meinetwegen können wir Pizza essen.
+[4a] sorry (ugs.) | দুঃখিত - sorry | Sorry, ich habe mich verspätet.
+[4a] die Urlaubsplanung, -en | ভ্রমণের পরিকল্পনা - holiday planning | Die Urlaubsplanung macht viel Spaß.
+[4a] wieso | কেন - why | Wieso hast du keine Lust auf Urlaub?
+[4a] zu | প্রতি / জন্য - to | Ich habe keine Lust zu suchen.
+[5a] entspannend | আরামদায়ক - relaxing | Ein heißes Bad ist sehr entspannend.
+[5c] erfahren | জানতে পারা - to learn / find out | Ich möchte mehr über das Land erfahren.
+[6a] die Schifffahrt, -en | নৌকা ভ্রমণ - boat trip | Wir machen morgen eine Schifffahrt.
+[6a] das Wellnesshotel, -s | ওয়েলনেস হোটেল - spa hotel | Das Wellnesshotel hat eine große Sauna.
+[7] ca. (circa) | প্রায় - approx. (approximately) | Die Fahrt dauert ca. drei Stunden.
+[7] enthalten sein | অন্তর্ভুক্ত থাকা - to be included | Das Frühstück ist im Preis enthalten.
+[7] die Fahrtzeit, -en | ভ্রমণের সময় - travel time | Die Fahrtzeit mit dem Zug ist kürzer.
+[7] das Gästehaus, "-er | অতিথি ভবন - guest house | Wir übernachten in einem kleinen Gästehaus.
+[7] die Halbpension (Sg.) | হাফ বোর্ড (সকাল ও রাতের খাবার) - half board | Wir haben das Zimmer mit Halbpension gebucht.
+[7] höchstens | সর্বোচ্চ - at the most | Das Paket wiegt höchstens zwei Kilo.
+[7] der Reisebüro-Mitarbeiter | ট্রাভেল এজেন্ট (পুরুষ) - travel agent (m) | Der Reisebüro-Mitarbeiter berät uns gut.
+[7] die Reisebüro-Mitarbeiterin | ট্রাভেল এজেন্ট (মহিলা) - travel agent (f) | Die Mitarbeiterin zeigt uns die Angebote.
+[7] der Skibus, -se | স্কি বাস - ski bus | Der Skibus fährt direkt zum Lift.
+[7] das Skigebiet, -e | স্কি করার এলাকা - ski resort | Dieses Skigebiet ist sehr beliebt bei Familien.
+[7] der Skilift, -e | স্কি লিফট - ski lift | Wir müssen am Skilift lange warten.
+[7] die Vollpension (Sg.) | ফুল বোর্ড (তিন বেলা খাবার) - full board | Vollpension ist teurer als Halbpension.
+[7] der Wellness-Bereich, -e | শরীরচর্চা ও বিশ্রামের এলাকা - spa area | Das Hotel hat einen modernen Wellness-Bereich.
+[7] der Winterurlaub, -e | শীতকালীন ছুটি - winter holiday | Wir machen dieses Jahr wieder Winterurlaub.
+[8b] die Badewanne, -n | গোসলের টব - bathtub | Nach dem Sport gehe ich in die Badewanne.
+[8b] das Boot, -e | নৌকা - boat | Wir fahren mit dem Boot über den See.
+[8b] da | যেহেতু / কারণ - here: as | Da es regnet, bleiben wir heute zu Hause.
+[8b] der Einfall, "-e | বুদ্ধি / হঠাৎ আসা চিন্তা - idea | Das ist ein wirklich guter Einfall!
+[8b] enttäuscht | হতাশ - disappointed | Er ist sehr enttäuscht vom Urlaubswetter.
+[8b] der Forumstext, -e | ফোরামের টেক্সট - texts in the forum | Ich habe einen interessanten Forumstext gelesen.
+[8b] jedenfalls | যা-ই হোক / অন্তত - in any case | Ich werde jedenfalls pünktlich kommen.
+[8b] liegen | শীর্ষে থাকা / এগিয়ে থাকা - here: to be in the lead | In der Umfrage liegen große Städte vorn.
+[8b] obwohl | যদিও - although / even though | Obwohl er müde ist, arbeitet er weiter.
+[8b] offenbar | স্পষ্টতই - obvious | Er ist offenbar sehr glücklich darüber.
+[8b] solche, solchen | এই ধরণের - such | Solche Reisen sind meistens sehr teuer.
+[8b] spazieren | হাঁটাহাঁটি করা - to go for a walk | Am Abend gehen wir im Park spazieren.
+[8b] die Stadtatmosphäre (Sg.) | শহরের পরিবেশ - city atmosphere | Ich mag die lebendige Stadtatmosphäre.
+[8b] die Strandpromenade, -n | সমুদ্রসৈকতের হাঁটার রাস্তা - beach side promenade | Wir laufen auf der Strandpromenade entlang.
+[8b] weg sein | চলে যাওয়া / না থাকা - to be gone | Mein Koffer ist weg, ich finde ihn nicht.
+[8c] der Strandurlaub, -e | সমুদ্রসৈকতে ছুটি - holiday at the beach | Ein Strandurlaub ist sehr entspannend.
+[9a] das Abenteuer, - | দুঃসাহসিক কাজ - adventure | Die Reise durch den Dschungel war ein Abenteuer.
+[9a] aufbauen | তৈরি করা / স্থাপন করা - to build | Wir müssen das Zelt noch aufbauen.
+[9a] die Bild-Geschichte, -n | ছবির গল্প - picture story | Schau dir die Bild-Geschichte genau an.
+[9a] Bock (Sg., ugs.) | ইচ্ছা (কথ্য ভাষা) - here: to feel like | Ich habe heute keinen Bock auf Wandern.
+[9a] brennen | জ্বলা - to burn | Das Lagerfeuer brennt schon sehr hell.
+[9a] der Eimer, - | বালতি - here: spout (ruined) | Mein ganzer Plan ist jetzt im Eimer!
+[9a] der Kofferraum, "-e | গাড়ির মালপত্র রাখার জায়গা - car boot | Wir packen die Koffer in den Kofferraum.
+[9a] mehrfach | বারবার / কয়েকবার - repeatedly | Ich habe ihn mehrfach angerufen.
+[9a] schiefgehen | ভুল হওয়া / বিফল হওয়া - to go wrong | Alles ist heute schiefgegangen.
+[9a] tragen | বহন করা - to carry | Kannst du bitte die Tasche tragen?
+[9a] verzweifelt | মরিয়া / দিশেহারা - desperate | Sie war nach dem Diebstahl ganz verzweifelt.
+[9a] die Wiese, -n | তৃণভূমি / ঘাসের মাঠ - meadow | Wir machen ein Picknick auf der Wiese.
+[9a] das Zeug (Sg.) | জিনিসপত্র - stuff | Bring dein ganzes Zeug nach oben.
+[9c] fest machen | দৃঢ়ভাবে আটকানো - to fasten | Du musst das Boot gut fest machen.
+[9c] die Perspektive, -n | দৃষ্টিভঙ্গি - perspective | Er sieht das aus einer anderen Perspektive.
+[10c] diktieren | ডিক্টেট করা (মুখে বলা) - to dictate | Der Lehrer diktiert den Schülern einen Text.
+[11a] auf (Ohren auf!) | মনোযোগ দেওয়া - here: up (Listen up!) | Ohren auf! Jetzt kommt eine wichtige Ansage.
+[11a] der ICE, -s | দ্রুতগামী ট্রেন - ICE (Intercity-Express) | Der ICE nach Berlin hat zehn Minuten Verspätung.
+[11a] die Zugnummer, -n | ট্রেনের নম্বর - train number | Bitte geben Sie Ihre Zugnummer bei der Buchung an.
+[12b] die Bushaltestelle, -n | বাস স্টপেজ - bus stop | Ich warte an der Bushaltestelle auf die Linie 5.
+[12b] das Gepäckband, "-er | লাগেজ বেল্ট - baggage conveyor belt | Wir holen unsere Koffer am Gepäckband ab.
+[12b] der Tiergarten, "- | চিড়িয়াখানা - zoo | Am Sonntag gehen wir mit den Kindern in den Tiergarten.
+[12c] der Hauptbahnhof, "-e | প্রধান রেলওয়ে স্টেশন - central station | Treffen wir uns vor dem Haupteingang am Hauptbahnhof?
+[13a] die Alm, -en | আল্পস পর্বতের চারণভূমি - alpine pasture (alp) | Kühe grasen im Sommer oben auf der Alm.
+[13a] der Almsommer, - | পর্বতে গ্রীষ্মকাল - summer on the alp | Sie verbringen den ganzen Almsommer in den Bergen.
+[13a] der Almurlaub, -e | পর্বতে ছুটি কাটানো - holiday on the alp | Ein Almurlaub ist perfekt zum Wandern.
+[13a] begeistert | অত্যন্ত আনন্দিত - enthusiastic | Ich bin total begeistert von dieser Reiseidee.
+[13a] beinahe | প্রায় - almost | Ich hätte beinahe den Zug verpasst.
+[13a] eher | বরং / কিছুটা - rather | Es ist heute eher kühl für einen Sommertag.
+[13a] die Einsamkeit (Sg.) | একাকীত্ব / নির্জনতা - solitude | Er genießt die Einsamkeit hoch in den Bergen.
+[13a] der Empfang (Sg.) | সিগন্যাল (মোবাইল) - reception | Hier oben im Gebirge habe ich keinen Empfang.
+[13a] entschließen (sich) | সিদ্ধান্ত নেওয়া - to decide | Wir müssen uns jetzt für ein Hotel entschließen.
+[13a] erholt | সতেজ (বিশ্রামের পর) - relaxed / recovered | Nach zwei Wochen Urlaub fühle ich mich sehr erholt.
+[13a] erkälten (sich) | ঠান্ডা লাগা - to have a cold | Zieh dich warm an, damit du dich nicht erkältest.
+[13a] falls | যদি - in case | Ruf mich bitte an, falls du später kommst.
+[13a] das Gebirge, - | পর্বতমালা - mountains / mountain range | Das Gebirge ist im Winter mit Schnee bedeckt.
+[13a] gegen | নাগাদ (সময়) - here: around | Wir treffen uns gegen 8 Uhr am Bahnhof.
+[13a] heimfahren | বাড়ি ফিরে যাওয়া - to go home | Nach der langen Reise wollen wir endlich heimfahren.
+[13a] das Heimweh (Sg.) | দেশের জন্য মন কেমন করা - homesickness | Das Kind hat im Ferienlager oft Heimweh.
+[13a] hierher | এই দিকে / এখানে - here | Komm bitte mal schnell hierher zu mir.
+[13a] die Hütte, -n | কুটির / ছোট ঘর - hut / lodge | Wir übernachten in einer kleinen Hütte im Wald.
+[13a] die Käserei, -en | পনির তৈরির কারখানা - cheese factory | In der Käserei kann man frischen Bergkäse kaufen.
+[13a] melken | দুধ দোয়ানো - to milk | Der Bauer muss jeden Morgen die Kühe melken.
+[13a] momentan | বর্তমানে - at the moment | Momentan habe ich leider keine Zeit für ein Telefonat.
+[13a] die Neuigkeit, -en | নতুন খবর - news | Hast du schon die neuesten Neuigkeiten gehört?
+[13a] der Rückblick, -e | অতীতের দিকে ফিরে দেখা - review | Im Rückblick war die Reise ein großer Erfolg.
+[13a] der Sonnenaufgang, "-e | সূর্যোদয় - sunrise | Wir sind früh aufgestanden, um den Sonnenaufgang zu sehen.
+[13a] der Terminkalender, - | অ্যাপয়েন্টমেন্ট ক্যালেন্ডার - diary / schedule | Mein Terminkalender ist diese Woche sehr voll.
+[13a] vorbei sein | শেষ হওয়া - to be over | Der Sommer ist leider viel zu schnell vorbei.
+[13a] der Zeitpunkt, -e | সময় / মুহূর্ত - (point in) time | Das war genau der richtige Zeitpunkt für eine Pause.
+[13b] der Almaufenthalt, -e | পর্বতে অবস্থান - visit to an alp | Der Almaufenthalt war sehr entspannend für uns.
+[13b] mitarbeiten | একসাথে কাজ করা - to assist / work with | Er möchte an dem neuen Projekt mitarbeiten.
+[13c] der Ferienclub, -s | হলিডে ক্লাব - holiday club | Die Kinder spielen den ganzen Tag im Ferienclub.
+[13c] der Olivenbaum, "-e | জলপাই গাছ - olive tree | In Italien stehen viele alte Olivenbäume.
+[13c] die Weihnachtsferien (Pl.) | বড়দিনের ছুটি - Christmas holidays | In den Weihnachtsferien fahren wir zum Skifahren.
+[k&k] die Abneigung, -en | অনীহা / অপছন্দ - dislike | Er hat eine starke Abneigung gegen lange Flüge.
+[k&k] der Kausalsatz, "-e | কারণবাচক বাক্য - causal clause | Ein Kausalsatz beginnt oft mit „weil“ oder „da“.
+[k&k] der Konzessivsatz, "-e | বৈপরীত্যমূলক বাক্য - concessive clause | Ein Konzessivsatz beginnt oft mit „obwohl“.
+
+--------------------------------------------------------------------
+KAPITEL 2 (অধ্যায় ২)
+--------------------------------------------------------------------
+[1a] benötigen | প্রয়োজন হওয়া - to need | Wir benötigen für die Reparatur neues Werkzeug.
+[1a] der Fingerabdruck, "-e | আঙুলের ছাপ - finger print | Man kann das Handy mit einem Fingerabdruck öffnen.
+[1a] der Funkkopfhörer, - | ওয়্যারলেস হেডফোন - wireless headphones | Ich höre Musik mit meinem neuen Funkkopfhörer.
+[1a] das Lastenfahrrad, "-er | পণ্যবাহী সাইকেল - freight bicycle | Er transportiert Einkäufe mit dem Lastenfahrrad.
+[1a] der Sprachassistent, -en | ভয়েস অ্যাসিস্ট্যান্ট - language assistant | Mein Sprachassistent beantwortet alle meine Fragen.
+[1a] der Steh-Sitz-Tisch, -e | উচ্চতা পরিবর্তনযোগ্য টেবিল - stand-sit-table | Ein Steh-Sitz-Tisch ist gut für den Rücken.
+[1a] der Türöffner, - | দরজা খোলার যন্ত্র - door opener | Drück bitte den Türöffner, wenn es klingelt.
+[1b] der Slogan, -s | স্লোগান - slogan | Die Firma hat einen sehr bekannten Slogan.
+[1b] die Taste, -n | বোতাম / কী - key | Drücken Sie bitte die grüne Taste zum Starten.
+[1b] der Transport, -e | পরিবহন - transport | Der Transport der Möbel dauert zwei Tage.
+[1b ÜB] anschließen | সংযুক্ত করা - to connect | Er schließt den Lautsprecher an den Laptop an.
+[1b ÜB] aufladen | চার্জ দেওয়া - to charge | Ich muss mein Handy heute noch aufladen.
+[1b ÜB] bedienen | ব্যবহার করা / চালানো - to use | Dieses Gerät ist sehr einfach zu bedienen.
+[1b ÜB] einsetzen | প্রবেশ করানো - to insert | Er muss eine neue Batterie ins Handy einsetzen.
+[1b ÜB] einstecken | প্লাগ লাগানো - to plug (in) | Du musst das Kabel erst in die Steckdose einstecken.
+[1b ÜB] installierten | ইনস্টল করা - to install | Kannst du bitte das neue Programm installieren?
+[1b ÜB] schalten | সুইচ টিপে পরিবর্তন করা - to switch | Er schaltet das Handy auf lautlos.
+[1b ÜB] stumm | নীরব / মিউট - mute | Bitte schalten Sie Ihr Handy im Kino stumm.
+[3a] die Anleitung, -en | নির্দেশিকা - instruction | Lies bitte zuerst die Anleitung für das Regal.
+[3a] anschaffen (sich) | সংগ্রহ করা / কেনা - to get | Wir möchten uns eine neue Kaffeemaschine anschaffen.
+[3a] bloß | শুধু / কেবল - only | Das kostet bloß fünf Euro im Sonderangebot.
+[3a] die Frage, -n | প্রশ্ন - question | Ich stehe vor einer schwierigen Frage.
+[3a] der Handyladen, "- | মোবাইলের দোকান - mobile phone shop | Im Handyladen gibt es viele neue Modelle.
+[3a] herunterfallen | নিচে পড়ে যাওয়া - to fall | Mein Handy ist leider auf den Boden heruntergefallen.
+[3a] irgendetwas | কোনো কিছু - something | Ich muss irgendetwas gegen den Lärm tun.
+[3a] kaputtgehen | ভেঙে যাওয়া / নষ্ট হওয়া - to break | Mein alter Fernseher ist gestern kaputtgegangen.
+[3a] kommen | বাজারে আসা - to come (onto market) | Das neue Modell kommt nächsten Monat auf den Markt.
+[3a] lohnen (sich) | লাভজনক হওয়া - to be worth it | Die Reparatur der Waschmaschine lohnt sich nicht mehr.
+[3a] das Sonderangebot, -e | বিশেষ অফার - special offer | Ich habe das Handy im Sonderangebot gekauft.
+[3a] der Staubsauger, - | ভ্যাকুয়াম ক্লিনার - vacuum cleaner | Unser neuer Staubsauger ist sehr leise.
+[3a] stehen (vor einer Frage) | সম্মুখীন হওয়া - to be confronted with | Wir stehen vor einer wichtigen Entscheidung.
+[3a] technisch | কারিগরি - technical | Das Gerät hat ein kleines technisches Problem.
+[3e] der Knopf, "-e | বোতাম - button | Drück bitte auf diesen Knopf zum Einschalten.
+[3e] nähen | সেলাই করা - to sew | Meine Oma kann sehr gut Kleider nähen.
+[3e] reinigen | পরিষ্কার করা - to clean | Man muss die Maschine regelmäßig reinigen.
+[3e] streichen | রং করা - to paint | Wir wollen am Wochenende das Wohnzimmer streichen.
+[4a] der Kopfhörer, - | হেডফোন - headphones | Ich brauche neue Kopfhörer für meinen Laptop.
+[4a] das Ladekabel, - | চার্জিং কেবল - charger | Wo ist mein Ladekabel? Der Akku ist fast leer.
+[4b] die Powerbank, -s | পাওয়ার ব্যাংক - powerbank | Meine Powerbank ist leer, ich kann nicht laden.
+[4b] daher | তাই / সেই কারণে - therefore | Mein Handy ist alt, daher ist der Akku schwach.
+[4b] darum | সেই জন্য - that's why | Der Lautsprecher geht nicht, darum repariere ich ihn.
+[4b] deswegen | এই কারণে - therefore | Er hat kein Geld, deswegen kauft er nichts.
+[4b] der Handyakku, -s | মোবাইলের ব্যাটারি - mobile phone battery | Der Handyakku hält nur noch wenige Stunden.
+[4b] sodass | যাতে / ফলে - so that | Er spart Geld, sodass er ein neues Auto kaufen kann.
+[4b] der Stick, -s | ইউএসবি স্টিক - USB stick | Ich speichere die Bilder auf einem Stick.
+[5a ÜB] anhaben | পরিধান করা - to wear | Was hast du heute bei der Party angehabt?
+[5a ÜB] anschalten | চালু করা - to switch on | Kannst du bitte das Licht im Flur anschalten?
+[5a ÜB] dabeihaben | সাথে থাকা - to have sth with oneself | Hast du deinen Ausweis dabei?
+[5a ÜB] diesmal | এইবার - this time | Diesmal machen wir im Sommer Urlaub.
+[5a ÜB] die EC-Karte, -n | ডেবিট কার্ড - debit card | Ich bezahle im Supermarkt mit der EC-Karte.
+[5a ÜB] die Gebrauchsanweisung | ব্যবহারবিধি - instructions | Ich lese die Gebrauchsanweisung für den Herd.
+[5a ÜB] die Geheimzahl, -en | পিন নম্বর - PIN | Verraten Sie niemandem Ihre Geheimzahl.
+[5a ÜB] der Geldautomat, -en | এটিএম বুথ - ATM | Ich muss am Geldautomaten Bargeld holen.
+[5a ÜB] das Girokonto, -konten | চলতি হিসাব - checking account | Ich möchte ein neues Girokonto eröffnen.
+[5a ÜB] gratis | বিনামূল্যে - free | In diesem Café ist das WLAN gratis.
+[5a ÜB] nachsehen | দেখে নেওয়া - to have a look | Ich muss im Wörterbuch nachsehen, was das Wort bedeutet.
+[5a ÜB] das Portemonnaie, -s | মানিব্যাগ - wallet | Mein Portemonnaie liegt noch zu Hause.
+[5a ÜB] der Rabatt, -e | ছাড় - discount | Auf diese Schuhe gibt es 20% Rabatt.
+[5a ÜB] rein | বিশুদ্ধ / নিছক - pure | Das war ein reiner Zufall, dass wir uns trafen.
+[5a ÜB] verraten | প্রকাশ করা / বলে দেওয়া - to reveal | Bitte verraten Sie mein Geheimnis nicht.
+[5a ÜB] zurückgehen | ফিরে যাওয়া - to go back | Wir müssen zum Bahnhof zurückgehen, ich habe etwas vergessen.
+[5a ÜB] zurückzahlen | পরিশোধ করা - to pay back | Er wird mir das geliehene Geld nächste Woche zurückzahlen.
+[5b] die Garantie, -n | গ্যারান্টি - warranty | Das Handy hat noch zwei Jahre Garantie.
+[5b] laden | চার্জ দেওয়া - to charge | Ich muss mein Telefon sofort laden.
+[5b] die Quittung, -en | রসিদ - receipt | Behalten Sie die Quittung für den Umtausch.
+[5b] reklamieren | অভিযোগ করা - to complain / exchange | Ich möchte diesen kaputten Toaster reklamieren.
+[5c] testen | পরীক্ষা করা - to test | Wir testen das neue Programm morgen.
+[6a] die Technologie, -n | প্রযুক্তি - technology | Die moderne Technologie verändert unser Leben.
+[6a] die Vorstellung, -en | ধারণা / প্রস্তাব - idea / suggestion | Haben Sie eine Vorstellung vom neuen Haus?
+[6b] die Alarmanlage, -n | অ্যালার্ম সিস্টেম - alarm system | Die Alarmanlage macht viel Lärm.
+[6b] die Ausnahme, -n | ব্যতিক্রম - exception | Heute machen wir mal eine Ausnahme.
+[6b] bemerken | লক্ষ্য করা - to notice | Ich habe den Fehler erst spät bemerkt.
+[6b] bereits | ইতিপূর্বে - already | Er hat die Hausaufgaben bereits gemacht.
+[6b] berühren | স্পর্শ করা - to touch | Bitte die Bilder im Museum nicht berühren.
+[6b] der Einbruch, "-e | চুরি / সিঁধ কাটা - break-in | Nach dem Einbruch kam sofort die Polizei.
+[6b] gleichzeitig | একই সাথে - simultaneous | Er kann essen und gleichzeitig lesen.
+[6b] die Haustür, -en | সদর দরজা - front door | Ich schließe die Haustür immer ab.
+[6b] hinsehen | সেদিকে দেখা - to look (at) | Schau genau hin, damit du keinen Fehler machst.
+[6b] die Jalousie, -n | জানালার পর্দা (ব্লাইন্ড) - shutter | Bitte mach die Jalousie zu, die Sonne blendet.
+[6b] machen (zu + D.) | রূপান্তর করা - to make (into) | Wir machen das Zimmer zu einem Büro.
+[6b] das Magazin, -e | ম্যাগাজিন - magazine | Ich lese gerne ein Magazin beim Warten.
+[6b] der Monitor, -en | মনিটর - monitor | Der Monitor von meinem Computer ist neu.
+[6b] der Neubau, -ten | নতুন ভবন - new building | Wir wohnen in einem modernen Neubau.
+[6b] die Nutzung, -en | ব্যবহার - usage | Die Nutzung des Internets ist hier kostenlos.
+[6b] sicher | নিরাপদ - safe | In diesem Haus fühlen wir uns sehr sicher.
+[6b] smart | স্মার্ট - smart | Er hat viele smarte Geräte in seiner Wohnung.
+[6b] das Smart Home, -s | স্মার্ট হোম - smart home | Ein Smart Home spart oft viel Energie.
+[6b] steuern | নিয়ন্ত্রণ করা - to control | Man kann die Heizung per App steuern.
+[6b] der Tagesablauf, "-e | দৈনন্দিন রুটিন - daily routine | Wie sieht dein normaler Tagesablauf aus?
+[6b] die Videonachricht, -en | ভিডিও বার্তা - video message | Sie schickt mir eine Videonachricht aus dem Urlaub.
+[6b] die Wand, "-e | দেয়াল - wall | Das Bild hängt an der weißen Wand.
+[6b] die Zentrale, -n | প্রধান কার্যালয় - headquarters | Die Zentrale der Firma liegt in Berlin.
+[6c] kommen (zu Besuch) | বেড়াতে আসা - to come for a visit | Meine Eltern kommen am Sonntag zu Besuch.
+[6c] wessen | কার - whose | Wessen Handy liegt hier auf dem Tisch?
+[6d] anpassen | মানিয়ে নেওয়া - to adjust | Wir müssen uns an die neue Situation anpassen.
+[6d] einschalten | চালু করা - to switch on | Kannst du bitte das Licht im Flur anschalten?
+[6d] Hightech (Sg.) | উচ্চপ্রযুক্তি - high tech | Das neue Auto ist voll mit Hightech.
+[7a] geschehen | ঘটা - to happen | Was ist gestern Abend genau geschehen?
+[7a] leisten (sich) | সামর্থ্য থাকা - to afford | Ich kann mir diesen teuren Urlaub nicht leisten.
+[7a] die Sorge, -n | দুশ্চিন্তা - worry | Er macht sich große Sorgen um seine Arbeit.
+[7a] trotz (+ G.) | সত্ত্বেও - despite | Trotz des Regens gehen wir spazieren.
+[7a] wegen (+ G.) | কারণে - because of | Wegen des Wetters bleibt der Flughafen geschlossen.
+[7b] entsprechen | অনুরূপ হওয়া - to correspond | Das Hotel entsprach genau unseren Wünschen.
+[7c] die Einkaufsliste, -n | কেনাকাটার তালিকা - shopping list | Ich schreibe alles auf die Einkaufsliste.
+[7c] sparsam | মিতব্যয়ী - frugal / economical | Er lebt sehr sparsam und spart viel Geld.
+[7c] von Hand | হাতে করা - by hand | Der Brief wurde noch von Hand geschrieben.
+[7d] die Gefahr, -en | বিপদ - danger | Im Wald besteht bei Sturm große Gefahr.
+[9b] die Werbeanzeige, -n | বিজ্ঞাপন - advertisement | Ich habe eine Werbeanzeige in der Zeitung gelesen.
+[9c] ansprechend | আকর্ষণীয় - appealing | Die Gestaltung der Website ist sehr ansprechend.
+[9c] unmodern | সেকেলে - unfashionable | Diese Möbel wirken heute sehr unmodern.
+[9c] unverständlich | অবোধ্য - incomprehensible | Die Bedienungsanleitung ist leider unverständlich.
+[9d] ausgezeichnet | চমৎকার - excellent | Das Essen in diesem Restaurant ist ausgezeichnet.
+[9d] frech | ধৃষ্ট / সাহসী - cheeky | Das Kind gab eine sehr freche Antwort.
+[9d] merkwürdig | অদ্ভুত - strange | Ich habe gestern ein merkwürdiges Geräusch gehört.
+[9d] seltsam | বিচিত্র - odd | Er verhält sich heute sehr seltsam.
+[9d] wirken (auf + A.) | মনে হওয়া / প্রভাব ফেলা - to seem | Die Farben wirken sehr beruhigend auf mich.
+[10a] davon | তা থেকে / সেই বিষয়ে - of it | Ich habe zwei Stück, du kannst eines davon haben.
+[10a] der Klebefilm, -e | স্কচটেপ - adhesive tape | Hast du einen Klebefilm für das Paket?
+[10a] der Markenname, -n | ব্র্যান্ডের নাম - brand name | Ein guter Markenname ist sehr wichtig.
+[10a] die Schmerztablette, -n | ব্যথানাশক বড়ি - pain killer | Ich brauche eine Schmerztablette gegen Kopfschmerzen.
+[10a] der Süßstoff, -e | কৃত্রিম মিষ্টি - sweetener | Nehmen Sie Zucker oder Süßstoff im Kaffee?
+[10a] das Taschentuch, "-er | রুমাল - handkerchief | Hast du ein Taschentuch für mich?
+[10b] ansprechen | সম্বোধন করা / আবেদন করা - to speak to | Darf ich Sie kurz auf das Problem ansprechen?
+[10b] aufmerksam | মনোযোগী - attentive | Die Schüler hören der Lehrerin aufmerksam zu.
+[10b] automatisch | স্বয়ংক্রিয় - automatic | Das Licht geht im Flur automatisch an.
+[10b] beeinflussen | প্রভাবিত করা - to influence | Werbung kann unser Kaufverhalten beeinflussen.
+[10b] dabei | এতে / সেখানে - here: in doing so | Werbung hilft dabei, dass Kunden Produkte kaufen.
+[10b] ebenfalls | আরও / একইভাবে - also | Er kommt morgen und seine Schwester ebenfalls.
+[10b] die Erinnerung, -en | স্মৃতি - memory | Das Lied weckt eine schöne Erinnerung in mir.
+[10b] genügen | পর্যাপ্ত হওয়া - to suffice | Ein kurzes Telefonat wird für heute genügen.
+[10b] interessiert | আগ্রহী - interested | Er ist sehr an moderner Technologie interessiert.
+[10b] das Kaufverhalten, - | ক্রয় আচরণ - shopping behaviour | Das Internet verändert unser Kaufverhalten.
+[10b] reichen | যথেষ্ট হওয়া - to be enough | Danke, das Essen reicht mir völlig aus.
+[10b] der Spruch, "-e | কথা / প্রবাদ - saying | Ein guter Spruch bleibt lange im Kopf.
+[10b] überrascht | অবাক / বিস্মিত - surprised | Ich war über das Geschenk überrascht.
+[10b] das Unternehmen, - | প্রতিষ্ঠান / কোম্পানি - company | Das Unternehmen produziert smarte Geräte.
+[10b] das Verhalten, - | আচরণ - behaviour | Sein Verhalten im Büro ist immer sehr höflich.
+[10b] vertrauen | বিশ্বাস করা - to trust | Du kannst mir bei diesem Problem vertrauen.
+[10b] die Werbesprache (Sg.) | বিজ্ঞাপনের ভাষা - advertising language | Die Werbesprache ist oft sehr kreativ.
+[10b] der Werbetrick, -s | বিজ্ঞাপনের কৌশল - advertising trick | Das Sonderangebot war nur ein Werbetrick.
+[10b] das Wortspiel, -e | শব্দের খেলা - pun / play on words | In der Werbung findet man oft lustige Wortspiele.
+[10c] das Merkmal, -e | বৈশিষ্ট্য - characteristic | Ein Merkmal des Produkts ist die hohe Qualität.
+[11] Finnland | ফিনল্যান্ড - Finland | Wir planen eine Reise nach Finnland.
+[11] italienisch | ইতালীয় - Italian | Wir essen heute Abend in einem italienischen Restaurant.
+[11] das Kinderprodukt, -e | শিশুদের পণ্য - children's product | Die Firma stellt spezielle Kinderprodukte her.
+[11] ungesund | অস্বাস্থ্যকর - unhealthy | Zu viel Zucker ist ungesund für den Körper.
+[11] verbieten | নিষিদ্ধ করা - to forbid | Der Arzt muss ihm das Rauchen verbieten.
+[k&k] das Adverb, -ien | ক্রিয়া বিশেষণ - adverb | Ein Adverb beschreibt eine Tätigkeit näher.
+[k&k] davor | তার আগে - before that | Erst essen wir, davor müssen wir kochen.
+[k&k] der Konsekutivsatz, "-e | ফলাফলসূচক বাক্য - consecutive clause | Ein Konsekutivsatz zeigt die Folge einer Handlung.
+[k&k] die Silbe, -n | শব্দাংশ - syllable | Das Wort „Urlaub“ hat zwei Silben.
+
+--------------------------------------------------------------------
+KAPITEL 3 (অধ্যায় ৩)
+--------------------------------------------------------------------
+[1a] der Arbeiter, - | শ্রমিক (পুরুষ) - worker (m) | Der Arbeiter repariert die Straße.
+[1a] die Arbeiterin, -nen | শ্রমিক (মহিলা) - worker (f) | Die Arbeiterin arbeitet in der Fabrik.
+[1a] automatisiert | স্বয়ংক্রিয় - automated | Viele Prozesse in der Industrie sind heute automatisiert.
+[1a] die Bedingung, -en | শর্ত / অবস্থা - condition | Die Arbeitsbedingungen in dieser Firma sind sehr gut.
+[1a] die Behandlung, -en | চিকিৎসা - treatment | Die medizinische Behandlung im Krankenhaus war erfolgreich.
+[1a] die Diagnose, -n | রোগ নির্ণয় - diagnosis | Der Arzt stellt nach der Untersuchung die Diagnose.
+[1a] die Gruppenarbeit, -en | দলগত কাজ - group work | In der Schule machen wir oft Gruppenarbeit.
+[1a] die Handarbeit, -en | হাতের কাজ - handiwork | Diese Tasche ist eine echte Handarbeit.
+[1a] die Hygiene (Sg.) | স্বাস্থ্যবিধি - hygiene | Hygiene ist in der Küche besonders wichtig.
+[1a] die Konkurrenz (Sg.) | প্রতিযোগিতা - competition | Die Konkurrenz zwischen den Firmen ist groß.
+[1a] medizinisch | চিকিৎসা সংক্রান্ত - medical | Er braucht dringend medizinische Hilfe.
+[1a] monoton | একঘেয়ে - monotonous | Fließbandarbeit kann manchmal sehr monoton sein.
+[1a] operieren | অস্ত্রোপচার করা - to operate | Der Chirurg muss den Patienten sofort operieren.
+[1a] die Pflegekraft, "-e | সেবক / সেবিকা - caregiver | Die Pflegekraft kümmert sich liebevoll um die Senioren.
+[1a] die Schulbildung (Sg.) | স্কুল শিক্ষা - education | Eine gute Schulbildung ist wichtig für die Zukunft.
+[1a] die Strafe, -n | শাস্তি - punishment / penalty | Er muss eine Strafe zahlen, weil er zu schnell gefahren ist.
+[1a] tolerant | সহনশীল - tolerant | Wir sollten gegenüber anderen Meinungen tolerant sein.
+[1a] die Unterrichtsform, -en | শিক্ষার ধরন - form of instruction | Gruppenarbeit ist eine beliebte Unterrichtsform.
+[1b] der Gegensatz, "-e | বৈপরীত্য - opposite | Das ist der genaue Gegensatz zu meiner Meinung.
+[1b] minimal | নূন্যতম - minimal | Der Aufwand für dieses Projekt ist minimal.
+[2 ÜB] ausschließlich | একচেটিয়া / শুধুমাত্র - exclusive | Dieses Angebot gilt ausschließlich für Neukunden.
+[2 ÜB] bewusst | সচেতন - conscious | Sie lebt sehr gesund und isst bewusst.
+[2 ÜB] biologisch | জৈব / জৈবিক - biological | Wir kaufen nur biologisches Gemüse.
+[2 ÜB] die Diät, -en | ডায়েট / পথ্য - diet | Er macht eine Diät, um Gewicht zu verlieren.
+[2 ÜB] ernähren (sich) | পুষ্টি গ্রহণ করা - to eat / to nourish | Es ist wichtig, sich gesund zu ernähren.
+[2 ÜB] die Ernährung (Sg.) | পুষ্টি - nutrition | Eine gute Ernährung gibt uns viel Energie.
+[2 ÜB] die Fitness (Sg.) | শারীরিক সক্ষমতা - fitness | Er trainiert täglich für seine Fitness.
+[2 ÜB] die Form | আকৃতি / ফর্ম - form | Der Kuchen hat eine runde Form.
+[2 ÜB] die Frucht, "-e | ফল - fruit | Eine Orange ist eine sehr süße Frucht.
+[2 ÜB] halten (Diät halten) | ডায়েট করা - to be on a diet | Man muss Disziplin haben, um Diät zu halten.
+[2 ÜB] die Karotte, -n | গাজর - carrot | Ich esse gerne frische Karotten im Salat.
+[2 ÜB] das Nahrungsmittel, - | খাদ্যদ্রব্য - food | Milch ist ein wichtiges Nahrungsmittel.
+[2 ÜB] produziert | উৎপাদিত - produced | Die Waren werden ökologisch produziert.
+[2 ÜB] die Speise, -n | খাবার / পদ - food | Diese Speise schmeckt wirklich ausgezeichnet.
+[2 ÜB] der Trend, -s | প্রবণতা - trend | Gesundes Essen ist zurzeit ein großer Trend.
+[2 ÜB] vegan | ভেগান - vegan | Er isst keine Tierprodukte, er lebt vegan.
+[2 ÜB] vegetarisch | নিরামিষ - vegetarian | Ich mag dieses vegetarische Gericht sehr.
+[2 ÜB] das Vitamin, -e | ভিটামিন - vitamin | Obst enthält viele wichtige Vitamine.
+[2 ÜB] das Workout, -s | ব্যায়াম - workout | Nach dem Workout fühle ich mich fit.
+[3a] erben | উত্তরাধিকার সূত্রে পাওয়া - to inherit | Er wird später das Haus seiner Eltern erben.
+[3a] weshalb | কেন - why | Weshalb hast du dich für diesen Beruf entschieden?
+[3b] führen (zu + D.) | পরিচালিত করা - to lead (to) | Stress kann oft zu Krankheiten führen.
+[3b] gewohnt | অভ্যাসগত - usual | Das ist mein gewohnter Weg zur Arbeit.
+[3b] die Krisensituation, -en | সংকটময় পরিস্থিতি - crisis (situation) | In einer Krisensituation muss man ruhig bleiben.
+[3b] die Lebensgeschichte, -n | জীবনকাহিনী - life story | Er hat seine Lebensgeschichte aufgeschrieben.
+[3b] der Lebensweg, -e | জীবনের পথ - path in life | Jeder Mensch hat einen eigenen Lebensweg.
+[3b] der Prozess, -e | প্রক্রিয়া - process | Das Lernen einer Sprache ist ein langer Prozess.
+[3b] raus | বাইরে - out | Er möchte am Wochenende einfach nur raus.
+[3b] der Todesfall, "-e | মৃত্যু - death | Nach dem Todesfall war die Familie traurig.
+[3b] die Trennung, -en | বিচ্ছেদ - separation | Die Trennung von seinem Partner war schwierig.
+[3b] der Wendepunkt, -e | মোড় - turning point | Die Reise war ein Wendepunkt in seinem Leben.
+[3b] der Zeitschriftenartikel, - | সাময়িকী নিবন্ধ - newspaper article | Ich habe einen interessanten Artikel gelesen.
+[3c] Afrika | আফ্রিকা - Africa | Er hat ein Jahr lang in Afrika gearbeitet.
+[3c] das Anliegen, - | অনুরোধ / বিষয় - issue | Was ist Ihr wichtigstes Anliegen für heute?
+[3c] der Berufssoldat, -en | পেশাদার সৈনিক (পু.) - professional soldier (m) | Er war viele Jahre lang als Berufssoldat tätig.
+[3c] die Berufssoldatin, -nen | পেশাদার সৈনিক (মহিলা) - professional soldier (f) | Sie arbeitet als Berufssoldatin bei der Bundeswehr.
+[3c] der Buchautor, -en | গ্রন্থকার (পু.) - author (m) | Der Buchautor liest heute aus seinem Werk vor.
+[3c] die Buchautorin, -nen | গ্রন্থকার (মহিলা) - author (f) | Die Buchautorin schreibt an einem neuen Roman.
+[3c] die Bundeswehrzeit, -en | সেনাবাহিনীতে সময় - time in the armed forces | Er erzählt oft von seiner Bundeswehrzeit.
+[3c] einsetzen (sich) | নিজেকে নিয়োজিত করা - to support | Sie setzt sich sehr für den Umweltschutz ein.
+[3c] die Herausforderung, -en | চ্যালেঞ্জ - challenge | Die neue Arbeit ist eine große Herausforderung.
+[3c] die Lebenswende, -n | জীবনের পরিবর্তন - turning point (in life) | Eine Kündigung kann eine Lebenswende sein.
+[3c] der Mut (Sg.) | সাহস - courage | Mark möchte anderen Mut machen zu kämpfen.
+[3c] Namibia | নামিবিয়া - Namibia | Wir planen eine Reise nach Namibia.
+[3c] die Rückkehr (Sg.) | প্রত্যাবর্তন - return | Nach seiner Rückkehr feierten wir eine Party.
+[3c] sammeln | সংগ্রহ করা / অর্জন করা - to gain / collect | Er hat schon viel Erfahrung als Fotograf gesammelt.
+[3c] schließlich | অবশেষে - finally | Nach langem Warten kam schließlich der Bus.
+[3c] das Schutzprojekt, -e | সুরক্ষা প্রকল্প - protection project | Wir unterstützen ein Schutzprojekt für Tiere.
+[3c] die Sehnsucht, "-e | আকাঙ্ক্ষা / লালসা - longing / desire | Sie hat große Sehnsucht nach ihrer Heimat.
+[3c] verursachen | ঘটানো / কারণ হওয়া - to cause | Der starke Regen verursachte viele Unfälle.
+[3c] wesentlich | উল্লেখযোগ্য / বিশেষ - considerable | Es gibt wesentliche Unterschiede zwischen den Projekten.
+[3c] der Wildhüter, - | বন্যপ্রাণী রক্ষক (পু.) - gamekeeper (m) | Der Wildhüter beobachtet die Elefanten im Park.
+[3c] die Wildhüterin, -nen | বন্যপ্রাণী রক্ষক (মহিলা) - gamekeeper (f) | Als Wildhüterin schützt sie seltene Tiere.
+[3c] das Wildtier, -e | বন্যপ্রাণী - wild animal | Wir dürfen die Wildtiere im Wald nicht füttern.
+[3c] die Wildtierstation, -en | বন্যপ্রাণী পরিচর্যা কেন্দ্র - wild animal care facility | Verletzte Tiere werden in der Wildtierstation gepflegt.
+[3c] zufällig | হঠাৎ / দৈবক্রমে - coincidentally | Ich habe meine Freundin zufällig im Supermarkt getroffen.
+[3c] zweimonatig | দুই মাসব্যাপী - two month(ly) | Er hat ein zweimonatiges Praktikum in Berlin gemacht.
+[3c] abwärts | নিচের দিকে - downwards | Der Wanderweg führt steil abwärts ins Tal.
+[3c] der Bahnradfahrer, - | ট্রাক সাইকেল চালক (পু.) - track bicycle driver (m) | Der Bahnradfahrer trainiert täglich in der Halle.
+[3c] die Bahnradfahrerin, -nen | ট্রাক সাইকেল চালক (মহিলা) - track bicycle driver (f) | Sie ist eine sehr erfolgreiche Bahnradfahrerin.
+[3c] ehren | সম্মান করা - to honour | Die Stadt möchte den Helden für seinen Mut ehren.
+[3c] engagiert sein | নিয়োজিত থাকা - to be involved in | Er ist sehr engagiert in seinem Sportverein.
+[3c] ereignen (sich) | ঘটা - to happen | Das Unglück ereignete sich am späten Abend.
+[3c] -fach (zehnfach) | গুণ (দশ গুণ) - "-fold" (tenfold) | Die Kosten sind dieses Jahr zehnfach gestiegen.
+[3c] gelähmt | পঙ্গু / অবশ - paralyzed | Seit dem Unfall ist sie leider gelähmt.
+[3c] der Held, -en | নায়ক (পু.) - hero (m) | Der Feuerwehrmann ist ein echter Held.
+[3c] die Heldin, -nen | নায়িকা (মহিলা) - hero (f) | Die Heldin rettete das Kind aus dem Wasser.
+[3c] der Höhepunkt, -e | চরম সীমা / সর্বোচ্চ বিন্দু - peak / highlight | Das Feuerwerk war der Höhepunkt des Festes.
+[3c] kämpfen (für/gegen + A.) | লড়াই করা (পক্ষে/বিপক্ষে) - to fight | Wir müssen für unsere Rechte kämpfen.
+[3c] lokal | স্থানীয় - local | Sie gewann eine lokale Wahl in ihrer Stadt.
+[3c] mittlerweile | ইতিমধ্যে - meanwhile | Mittlerweile hat er Deutsch sehr gut gelernt.
+[3c] der Oberkörper, - | শরীরের উপরিভাগ - upper body | Sie trainiert ihren Oberkörper im Fitnessstudio.
+[3c] der Olympiasieger, - | অলিম্পিক বিজয়ী (পু.) - Olympic champion (m) | Der Olympiasieger erhielt eine Goldmedaille.
+[3c] die Olympiasiegerin, -nen | অলিম্পিক বিজয়ী (মহিলা) - Olympic champion (f) | Sie ist die neue Olympiasiegerin im Schwimmen.
+[3c] der Optimismus (Sg.) | আশাবাদ - optimism | Trotz der Probleme behält sie ihren Optimismus.
+[3c] politisch | রাজনৈতিক - political | Er ist politisch sehr aktiv im Stadtrat.
+[3c] die Powerfrau, -en | শক্তিশালী নারী - power woman | Meine Chefin ist eine echte Powerfrau.
+[3c] das Privatleben (Sg.) | ব্যক্তিগত জীবন - private life | Er trennt Arbeit und Privatleben sehr strikt.
+[3c] radikal | আমূল / চরম - radical | Ihr Leben hat sich von einem Tag auf den anderen radikal verändert.
+[3c] seitdem | তখন থেকে - since then | Sie hatte einen Unfall. Seitdem ist sie gelähmt.
+[3c] die Selbstständigkeit (Sg.) | স্বাধীনতা / স্বনির্ভরতা - independence | In der Selbstständigkeit arbeitet man oft mehr.
+[3c] der Stadtrat, "-e | নগর পরিষদ / কাউন্সিল - city council | Sie ist Mitglied im Stadtrat ihrer Heimatstadt.
+[3c] stürzen | পড়ে যাওয়া - to fall | Er stürzte beim Skifahren und verletzte sich.
+[3c] tätig sein | সক্রিয় থাকা / নিয়োজিত থাকা - to take an active part | Sie ist schon seit Jahren in der Politik tätig.
+[3c] unverändert | অপরিবর্তিত - unchanged | Die Situation blieb über Nacht unverändert.
+[3c] von ... auf | এক থেকে... অন্যতে - from one ... to the next | Ihr Leben änderte sich von einem Tag auf den anderen.
+[3c] die Wahl, -en | নির্বাচন - election | Nächsten Sonntag findet die Wahl statt.
+[3c] der Weltmeister, - | বিশ্ব চ্যাম্পিয়ন (পু.) - world champion (m) | Der Weltmeister verteidigte seinen Titel erfolgreich.
+[3c] die Weltmeisterin, -nen | বিশ্ব চ্যাম্পিয়ন (মহিলা) - world champion (f) | Sie ist die amtierende Weltmeisterin im Tennis.
+[3c] die Wirbelsäule, -n | মেরুদণ্ড - spine | Er hat Probleme mit seiner Wirbelsäule.
+[4b] literarisch | সাহিত্যিক - literary | Das Buch ist ein bedeutendes literarisches Werk.
+[4b] das Vergangene (Sg.) | অতীত - past | Man sollte nicht zu viel über das Vergangene nachdenken.
+[4b] die Vergangenheitsform, -en | অতীত কাল (ব্যাকরণ) - past tense | „Perfekt“ ist eine häufige Vergangenheitsform.
+[4b] der Zeitungsartikel, - | সংবাদপত্রের নিবন্ধ - newspaper article | Hast du den Zeitungsartikel über den Umweltschutz gelesen?
+[4d] begeistern | অনুপ্রাণিত করা - to delight, to inspire | Die Musik konnte das Publikum begeistern.
+[4d] historisch | ঐতিহাসিক - historical | Das Museum befindet sich in einem historischen Gebäude.
+[4d] das Stadtfest, -e | শহরের উৎসব - city festival | Das Stadtfest findet jedes Jahr im Sommer statt.
+[5a] erstellen | তৈরি করা / নির্মাণ করা - to create | Ich muss eine Liste der Teilnehmer erstellen.
+[5b] der/die Alte, -n | নিজেকে ফিরে পাওয়া (ব্যক্তি অর্থে) - oneself (to be oneself again) | Er möchte nach der Krise wieder der Alte sein.
+[5b] aufwachen | জেগে ওঠা - to wake up | Ich bin heute Morgen schon um sechs Uhr aufgewacht.
+[5b] außerhalb (+ G.) | বাইরে - outside | Wir wohnen etwas außerhalb der Stadt.
+[5b] frisch | নতুনভাবে (যেমন: নতুন প্রেমে পড়া) - here: new | Ich bin frisch verliebt.
+[5b] gemacht sein (für + A.) | কারো জন্য উপযুক্ত হওয়া - to be made for | Diese Kleidung scheint wie für mich gemacht zu sein.
+[5b] innerhalb (+ G.) | ভেতরে / মধ্যে - within | Bitte antworten Sie innerhalb einer Woche.
+[5b] liebevoll | প্রেমময় / স্নেহপূর্ণ - loving | Sie kümmert sich sehr liebevoll um ihre Eltern.
+[5b] der Nachtisch, -e | মিষ্টি খাবার (ডেজার্ট) - dessert | Was gibt es heute zum Nachtisch?
+[5b] schwach | দুর্বল - weak | Nach der Krankheit fühlte er sich noch sehr schwach.
+[5b] die Schwiegereltern (Pl.) | শ্বশুর-শাশুড়ি - parents-in-law | Am Wochenende besuchen wir meine Schwiegereltern.
+[5b] der Sonnabend, -e | শনিবার - Saturday | Wir treffen uns am nächsten Sonnabend.
+[5b] verlieben (sich) (in + A.) | প্রেমে পড়া - to fall in love | Er hat sich in seine Kollegin verliebt.
+[5b] verschwinden | অদৃশ্য হওয়া - to disappear | Der Zauberer ließ den Hasen verschwinden.
+[5b] während (+ G.) | চলাকালীন / সময়ে - during | Während der Arbeit lachen wir oft gemeinsam.
+[5e] der Regentag, -e | বৃষ্টির দিন - rainy day | An einem Regentag bleibe ich am liebsten zu Hause.
+[6a] jetzig | বর্তমান - current | Mein jetziger Wohnort ist Berlin.
+[6a] das Klinikum, Kliniken | ক্লিনিক / হাসপাতাল - clinic / hospital | Er arbeitet als Arzt im städtischen Klinikum.
+[6b] die Krise, -n | সংকট - crisis (situation) | In einer Krise muss man zusammenhalten.
+[6b] lieb haben | ভালোবাসা - to love | Ich habe meine Geschwister sehr lieb.
+[6b] das Verhältnis, -se | সম্পর্ক - relationship | Er hat ein sehr gutes Verhältnis zu seinem Chef.
+[6b] die Zuneigung (Sg.) | অনুরাগ / স্নেহ - affection | Sie zeigt ihre Zuneigung durch kleine Geschenke.
+[6c ÜB] die Botschaft, -en | দূতাবাস - embassy | Er braucht ein Visum von der Botschaft.
+[6c ÜB] das Konsulat, -e | কনসুলেট - consulate | Das Konsulat hilft bei Passangelegenheiten.
+[6c ÜB] der Reisepass, "-e | পাসপোর্ট - passport | Bitte zeigen Sie Ihren Reisepass bei der Kontrolle.
+[6c ÜB] überqueren | অতিক্রম করা / পার হওয়া - to cross | Wir müssen die Grenze überqueren.
+[6c ÜB] der Zoll, "-e | শুল্ক - customs | Man muss die Waren beim Zoll anmelden.
+[6d] aufgeben | ত্যাগ করা / হাল ছেড়ে দেওয়া - here: to forsake | Man darf seine Träume niemals aufgeben.
+[6d] die Liebesgeschichte, -n | প্রেমের গল্প - love story | Das Buch erzählt eine traurige Liebesgeschichte.
+[6d] niemals | কখনো না - never | Ich werde niemals aufgeben.
+[6d] wegziehen | দূরে চলে যাওয়া (বাসস্থান পরিবর্তন) - to move away | Meine Nachbarn sind letzte Woche nach Berlin weggezogen.
+[8a] der/die Büroangestellte, -n | অফিসের কর্মচারী - office worker | Als Büroangestellte arbeitet sie viel am Computer.
+[8b] das Camping (Sg.) | ক্যাম্পিং করা - camping | Camping im Wald macht viel Spaß.
+[8b] die Espresso-Kanne, -n | কফি তৈরির পাত্র - Italian coffee pot | Er kocht den Kaffee mit einer Espresso-Kanne.
+[9a] der Aspekt, -e | দিক / বিষয় - aspect | Das ist ein wichtiger Aspekt der Veränderung.
+[9a] der Blogeintrag, "-e | ব্লগ পোস্ট - blog post | Ich schreibe gerade einen neuen Blogeintrag.
+[9a] das Fach, "-er | বিভাগ / কুঠুরি - compartment | Meine Tasche hat viele kleine Fächer.
+[9a] gucken | তাকানো / দেখা - to look | Guck mal, dort drüben ist ein Regenbogen!
+[9a] jahrelang | বছরের পর বছর ধরে - for years | Er hat jahrelang in diesem Betrieb gearbeitet.
+[9a] der Lehrling, -e | শিক্ষানবিশ - apprentice | Der Lehrling lernt viel vom Meister.
+[9a] die Mark | জার্মান মার্ক (পুরানো মুদ্রা) - German Mark | Vor dem Euro bezahlte man mit der Mark.
+[9a] der Pfennig, -e | পেনি (পুরানো ক্ষুদ্র মুদ্রা) - penny | Einhundert Pfennig ergaben eine Mark.
+[9a] relativ | আপেক্ষিক - relative | Die Prüfung war relativ einfach.
+[9b] veröffentlichen | প্রকাশ করা - to release / to publish | Der Autor wird bald sein neues Buch veröffentlichen.
+[9b] der Baustein, -e | নির্মাণ উপাদান - building block | Vitamine sind wichtige Bausteine für den Körper.
+[9b] das Muster, - | ধরণ / প্যাটার্ন - pattern | Das Hemd hat ein interessantes Muster.
+[9b] die Struktur, -en | কাঠামো - structure | Wir müssen die Struktur des Textes analysieren.
+[9b] die Tempusform, -en | কালের রূপ - tense (form) | „Präteritum“ ist eine häufige Tempusform.
+[9c] aussuchen | পছন্দ করা / নির্বাচন করা - to choose | Du darfst dir im Laden ein Geschenk aussuchen.
+[9c] nachher | পরে - afterwards | Erst essen wir, nachher gehen wir spazieren.
+[10a] begrüßen | অভিবাদন জানানো - to greet | Er begrüßt seine Gäste an der Tür.
+[10a] das Benehmen (Sg.) | আচরণ - behaviour | Gutes Benehmen ist in der Schule wichtig.
+[10b] anwesend | উপস্থিত - present | Alle Kursteilnehmer sind heute anwesend.
+[10b] aufhalten | ধরে রাখা (অন্যের জন্য) - to hold open | Könnten Sie mir bitte kurz die Tür aufhalten?
+[10b] die Begrüßung, -en | অভিবাদন - greeting | Zur Begrüßung geben sie sich die Hand.
+[10b] das Benimmbuch, "-er | শিষ্টাচারের বই - book of etiquette | Im Benimmbuch stehen Regeln für Höflichkeit.
+[10b] die Beziehung, -en | সম্পর্ক - relationship | Sie führen eine sehr glückliche Beziehung.
+[10b] beziehungsweise (bzw.) | অথবা / নির্দিষ্ট করে বললে - or (rather) | Wir kommen am Montag bzw. Dienstag.
+[10b] duzen | তুমি বলে সম্বোধন করা - to address as "du" | In der Firma duzen sich alle Kollegen.
+[10b] der Gastgeber, - | মেজবান (পু.) - host (m) | Der Gastgeber bietet den Gästen Getränke an.
+[10b] die Gastgeberin, -nen | মেজবান (মহিলা) - host (f) | Unsere Gastgeberin war sehr freundlich.
+[10b] die Geschäftsfrau, -en | ব্যবসায়ী নারী - businesswoman | Sie ist eine erfolgreiche Geschäftsfrau.
+[10b] der Geschäftsmann, "-er | ব্যবসায়ী পুরুষ - businessman | Er ist als Geschäftsmann viel unterwegs.
+[10b] die Gewohnheit, -en | অভ্যাস - habit | Es ist eine Gewohnheit von mir, früh aufzustehen.
+[10b] hierarchisch | স্তরবিন্যাসিত - hierarchical | Die Strukturen in der Armee sind hierarchisch.
+[10b] ignorieren | উপেক্ষা করা - to ignore | Er ignoriert meine Fragen einfach.
+[10b] klagen | বিলাপ করা / অভিযোগ করা - to lament | Er klagt oft über das schlechte Wetter.
+[10b] der Kuss, "-e | চুম্বন - kiss | Sie gab ihm einen Kuss auf die Wange.
+[10b] der Lift, -e | লিফট - elevator | Wir fahren mit dem Lift in den dritten Stock.
+[10b] niesen | হাঁচি দেওয়া - to sneeze | Wenn man niest, sagt man „Gesundheit“.
+[10b] das Personal (Sg.) | কর্মীদল / স্টাফ - staff | Das Personal im Hotel ist sehr hilfsbereit.
+[10b] die Reihe, -n | সারি (পর্যায়ক্রমে) - here: turn (in turn) | Bitte warten Sie, bis Sie an der Reihe sind.
+[10b] siezen | আপনি বলে সম্বোধন করা - to address as "Sie" | In formellen Gesprächen sollte man siezen.
+[10b] theoretisch | তাত্ত্বিক - theoretical | Theoretisch ist das möglich, aber schwierig.
+[10b] üblich | সাধারণ / সচরাচর - usual | In diesem Land ist Pünktlichkeit üblich.
+[10b] umarmen | আলিঙ্গন করা - to hug | Sie umarmen sich zur Begrüßung.
+[10b] umgekehrt | উল্টো / বিপরীতভাবে - the other way around | Er dachte, es sei Montag, aber es war umgekehrt.
+[10b] unsicher | অনিশ্চিত - insecure | Er fühlt sich in der neuen Umgebung unsicher.
+[10b] unter (+ D.) | মধ্যে (ছাত্রদের মধ্যে) - among | Unter Studierenden ist das Duzen normal.
+[10b] verhalten (sich) | আচরণ করা - to behave | Er verhält sich in der Gruppe sehr höflich.
+[10b] verkehrt | ভুল - here: wrong | Das ist leider die verkehrte Antwort.
+[10b] vertraut | পরিচিত / ঘনিষ্ঠ - familiar | Die Stimme am Telefon klang sehr vertraut.
+[10b] der/die Vorgesetzte, -n | উচ্চপদস্থ কর্মকর্তা / বস - superiors | Ich muss meinen Vorgesetzten um Hilfe bitten.
+[10b] die Wange, -n | গাল - cheek | Das Kind hat rote Wangen vor Kälte.
+[k&k] die Vokaländerung, -en | স্বরবর্ণের পরিবর্তন - vowel change | Manche Verben haben eine Vokaländerung.
+
+--------------------------------------------------------------------
+KAPITEL 4 (অধ্যায় ৪)
+--------------------------------------------------------------------
+[1b] austragen | বিতরণ করা (যেমন: চিঠি) - to deliver (e.g. post) | Er trägt jeden Morgen die Post aus.
+[1b] der Briefträger, - | পিয়ন (পুরুষ) - postal carrier (m) | Der Briefträger bringt heute viele Pakete.
+[1b] die Briefträgerin, -nen | পিয়ন (মহিলা) - postal carrier (f) | Unsere Briefträgerin ist immer sehr freundlich.
+[1b] der Chemiker, - | রসায়নবিদ (পুরুষ) - chemist (m) | Der Chemiker arbeitet an einer neuen Formel.
+[1b] die Chemikerin, -nen | রসায়নবিদ (মহিলা) - chemist (f) | Als Chemikerin forscht sie im Labor.
+[1b] die Elektronik (Sg.) | ইলেকট্রনিক্স - electronics | In diesem Laden gibt es moderne Elektronik.
+[1b] exakt | সঠিক / নিখুঁত - exact | Bitte geben Sie mir eine exakte Antwort.
+[1b] geregelt | নির্ধারিত / নির্দিষ্ট - fixed | Er hat geregelte Arbeitszeiten von 9 bis 17 Uhr.
+[1b] der Mechatroniker, - | মেকাট্রনিক্স ইঞ্জিনিয়ার (পু.) - mechanical electronics engineer (m) | Der Mechatroniker repariert die Anlage.
+[1b] die Mechatronikerin, -nen | মেকাট্রনিক্স ইঞ্জিনিয়ার (মহি.) - mechanical electronics engineer (f) | Sie macht eine Ausbildung zur Mechatronikerin.
+[1b] das Metall, -e | ধাতু - metal | Gold ist ein sehr wertvolles Metall.
+[1b] zustellen | বিলি করা / পৌঁছে দেওয়া - to deliver | Das Paket wurde heute zugestellt.
+[1c] ursprünglich | মূলত / আদি - originally | Ursprünglich komme ich aus einer kleinen Stadt.
+[1a ÜB] die Akte, -n | নথি / ফাইল - file | Der Anwalt liest die Akte sehr genau.
+[1a ÜB] anbauen | চাষ করা / সংযুক্ত করা - to cultivate / to attach | Wir bauen in unserem Garten Gemüse an.
+[1a ÜB] der/die Angeklagte, -n | আসামি / অভিযুক্ত - defendant | Der Angeklagte wartet auf das Urteil.
+[1a ÜB] die Anlage, -n | সংযুক্তি / সুবিধা - attachment / facility | Die neue Industrieanlage ist sehr groß.
+[1a ÜB] beschäftigen (sich) (mit + D.) | নিজেকে ব্যস্ত রাখা - to occupy oneself with | Er beschäftigt sich viel mit seinem Hobby.
+[1a ÜB] das Einkommen, - | আয় - income | Er hat ein monatliches Einkommen von 3000 Euro.
+[1a ÜB] der Elektroingenieur, -e | ইলেকট্রিক্যাল ইঞ্জিনিয়ার (পু.) - electrical engineer (m) | Der Elektroingenieur plant das Stromnetz.
+[1a ÜB] die Elektroingenieurin, -nen | ইলেকট্রিক্যাল ইঞ্জিনিয়ার (মহি.) - electrical engineer (f) | Sie arbeitet als Elektroingenieurin in München.
+[1a ÜB] fair | ন্যায্য / নিরপেক্ষ - fair | Eine faire Bezahlung ist für alle wichtig.
+[1a ÜB] der Fernsehsender, - | টিভি চ্যানেল - TV channel | Welcher Fernsehsender zeigt den Film?
+[1a ÜB] gerecht | ন্যায়সংগত - fair | Das Urteil des Richters war absolut gerecht.
+[1a ÜB] das Gericht, -e | আদালত - court (of law) | Ich bin Anwalt und oft am Gericht.
+[1a ÜB] die Gerichtsverhandlung, -en | আদালতের শুনানি - trial | Die Gerichtsverhandlung beginnt morgen früh.
+[1a ÜB] herstellen | তৈরি করা - to create | Die Firma stellt Autoteile her.
+[1a ÜB] die Industrie, -n | শিল্প - industry | Die Automobilindustrie ist sehr wichtig in Deutschland.
+[1a ÜB] die Landwirtschaft (Sg.) | কৃষি - agriculture | Viele Menschen arbeiten in der Landwirtschaft.
+[1a ÜB] die Menschenkenntnis (Sg.) | মানুষ চেনার ক্ষমতা - knowledge of people | In diesem Beruf braucht man gute Menschenkenntnis.
+[1a ÜB] die Öffentlichkeit (Sg.) | জনসাধারণ / পাবলিক - public | Er spricht nicht gerne in der Öffentlichkeit.
+[1a ÜB] die Partei, -en | রাজনৈতিক দল - political party | Welcher Partei gehört der Politiker an?
+[1a ÜB] der Rechtsanwalt, "-e | আইনজীবী (পুরুষ) - lawyer (m) | Der Rechtsanwalt berät seinen Klienten.
+[1a ÜB] die Rechtsanwältin, -nen | আইনজীবী (মহিলা) - lawyer (f) | Die Rechtsanwältin vertritt ihn vor Gericht.
+[1a ÜB] die Reportage, -n | প্রতিবেদন / রিপোর্ট - report | Ich habe eine interessante Reportage gesehen.
+[1a ÜB] der Reporter, - | সংবাদকর্মী (পুরুষ) - reporter (m) | Der Reporter berichtet direkt vom Ort des Geschehens.
+[1a ÜB] die Reporterin, -nen | সংবাদকর্মী (মহিলা) - reporter (f) | Die Reporterin stellt viele kritische Fragen.
+[1a ÜB] der Richter, - | বিচারক (পুরুষ) - judge (m) | Der Richter verkündet das Urteil.
+[1a ÜB] die Richterin, -nen | বিচারক (মহিলা) - judge (f) | Die Richterin leitete die Verhandlung.
+[1a ÜB] der Schreiner, - | কাঠমিস্ত্রি (পুরুষ) - carpenter (m) | Der Schreiner baut einen neuen Schrank.
+[1a ÜB] die Schreinerin, -nen | কাঠমিস্ত্রি (মহিলা) - carpenter (f) | Als Schreinerin arbeitet sie gerne mit Holz.
+[1a ÜB] der Spezialist, -en | বিশেষজ্ঞ (পুরুষ) - specialist (m) | Wir brauchen einen Spezialisten für dieses Problem.
+[1a ÜB] die Spezialistin, -nen | বিশেষজ্ঞ (মহিলা) - specialist (f) | Sie ist Spezialistin für Herzchirurgie.
+[1a ÜB] das Urteil, -e | রায় / বিচার - verdict | Das Urteil wird heute Nachmittag erwartet.
+[1a ÜB] das Verbrechen, - | অপরাধ - crime | Die Polizei konnte das Verbrechen aufklären.
+[1c] der Augenblick, -e | মুহূর্ত - moment | Einen Augenblick bitte, ich bin gleich da.
+[1c] daran | এই বিষয়ে - about that | Ich habe nicht mehr daran gedacht.
+[1c] die Entwicklung, -en | উন্নয়ন / বিকাশ - development | Die Entwicklung der neuen App dauert lange.
+[1c] ernst nehmen | গুরুত্ব সহকারে নেওয়া - to take sth seriously | Du musst diese Warnung ernst nehmen.
+[3] aushalten | সহ্য করা - to cope (with) | Die Hitze ist heute kaum auszuhalten.
+[3] der Wunschberuf, -e | স্বপ্নের পেশা - dream job | Mein Wunschberuf war schon immer Pilot.
+[4d] die Konjunktivform, -en | যোজক রূপ (ব্যাকরণ) - subjunctive form | Wir lernen heute die Konjunktivform von „haben“.
+[5a] der Bedingungssatz, "-e | শর্তসাপেক্ষ বাক্য - conditional clause | Ein Bedingungssatz beginnt oft mit „wenn“.
+[5a] freinehmen | ছুটি নেওয়া - to take time off | Ich möchte mir nächsten Freitag freinehmen.
+[5a] irreal | অবাস্তব - surreal | Seine Vorstellung vom Leben ist völlig irreal.
+[6a ÜB] das Besteck, -e | চামচ-কাঁটা-ছুরি সেট - cutlery | Bitte legen Sie das Besteck auf den Tisch.
+[6a ÜB] die Bürste, -n | ব্রাশ - brush | Ich brauche eine neue Bürste für meine Haare.
+[6a ÜB] färben | রঙ করা - to colour | Sie möchte sich die Haare rot färben.
+[6a ÜB] föhnen | চুল শুকানো - to dry one's hair | Nach dem Waschen muss ich meine Haare föhnen.
+[6a ÜB] die Gaststätte, -n | রেস্তোরাঁ / পান্থনিবাস - restaurant | In dieser Gaststätte kann man gut essen.
+[6a ÜB] der Hammer, - | হাতুড়ি - hammer | Er schlägt den Nagel mit dem Hammer ein.
+[6a ÜB] der Imbiss, -e | হালকা খাবারের দোকান - takeaway | Wir holen uns schnell einen Snack am Imbiss.
+[6a ÜB] der Kamm, "-e | চিরুনি - comb | Er benutzt einen Kamm, um seine Haare zu richten.
+[6a ÜB] der Karton, -s | শক্ত কাগজের বাক্স - carton | Die Bücher liegen alle in einem großen Karton.
+[6a ÜB] der Rechner, - | ক্যালকুলেটর - calculator | Benutzen Sie für die Aufgabe einen Rechner.
+[6a ÜB] die Schere, -n | কাঁচি - scissors | Mit dieser Schere kann man Papier schneiden.
+[6a ÜB] der Umschlag, "-e | খাম - envelope | Ich lege den Brief in den Umschlag.
+[6c] irren (sich) | ভুল করা - to be wrong / to confuse | Entschuldigung, ich habe mich in der Tür geirrt.
+[6c] schütten | ঢেলে দেওয়া - to spill / to pour | Er hat aus Versehen Kaffee über das Hemd geschüttet.
+[6c] das Versehen, - | অনিচ্ছাকৃত ভুল - accident | Das war ein Versehen, es tut mir leid.
+[6c] verwechseln | গুলিয়ে ফেলা - to confuse | Ich habe die beiden Taschen verwechselt.
+[6c] zusammensitzen | একসাথে বসা - to sit with | Gestern Abend haben wir gemütlich zusammengesessen.
+[6d] die Absicht, -en | উদ্দেশ্য / ইচ্ছা - intention | Es war nicht meine Absicht, dich zu verletzen.
+[6d] schrecklich | ভয়ানক / ভয়াবহ - terrible | Das Wetter am Wochenende war einfach schrecklich.
+[6d] verzeihen | ক্ষমা করা - to forgive | Bitte verzeihen Sie mir meine Verspätung.
+[6e] kürzlich | সম্প্রতি - shortly | Ich habe ihn erst kürzlich in der Stadt getroffen.
+[7a] unfreundlich | অমায়িক নয় এমন / রুক্ষ - unfriendly | Der Verkäufer war heute leider sehr unfreundlich.
+[7a] die Variante, -n | বিকল্প সংস্করণ - variant | Es gibt verschiedene Varianten von diesem Spiel.
+[8b] abschreiben | নকল করা / কপি করা - to copy | Er hat die Hausaufgaben von seinem Freund abgeschrieben.
+[8b] der Anhang, "-e | সংযুক্তি - appendix / attachment | Weitere Informationen finden Sie im Anhang der E-Mail.
+[8b] ankommen (auf + A.) | নির্ভর করা - to depend on | Es kommt auf das Wetter an, ob wir wandern gehen.
+[8b] aussagekräftig | অর্থবহ / জোরালো - meaningful | Ihre Bewerbung muss aussagekräftig sein.
+[8b] die Bescheinigung, -en | শংসাপত্র - certificate | Der Arzt gab mir eine Bescheinigung für die Arbeit.
+[8b] das Bewerbungsfoto, -s | আবেদনের ছবি - application photo | Für den Lebenslauf brauche ich ein neues Bewerbungsfoto.
+[8b] das Bewerbungsportal, -e | আবেদন পোর্টাল - application website | Sie müssen Ihre Unterlagen im Bewerbungsportal hochladen.
+[8b] das Bewerbungsschreiben, - | আবেদনের কভার লেটার - cover letter | Das Bewerbungsschreiben sollte fehlerfrei sein.
+[8b] das Bewerbungstraining, -s | চাকরি আবেদনের প্রশিক্ষণ - job application training | Er nimmt an einem Bewerbungstraining teil.
+[8b] der Download, -s | ডাউনলোড - download | Der Download der Datei hat nur kurz gedauert.
+[8b] eignen (sich) (für + A.) | উপযুক্ত হওয়া - to be suitable for | Dieses Buch eignet sich gut als Geschenk.
+[8b] enthalten | ধারণ করা / থাকা - to contain | Obst enthält viele wichtige Vitamine.
+[8b] erkundigen (sich) (nach + D.) | অনুসন্ধান করা - to inquire | Ich möchte mich nach dem Stand meiner Bewerbung erkundigen.
+[8b] die Fortbildung, -en | উচ্চতর প্রশিক্ষণ - further training | Er nimmt an einer Fortbildung für Computersysteme teil.
+[8b] frühere | পূর্ববর্তী - previous | In meiner früheren Firma habe ich viel gelernt.
+[8b] die Geduld (Sg.) | ধৈর্য - patience | Bei der Jobsuche braucht man viel Geduld.
+[8b] die Institution, -en | প্রতিষ্ঠান - institution | Diese Institution unterstützt Menschen bei der Arbeitssuche.
+[8b] jedoch | তবে / তথাপি - however | Er hat viel Erfahrung, jedoch fehlt ihm das Zertifikat.
+[8b] die Jobsuche, -n | চাকরি খোঁজা - job search | Die Jobsuche kann manchmal Monate dauern.
+[8b] der Lebenslauf, "-e | জীবনবৃত্তান্ত - resume / CV | Bitte senden Sie uns Ihren aktuellen Lebenslauf.
+[8b] mitschicken | সাথে পাঠানো - to send along | Vergessen Sie nicht, Ihre Zeugnisse mitzuschicken.
+[8b] das PDF-Dokument, -e | পিডিএফ ডকুমেন্ট - PDF document | Bitte speichern Sie Ihre Bewerbung als PDF-Dokument.
+[8b] die Personalabteilung, -en | মানবসম্পদ বিভাগ (HR) - human resources (HR) | Die Personalabteilung prüft Ihre Unterlagen.
+[8b] der Personalchef, -s | মানবসম্পদ প্রধান (পু.) - HR director (m) | Der Personalchef lädt Sie zum Gespräch ein.
+[8b] die Personalchefin, -nen | মানবসম্পদ প্রধান (মহিলা) - HR director (f) | Die Personalchefin entscheidet über die Einstellung.
+[8b] die Personalien (Pl.) | ব্যক্তিগত তথ্য - personal data | Wir müssen zuerst Ihre Personalien aufnehmen.
+[8b] der Profi, -s | পেশাদার - professional | Er arbeitet wie ein echter Profi.
+[8b] der Ratgeber, - | পরামর্শক / নির্দেশিকা - advisor / guidebook | Dieser Ratgeber gibt Tipps für das Vorstellungsgespräch.
+[8b] relevant | প্রাসঙ্গিক - relevant | Erwähnen Sie nur relevante Erfahrungen.
+[8b] sämtlich | সমস্ত / সব - all | Er hat sämtliche Dokumente bereits hochgeladen.
+[8b] selbstverständlich | অবশ্যই / স্বাভাবিকভাবে - of course | Selbstverständlich helfen wir Ihnen bei Fragen.
+[8b] seriös | নির্ভরযোগ্য / সম্মানীয় - respectable / serious | Die Firma macht einen sehr seriösen Eindruck.
+[8b] der Stand (Sg.) | অবস্থা / পর্যায় - status | Der Chef fragt nach dem Stand der Dinge im Projekt.
+[8b] die Voraussetzung, -en | পূর্বশর্ত - prerequisite / condition | Fließendes Deutsch ist eine Voraussetzung für den Job.
+[8b] die Vorlage, -n | নমুনা / টেমপ্লেট - guideline / template | Er nutzt eine Vorlage für seinen Lebenslauf.
+[8b] zukünftig | ভবিষ্যৎ - future | Wer ist Ihr zukünftiger Arbeitgeber?
+[8b] der Zweck, -e | উদ্দেশ্য - purpose | Was ist der Zweck Ihrer Anfrage?
+[9b] darüber | এই সম্পর্কে - about that | Wir haben schon oft darüber gesprochen.
+[9b] das Pronominaladverb, -ien | সর্বনামীয় ক্রিয়াবিশেষণ - pronominal adverb | „Dafür“ und „darüber“ sind Pronominaladverbien.
+[9c] befriedigend | সন্তোষজনক - satisfying | Das Ergebnis der Prüfung ist befriedigend.
+[9c] beziehen (sich) (auf + A.) | সূত্র উল্লেখ করা - to refer to | Ich beziehe mich auf Ihre Anzeige vom Sonntag.
+[9c] danach | এর পরে - after that | Erst suchen wir, danach entscheiden wir uns.
+[10a] der Arbeitnehmer, - | কর্মচারী (পুরুষ) - worker / employee (m) | Viele Arbeitnehmer arbeiten im Homeoffice.
+[10a] die Arbeitnehmerin, -nen | কর্মচারী (মহিলা) - worker / employee (f) | Die Arbeitnehmerin hat einen neuen Vertrag.
+[10a] der Eindruck, "-e | প্রভাব / ছাপ - impression | Machen Sie einen guten Eindruck auf den Arbeitgeber.
+[10a] klein machen | নিজেকে তুচ্ছ করা - to belittle oneself | Man sollte sich im Gespräch nicht kleinmachen.
+[10a] überzeugen (von + D.) | বিশ্বাস করানো / প্ররোচিত করা - to convince | Er konnte den Chef von seinem Talent überzeugen.
+[10c] qualifiziert | যোগ্য / দক্ষ - qualified | Wir suchen qualifizierte Mitarbeiter für unser Team.
+[12a] die Absprache, -n | চুক্তি / সমঝোতা - agreement | Das wurde in der letzten Absprache so festgelegt.
+[12a] gesucht | খোঁজা হচ্ছে - wanted | Erfahrene Köche werden dringend gesucht.
+[12a] das Inserat, -e | বিজ্ঞাপন - advertisement / insert | Ich habe Ihr Inserat in der Zeitung gelesen.
+[12a] kommunikativ | আলাপচারী / যোগাযোগপ্রিয় - communicative | Für den Verkauf muss man kommunikativ sein.
+[12a] der Nachtportier, -s/-e | রাতের দারোয়ান - night porter (m) | Der Nachtportier arbeitet von 22 bis 6 Uhr.
+[12a] der Stundenlohn, "-e | ঘণ্টায় মজুরি - hourly wage | Wie hoch ist der aktuelle Stundenlohn?
+[12a] der Teilzeitjob, -s | খণ্ডকালীন চাকরি - part-time job | Sie sucht einen Teilzeitjob für 20 Stunden pro Woche.
+[12a] das Vergnügen, - | আনন্দ - enjoyment / delight | Es ist mir ein großes Vergnügen, Sie kennenzulernen.
+[12a] die Zeiteinteilung, -en | সময় ব্যবস্থাপনা - time management | Eine gute Zeiteinteilung hilft gegen Stress.
+[12b] der Bereich, -e | এলাকা / ক্ষেত্র - area / field | Er arbeitet im Bereich Marketing.
+[12b] die Bewerbungsunterlagen (Pl.) | আবেদনের নথিপত্র - application documents | Senden Sie bitte alle Bewerbungsunterlagen per E-Mail.
+[12b] der Interessent, -en | আগ্রহী ব্যক্তি (পু.) - interested party (m) | Es gibt viele Interessenten für die freie Stelle.
+[12b] die Interessentin, -nen | আগ্রহী ব্যক্তি (মহিলা) - interested party (f) | Die Interessentin möchte mehr über den Job erfahren.
+[12b] vorbeikommen | দেখা করতে আসা - to come over in person | Du kannst heute Abend gerne bei mir vorbeikommen.
+[13b] absolut | পুরোপুরি / একদম - absolutely | Das ist absolut richtig.
+[13b] aggressiv | আক্রমণাত্মক - aggressive | Er verhält sich manchmal etwas aggressiv.
+[13b] die Anfahrt, -en | যাতায়াত পথ / যাত্রা - journey | Die Anfahrt zum Vorstellungsgespräch war lang.
+[13b] die Aufmerksamkeit (Sg.) | মনোযোগ - attention | Vielen Dank für Ihre Aufmerksamkeit.
+[13b] die Aufregung (Sg.) | উত্তেজনা / উৎকণ্ঠা - excitement | Vor dem Gespräch war die Aufregung groß.
+[13b] der Auftritt, -e | উপস্থিতি / পারফরম্যান্স - appearance | Sein Auftritt war sehr professionell.
+[13b] die Beurteilung, -en | মূল্যায়ন - assessment | Die Beurteilung des Chefs war positiv.
+[13b] der Bewerber, - | আবেদনকারী (পু.) - applicant (m) | Der Bewerber wartet im Flur.
+[13b] die Bewerberin, -nen | আবেদনকারী (মহিলা) - applicant (f) | Die Bewerberin hat gute Qualifikationen.
+[13b] die Branche, -n | ব্যবসায়িক ক্ষেত্র - field of business | Er arbeitet in der IT-Branche.
+[13b] die Einstellung, -en | মনোভাব / দৃষ্টিভঙ্গি - approach / attitude | Er hat eine positive Einstellung zur Arbeit.
+[13b] entspannt | শিথিল / শান্ত - relaxed | Er wirkte im Gespräch sehr entspannt.
+[13b] die Fähigkeit, -en | ক্ষমতা / দক্ষতা - ability | Sie hat die Fähigkeit, Probleme schnell zu lösen.
+[13b] der Faktor, Faktoren | উপাদান / কারণ - factor | Pünktlichkeit ist ein wichtiger Faktor.
+[13b] gesamt | সম্পূর্ণ / পুরো - whole | Das gesamte Team war anwesend.
+[13b] heraussuchen | খুঁজে বের করা - to look up / pick out | Er sucht die passenden Unterlagen heraus.
+[13b] konservativ | রক্ষণশীল - conservative | Die Firma hat eine konservative Kleiderordnung.
+[13b] die Körperhaltung, -en | অঙ্গভঙ্গি / শারীরিক গঠন - posture | Achten Sie auf eine gerade Körperhaltung.
+[13b] die Körpersprache (Sg.) | শরীরের ভাষা - body language | Seine Körpersprache wirkte unsicher.
+[13b] lauter | প্রচুর / শুধু (উত্তেজনার কারণে) - all / because of | Vor lauter Aufregung hat er seinen Namen vergessen.
+[13b] locker | স্বাভাবিক / ঢিলেঢালা - casual | Das Gespräch war sehr locker und freundlich.
+[13b] menschlich | মানবিক - human | Er ist nicht nur ein guter Chef, sondern auch menschlich.
+[13b] möglichst | যতটা সম্ভব - possible | Kommen Sie bitte möglichst pünktlich.
+[13b] offen | খোলাখুলি / আন্তরিক - open | Wir suchen offene und engagierte Mitarbeiter.
+[13b] optimistisch | আশাবাদী - optimistic | Er blickt optimistisch in die Zukunft.
+[13b] das Outfit, -s | পোশাক-আশাক - outfit | Ihr Outfit war für das Büro passend.
+[13b] die Persönlichkeit, -en | ব্যক্তিত্ব - personality | Er hat eine starke Persönlichkeit.
+[13b] die Planung, -en | পরিকল্পনা - plan | Die Planung für das Projekt steht fest.
+[13b] ruhig | শান্ত / দ্বিধাহীনভাবে - calm / (Ask) calmly | Sagen Sie ruhig, wenn Sie etwas nicht verstehen.
+[13b] signalisieren | সংকেত দেওয়া / বোঝানো - to signal | Er signalisierte sein Interesse an der Stelle.
+[13b] steif | অনমনীয় / আড়ষ্ট - stiff | Zu Beginn des Gesprächs wirkte er etwas steif.
+[13b] stellen | সেট করা (অ্যালার্ম ঘড়ি) - to set (the alarm clock) | Er muss den Wecker auf sechs Uhr stellen.
+[13b] der Unternehmer, - | উদ্যোক্তা (পুরুষ) - business man | Der Unternehmer gründete eine neue Firma.
+[13b] die Unternehmerin, -nen | উদ্যোক্তা (মহিলা) - business woman | Sie ist eine erfolgreiche Unternehmerin.
+[13b] die Verbindung, -en | সংযোগ - connection | Gibt es eine direkte Verbindung zum Bahnhof?
+[13b] vorziehen | অধিকতর পছন্দ করা - to prefer | Ich ziehe den Tee dem Kaffee vor.
+[13b] der Wecker, - | অ্যালার্ম ঘড়ি - alarm clock | Der Wecker klingelt jeden Morgen.
+[13b] zählen (zu + D.) | গণ্য হওয়া / বিবেচনা করা - to count | Pünktlichkeit zählt zu den wichtigsten Eigenschaften.
+[13b] zahlreich | অসংখ্য - numerous | Es gibt zahlreiche Möglichkeiten für Bewerbungen.
+[13b] zornig | রাগান্বিত - furious | Er war zornig über den Fehler.
+[13b] zusammenstellen | সংগ্রহ করা / জড়ো করা - to collect | Wir müssen eine Liste mit allen Namen zusammenstellen.
+[13b] der Zweifel, - | সন্দেহ - doubt | Er hat keine Zweifel an seiner Entscheidung.
+[13c] inhaltlich | বিষয়বস্তু সংক্রান্ত - relevant / content-related | Die Präsentation war inhaltlich sehr gut.
+[13d] speziell | বিশেষ / বিশেষভাবে - specifically | Dieses Angebot ist speziell für Studierende.
+
+--------------------------------------------------------------------
+KAPITEL 5 (অধ্যায় ৫)
+--------------------------------------------------------------------
+[1a] der Abfall, "-e | বর্জ্য / আবর্জনা - waste | Wir müssen die Menge an Abfall reduzieren.
+[1a] der Autofahrer, - | গাড়ি চালক (পু.) - driver (m) | Der Autofahrer wartet an der Ampel.
+[1a] die Autofahrerin, -nen | গাড়ি চালক (মহিলা) - driver (f) | Die Autofahrerin achtet auf die Radfahrer.
+[1a] Bio- (Bio-Produkte) | জৈব - organic | Bio-Produkte sind gut für die Umwelt.
+[1a] digital | ডিজিটাল - digital | Wir leben in einer digitalen Welt.
+[1a] der Durchschnitt (Sg.) | গড় - average | Der Durchschnitt liegt bei zwei Prozent.
+[1a] europäisch | ইউরোপীয় - European | Das ist ein europäisches Projekt.
+[1a] der Fleischkonsum (Sg.) | মাংসের ব্যবহার - meat consumption | Der Fleischkonsum sinkt in vielen Ländern.
+[1a] das Huhn, "-er | মুরগি - chicken | Das Huhn legt jeden Tag ein Ei.
+[1a] der Marktanteil, -e | বাজারের অংশ - market share | Die Firma möchte ihren Marktanteil erhöhen.
+[1a] mitrechnen | অন্তর্ভুক্ত করা - to include | Wenn wir die Kosten mitrechnen, wird es teurer.
+[1a] der Papierverbrauch (Sg.) | কাগজের ব্যবহার - usage of paper | Wir müssen den Papierverbrauch senken.
+[1a] der Rekord, -e | রেকর্ড - record | Er hat einen neuen Weltrekord aufgestellt.
+[1a] das Rind, -er | গবাদি পশু (গরু) - beef | Rindfleisch ist in Europa sehr beliebt.
+[1a] das Trinkwasser (Sg.) | পানীয় জল - drinking water | Sauberes Trinkwasser ist lebenswichtig.
+[1a] verbrauchen | ব্যবহার করা / খরচ করা - to use up | Wie viel Strom verbrauchen Sie im Monat?
+[1a] der Verpackungsmüll (Sg.) | প্যাকেটজাত বর্জ্য - packaging waste | Vermeiden Sie unnötigen Verpackungsmüll.
+[2a] das Bioprodukt, -e | জৈব পণ্য - organic product | Ich kaufe fast nur Bioprodukte.
+[2a] das Recycling (Sg.) | পুনঃচক্রীকরণ - recycling | Recycling hilft, Ressourcen zu sparen.
+[2a] die Region, -en | অঞ্চল - region | Das Obst kommt direkt aus der Region.
+[2a] regional | আঞ্চলিক - regional(ly) | Wir sollten mehr regional einkaufen.
+[2a] schützen (vor + D.) | রক্ষা করা - to protect | Wir müssen die Natur vor Schmutz schützen.
+[2a] der Transportweg, -e | পরিবহন পথ - transport corridor | Kurze Transportwege sind besser für das Klima.
+[2b] Bio | জৈব - organic | Bio-Eier schmecken oft besser.
+[2b] extrem | চরম - extreme | Die Hitze im Sommer war extrem.
+[2b] die Herkunft, "-e | উৎস / আদি - origin | Die Herkunft der Produkte ist klar deklariert.
+[2b] die Marke, -n | ব্র্যান্ড - brand | Welche Marke bevorzugst du bei Schuhen?
+[2b ÜB] das Abgas, -e | নির্গত গ্যাস - exhaust | Abgase von Autos schaden der Luft.
+[2b ÜB] bekämpfen | লড়াই করা - to fight | Wir müssen die Armut weltweit bekämpfen.
+[2b ÜB] beobachten | পর্যবেক্ষণ করা - to observe | Er beobachtet die Vögel im Garten.
+[2b ÜB] durchsetzen | কার্যকর করা - to push through | Er konnte seine Meinung im Team endlich durchsetzen.
+[2b ÜB] durchstreichen | কেটে দেওয়া - to cross out | Wenn ein Wort falsch ist, streichen Sie es bitte durch.
+[2b ÜB] die Erde (Sg.) | পৃথিবী - earth | Die Erde ist unser gemeinsames Zuhause.
+[2b ÜB] erforschen | অনুসন্ধান করা - to investigate | Wissenschaftler erforschen das Weltall.
+[2b ÜB] ergreifen | গ্রহণ করা / ধরা - to seize | Wir müssen diese Chance sofort ergreifen.
+[2b ÜB] die Ernte, -n | ফসল কাটা - harvest | Die Ernte war dieses Jahr sehr gut.
+[2b ÜB] ernten | ফসল সংগ্রহ করা - to harvest | Im Herbst ernten wir die Äpfel.
+[2b ÜB] fördern | প্রচার করা / উন্নত করা - to promote | Der Staat fördert Solarenergie.
+[2b ÜB] der Fortschritt, -e | উন্নতি / অগ্রগতি - progress | Der technische Fortschritt ist sehr schnell.
+[2b ÜB] die Klimaerwärmung (Sg.) | গ্লোবাল ওয়ার্মিং - global warming | Die Klimaerwärmung betrifft uns alle.
+[2b ÜB] der Klimawandel (Sg.) | জলবায়ু পরিবর্তন - climate change | Wir müssen etwas gegen den Klimawandel tun.
+[2b ÜB] die Maßnahme, -n | পদক্ষেপ - measure | Die Regierung plant neue Maßnahmen zum Schutz.
+[2b ÜB] messen | পরিমাপ করা - to measure | Der Arzt misst den Blutdruck des Patienten.
+[2b ÜB] ökologisch | পরিবেশগত / জৈবিক - ecological | Er achtet auf eine ökologische Lebensweise.
+[2b ÜB] die Ressource, -n | সম্পদ - resource | Wir müssen unsere natürlichen Ressourcen schonen.
+[2b ÜB] schädlich | ক্ষতিকর - harmful | Plastikmüll ist sehr schädlich für die Ozeane.
+[2b ÜB] stoppen | থামানো - to stop | Wir müssen die Umweltverschmutzung stoppen.
+[2b ÜB] der Umweltschutz (Sg.) | পরিবেশ রক্ষা - environmental protection | Umweltschutz ist ein wichtiges Thema in der Politik.
+[2b ÜB] die Umweltverschmutzung (Sg.) | পরিবেশ দূষণ - environmental pollution | Die Umweltverschmutzung nimmt weltweit zu.
+[2b ÜB] unterstützen | সমর্থন করা / সহায়তা করা - to support | Viele Organisationen unterstützen den Naturschutz.
+[2b ÜB] die Ursache, -n | কারণ - cause | Was ist die Ursache für den Klimawandel?
+[2b ÜB] vernichten | ধ্বংস করা - to destroy | Der Waldbrand hat große Flächen vernichtet.
+[2b ÜB] verringern | কমানো / হ্রাস করা - to reduce | Wir müssen den CO2-Ausstoß verringern.
+[2b ÜB] verschwenden | অপচয় করা - to waste | Bitte verschwenden Sie kein Wasser beim Duschen.
+[2b ÜB] zerstören | ধ্বংস করা - to destroy | Menschen zerstören oft den Lebensraum von Tieren.
+[3] der Begriff, -e | শব্দ / ধারণা - term | Was bedeutet der Begriff „Nachhaltigkeit“?
+[3] berechnen | গণনা করা - to calculate | Er berechnet seinen persönlichen ökologischen Fußabdruck.
+[3] der Fußabdruck, "-e | পায়ের ছাপ - footprint | Mein ökologischer Fußabdruck ist zu groß.
+[4a] der Geschirrspüler, - | থালাবাসন ধোয়ার মেশিন - dishwasher | Der Geschirrspüler spart Zeit und oft auch Wasser.
+[4a] die Glasflasche, -n | কাঁচের বোতল - glass bottle | Milch in der Glasflasche ist umweltfreundlicher.
+[4a] das Öko-Duell, -e | পরিবেশ-দ্বৈরথ - eco-duel | Das Öko-Duell vergleicht verschiedene Produkte.
+[4a] die Plastikflasche, -n | প্লাস্টিকের বোতল - plastic bottle | Wir sollten weniger Plastikflaschen kaufen.
+[4b] allerdings | যদিও / তবে - though | Das Produkt ist gut, allerdings sehr teuer.
+[4b] der Bedarf (Sg.) | প্রয়োজন / চাহিদা - need | Der Bedarf an sauberer Energie steigt.
+[4b] die Duschzeit, -en | গোসলের সময় - shower time | Kurze Duschzeiten sparen viel Energie.
+[4b] effizient | দক্ষ / কার্যকর - efficient | Moderne Geräte arbeiten sehr effizient.
+[4b] die Einwegflasche, -n | একবার ব্যবহারযোগ্য বোতল - disposable bottle | Einwegflaschen verursachen viel Müll.
+[4b] erwärmen | গরম করা - warming | Das Wasser wird durch Sonnenenergie erwärmt.
+[4b] der Fall, "-e | ক্ষেত্র / ঘটনা - case (in any case) | In jedem Fall sollten wir den Müll trennen.
+[4b] gedruckt | মুদ্রিত - printed | Ich lese lieber ein gedrucktes Buch als ein E-Book.
+[4b] kommen (zu + D.) | কোনো সিদ্ধান্তে পৌঁছানো - to come to (a solution) | Die Diskussion kam leider zu keinem Ergebnis.
+[4b] korrekt | সঠিক - correct | Ist diese Antwort ökologisch korrekt?
+[4b] die Mehrwegflasche, -n | পুনর্ব্যবহারযোগ্য বোতল - reusable bottle | Mehrwegflaschen sind besser für die Ökobilanz.
+[4b] die Ökobilanz, -en | পরিবেশগত ভারসাম্য - ecobalance | Die Ökobilanz von Glas ist oft besser als die von Plastik.
+[4b] das Resultat, -e | ফলাফল - result | Das Resultat der Studie war überraschend.
+[4b] die Seite, -n | দিক / পক্ষ - side | Mit einer Spülmaschine sind Sie auf der sicheren Seite.
+[4b] treffen (eine Wahl) | নির্বাচন করা / সিদ্ধান্ত নেওয়া - to make (a choice) | Er musste eine schwierige Wahl treffen.
+[4b] unterscheiden | পার্থক্য করা - to distinguish | Man muss zwischen Bio und regional unterscheiden.
+[5a] der Ökovergleich, -e | পরিবেশগত তুলনা - eco-comparison | Der Ökovergleich zeigt die Unterschiede deutlich.
+[6a] die Alternative, -n | বিকল্প - alternative | Das Fahrrad ist eine gute Alternative zum Auto.
+[6a] die Pfandflasche, -n | ফেরতযোগ্য বোতল - deposit bottle | Bringen Sie die Pfandflaschen bitte zum Supermarkt zurück.
+[6b] die Energiekosten (Pl.) | জ্বালানি খরচ - cost of energy | Die Energiekosten sind im letzten Jahr stark gestiegen.
+[7a] das Satzzeichen, - | বিরামচিহ্ন - punctuation marks | Vergessen Sie das Satzzeichen am Ende nicht.
+[7b] das Müllproblem, -e | বর্জ্য সমস্যা - garbage problem | Das Müllproblem in den Großstädten wächst.
+[8a] der Absatz, "-e | বিক্রয় / অনুচ্ছেদ - sales | Der Absatz von Elektroautos nimmt zu.
+[8a] allein | শুধুমাত্র - alone | Wir werfen 18 Millionen Tonnen Lebensmittel allein in Deutschland weg.
+[8a] die Außenseite, -n | বাইরের দিক - outside | Die Außenseite des Hauses braucht neue Farbe.
+[8a] beschädigt | ক্ষতিগ্রস্ত - damaged | Das Paket kam leider beschädigt bei mir an.
+[8a] dagegen | বিপরীতে / এর বিরুদ্ধে - against | Ich bin dagegen, so viel Plastik zu verwenden.
+[8a] damit | যাতে - so that | Es gibt Pfandbecher, damit weniger Müll entsteht.
+[8a] entstehen | সৃষ্টি হওয়া / তৈরি হওয়া - to originate | Durch neue Fabriken entstehen oft Arbeitsplätze.
+[8a] erhältlich | লভ্য / পাওয়া যায় এমন - to be available | Das neue Modell ist ab morgen im Laden erhältlich.
+[8a] die Gegend, -en | এলাকা / অঞ্চল - areas | In dieser Gegend gibt es viele Windräder.
+[8a] die Geschäftsidee, -n | ব্যবসায়িক ধারণা - business idea | Er hat eine nachhaltige Geschäftsidee entwickelt.
+[8a] haltbar | টেকসই - durable | Diese Milch ist auch ohne Kühlschrank lange haltbar.
+[8a] jederzeit | যেকোনো সময় - at any time | Sie können uns bei Fragen jederzeit anrufen.
+[8a] der Kaffeebecher, - | কফির কাপ - coffee cup | Bitte werfen Sie Ihren Kaffeebecher in den Müll.
+[8a] krumm | বাঁকা - crooked | Die Gurke ist krumm, aber sie schmeckt gut.
+[8a] der Kunststoff, -e | প্লাস্টিক / কৃত্রিম উপাদান - plastic | Viele Verpackungen bestehen aus Kunststoff.
+[8a] landen | গিয়ে পড়া (আবর্জনায়) - to land (in the bin) | Viel zu viele Becher landen täglich im Abfall.
+[8a] liefern | সরবরাহ করা - to deliver | Der Online-Shop kann die Ware schnell liefern.
+[8a] der Müllberg, -e | আবর্জনার স্তূপ - mountain of rubbish | Wir müssen etwas gegen die riesigen Müllberge tun.
+[8a] der Mülleimer, - | আবর্জনার পাত্র - rubbish bin | Der Mülleimer in der Küche ist schon wieder voll.
+[8a] nachhaltig | টেকসই / দীর্ঘস্থায়ী - sustainable | Nachhaltig zu leben ist wichtig für die Zukunft.
+[8a] die Neugründung, -en | নতুন প্রতিষ্ঠা - start-up | Die Neugründung der Firma war sehr erfolgreich.
+[8a] der Ökostrom (Sg.) | পরিবেশবান্ধব বিদ্যুৎ - green electricity | Wir nutzen zu Hause nur noch Ökostrom.
+[8a] der Online-Shop, -s | অনলাইন শপ - online shop | Ich kaufe meine Kleidung oft in einem Online-Shop.
+[8a] das Pfand (Sg.) | আমানত (বোতলের জন্য) - deposit | Auf Glasflaschen gibt es in Deutschland oft Pfand.
+[8a] recycelbar | পুনঃচক্রীকরণযোগ্য - recyclable | Dieses Material ist zu 100 Prozent recycelbar.
+[8a] sogenannt | তথাকথিত - so-called | Das ist eine sogenannte nachhaltige Verpackung.
+[8a] das Solarpanel, -e | সোলার প্যানেল - solar panel | Er hat ein Solarpanel auf seinem Balkon installiert.
+[8a] die Sonnenenergie (Sg.) | সৌরশক্তি - sun energy | Sonnenenergie ist eine saubere Energiequelle.
+[8a] das Start-up, -s | স্টার্ট-আপ - start-up | Das neue Start-up produziert Taschen aus LKW-Planen.
+[8a] die Steckdose, -n | বৈদ্যুতিক সকেট - power outlet / socket | Wo finde ich hier eine Steckdose für mein Handy?
+[8a] die Tonne, -n | টন - ton | Jährlich werden Millionen Tonnen Plastik produziert.
+[8a] um ... zu | জন্য - in order to | Wir sparen Strom, um die Umwelt zu schützen.
+[8a] verleihen | ধার দেওয়া - to lend | Die Bibliothek verleiht nicht nur Bücher.
+[8a] vermeiden | এড়িয়ে চলা / বর্জন করা - to avoid | Wir sollten unnötige Autofahrten vermeiden.
+[8a] die Verschwendung (Sg.) | অপচয় - waste | Lebensmittel wegzuwerfen ist eine Verschwendung.
+[8a] zu tun haben (mit + D.) | সম্পর্ক থাকা - to have to do with | Was hat diese Idee mit der Umwelt zu tun?
+[8a] zurückbekommen | ফেরত পাওয়া - to get back | Hast du dein geliehenes Buch schon zurückbekommen?
+[8a] zurückbringen | ফেরত দেওয়া - to bring back | Ich muss die DVDs morgen in die Bibliothek zurückbringen.
+[9a] der Pfandbecher, - | ফেরতযোগ্য কাপ - deposit cup | Für den Pfandbecher bezahlen Sie einen Euro extra.
+[9a] retten | রক্ষা করা - to rescue | Wir wollen Lebensmittel vor der Mülltonne retten.
+[9a] verlangen | দাবি করা / চাওয়া - to ask for | Das Restaurant verlangt keinen Aufpreis für Bio.
+[9a] der Wegwerfbecher, - | একবার ব্যবহারযোগ্য কাপ - disposable cup | Wegwerfbecher sind ein großes Umweltproblem.
+[9b] die Aktion, -en | কার্যক্রম / ক্যাম্পেইন - action | Die Schule plant eine Aktion zum Umweltschutz.
+[9c] elektronisch | ইলেকট্রনিক - electronic | Ich erhalte meine Rechnungen nur noch elektronisch.
+[9c] der Stromverbrauch (Sg.) | বিদ্যুৎ খরচ - energy usage | Im Winter ist unser Stromverbrauch besonders hoch.
+[9c] der Umwelttipp, -s | পরিবেশ রক্ষার পরামর্শ - tip for the environment | Hast du einen guten Umwelttipp für den Haushalt?
+[9c] verschmutzen | দূষিত করা - to pollute | Fabriken dürfen das Wasser nicht verschmutzen.
+[9d] der Satzanfang, "-e | বাক্যের শুরু - beginning of a sentence | Achten Sie beim Schreiben auf den Satzanfang.
+[10] die Ansicht, -en | মতামত - opinion | Ich bin der Ansicht, dass wir mehr tun müssen.
+[10] das Argument, -e | যুক্তি - argument | Das ist ein sehr gutes Argument für das Projekt.
+[10] der Standpunkt, -e | দৃষ্টিভঙ্গি - point of view | Aus meinem Standpunkt ist das nicht sinnvoll.
+[10] stehen (auf dem Standpunkt) | একটি অবস্থানে থাকা - to be (it is my point of view...) | Ich stehe auf dem Standpunkt, dass Bio besser ist.
+[10] überzeugt sein (von + D.) | নিশ্চিত হওয়া - to be convinced | Ich bin von dieser Lösung absolut überzeugt.
+[10] umsonst | বিনামূল্যে - for free | In der Stadt gibt es WLAN oft umsonst.
+[10] die Uni-Mensa, -Mensen | বিশ্ববিদ্যালয় ক্যাফেটেরিয়া - university cafeteria | Wir essen mittags meistens in der Uni-Mensa.
+[10] völlig | সম্পূর্ণভাবে - completely | Das ist eine völlig neue Situation für uns.
+[10] widersprechen | দ্বিমত পোষণ করা - to contradict | Da muss ich Ihnen leider widersprechen.
+[11a] der Blitz, -e | বিজলি / বিদ্যুৎ চমক - lightning | Nach dem Blitz hörte man sofort den Donner.
+[11a] blitzen | বিদ্যুৎ চমকানো - to flash lightning | Es blitzt und donnert draußen sehr stark.
+[11a] der Donner, - | মেঘের গর্জন - thunder | Der Donner war mitten in der Nacht sehr laut.
+[11a] donnern | মেঘ গর্জন করা - to thunder | Wenn es donnert, habe ich immer etwas Angst.
+[11a] feucht | আর্দ্র / স্যাঁতসেঁতে - humid | Im Wald ist die Luft oft kühl und feucht.
+[11a] hageln | শিলাবৃষ্টি হওয়া - to hail | Gestern hat es kurz, aber heftig gehagelt.
+[11a] mild | মৃদু / নাতিশীতোষ্ণ - mild | Der Winter war dieses Jahr sehr mild.
+[11a] neblig | কুয়াশাচ্ছন্ন - foggy | Am Morgen war es auf der Autobahn sehr neblig.
+[11a] nieseln | গুঁড়ি গুঁড়ি বৃষ্টি হওয়া - to drizzle | Es regnet nicht richtig, es nieselt nur.
+[11a] regnerisch | বৃষ্টিবহুল - rainy | Wir hatten ein sehr regnerisches Wochenende.
+[11a] schwül | ভ্যাপসা গরম - muggy | Vor dem Gewitter ist es oft sehr schwül.
+[11a] stürmisch | ঝড়ো - stormy | An der Nordsee ist es im Herbst oft stürmisch.
+[11a] das Traumwetter (Sg.) | চমৎকার আবহাওয়া - dream weather | Im Urlaub hatten wir zwei Wochen Traumwetter.
+[11a] wolkig | মেঘলা - cloudy | Heute ist es wolkig, aber es bleibt trocken.
+[11b] die Wettervorhersage, -n | আবহাওয়ার পূর্বাভাস - weather forecast | Die Wettervorhersage verspricht für morgen Sonne.
+[11c] die Vorhersage, -n | পূর্বাভাস - forecast | Die Vorhersage für die Wirtschaft ist positiv.
+[11c] die Wetterbesserung (Sg.) | আবহাওয়ার উন্নতি - weather improvement | Wir hoffen am Nachmittag auf Wetterbesserung.
+[12a] das Gedächtnis (Sg.) | স্মৃতিশক্তি - memory | Er hat ein sehr gutes Gedächtnis für Namen.
+[12a] der Herbststurm, "-e | শরতের ঝড় - autumn storm | Der Herbststurm hat viele Blätter von den Bäumen geweht.
+[12a] der Schneesturm, "-e | তুষারপাত / বরফ ঝড় - snow storm | Wegen des Schneesturms blieben die Schulen geschlossen.
+[12a] der Sturm, "-e | ঝড় - storm | Der Sturm hat große Schäden im Wald angerichtet.
+[12a] stürmen | ঝড় হওয়া - to storm | Es stürmt draußen so stark, dass man kaum gehen kann.
+[13a] aufklären | সচেতন করা / তথ্য দেওয়া - to inform | Die Polizei konnte den komplizierten Fall endlich aufklären.
+[13a] beteiligen (sich) (an + D.) | অংশগ্রহণ করা - to participate | Viele Bürger beteiligen sich an der Putzaktion.
+[13a] die Bevölkerung, -en | জনসংখ্যা - population | Ein Großteil der Bevölkerung lebt in Städten.
+[13a] der Bürger, - | নাগরিক (পু.) - citizen (m) | Jeder Bürger hat das Recht zu wählen.
+[13a] die Bürgerin, -nen | নাগরিক (মহিলা) - citizen (f) | Die Bürgerin engagiert sich im Stadtrat.
+[13a] dienen (als + N.) | হিসেবে কাজ করা - to serve | Dieser Raum dient uns als Besprechungszimmer.
+[13a] drehen | ঘোরানো - to turn | Drehen Sie den Knopf nach rechts.
+[13a] das Engagement, -s | প্রতিশ্রুতি / নিয়োজিত হওয়া - commitment / involvement | Ihr freiwilliges Engagement ist sehr beeindruckend.
+[13a] extra | অতিরিক্ত / আলাদাভাবে - extra | Er hat die Informationen extra für dich gesammelt.
+[13a] geschützt | সংরক্ষিত - protected | Die Tiere leben in einem geschützten Bereich.
+[13a] die Hauskatze, -n | পোষা বিড়াল - domestic cat | Die Hauskatze schläft am liebsten auf dem Sofa.
+[13a] hilflos | অসহায় - helpless | Das kleine Tier wirkte ganz hilflos.
+[13a] die Idee, -n (auf eine Idee kommen) | ধারণা (একটি বুদ্ধি আসা) - idea (to get an idea) | Wie bist du bloß auf diese tolle Idee gekommen?
+[13a] immer wieder | বারবার - again and again | Er macht diesen Fehler immer wieder.
+[13a] das Infomaterial, -ien | তথ্য সামগ্রী - information material | Wir verteilen heute Infomaterial in der Fußgängerzone.
+[13a] der Katzenfreund, -e | বিড়াল প্রেমী (পু.) - cat lover (m) | Mein Nachbar ist ein großer Katzenfreund.
+[13a] die Katzenfreundin, -nen | বিড়াল প্রেমী (মহিলা) - cat lover (f) | Sie ist eine bekannte Katzenfreundin im Viertel.
+[13a] das Klima (Sg.) | জলবায়ু - climate | Das Klima auf der Erde verändert sich schnell.
+[13a] ländlich | গ্রাম্য / গ্রামীণ - rural | Wir leben gerne in einer ländlichen Gegend.
+[13a] die Mitfahrbank, "-e | লিফট নেওয়ার বেঞ্চ - ride-on bench | An der Mitfahrbank kann man auf ein Auto warten.
+[13a] das Nachbardorf, "-er | প্রতিবেশী গ্রাম - neighbouring village | Ich fahre oft mit dem Rad ins Nachbardorf.
+[13a] der Naturfreund, -e | প্রকৃতি প্রেমী (পু.) - nature lover (m) | Als Naturfreund bin ich viel im Wald unterwegs.
+[13a] die Naturfreundin, -nen | প্রকৃতি প্রেমী (মহিলা) - nature lover (f) | Meine Schwester ist eine echte Naturfreundin.
+[13a] pflanzen | রোপণ করা - to plant | Wir pflanzen im Frühling neue Blumen.
+[13a] schaden | ক্ষতি করা - to harm | Abgase schaden der Umwelt und der Gesundheit.
+[13a] die Schwierigkeit, -en | অসুবিধা / কঠিনতা - difficulty | Er hatte am Anfang einige Schwierigkeiten.
+[13a] der Strauch, "-er | ঝোপ / গুল্ম - bush | Hinter dem Haus wächst ein großer Strauch.
+[13a] die Themenwoche, -n | বিষয়ভিত্তিক সপ্তাহ - theme week | In der Themenwoche geht es um Nachhaltigkeit.
+[13a] verteilen | বিতরণ করা - to distribute | Wir verteilen Flyer für die nächste Aktion.
+[13a] der Vorort, -e | শহরতলি - suburb | Viele Leute ziehen aus der Stadt in einen Vorort.
+[13a] die Wildkatze, -n | বুনো বিড়াল - wild cat | Die Wildkatze ist in unseren Wäldern sehr selten.
+[13a] zählen | গণনা করা - to count | Kannst du schon bis hundert zählen?
+[13a] das Zeichen, - | চিহ্ন / সংকেত - symbol | Dieses Schild ist ein Zeichen für Naturschutz.
+[13c] anschließen (sich) | যোগ দেওয়া / অনুসরণ করা - to follow / join | Du kannst dich unserer Gruppe gerne anschließen.
+[13c] aufheben | কুড়িয়ে নেওয়া / তোলা - to pick up | Bitte heben Sie den Müll vom Boden auf.
+[13c] aufwändig | শ্রমসাধ্য / ব্যয়বহুল - laborious | Die Vorbereitung war sehr zeitaufwändig.
+[13c] die Geschwindigkeit, -en | গতি - speed | Hier ist eine Geschwindigkeit von 30 km/h erlaubt.
+[13c] das Plogging (Sg.) | জগিং করার সময় ময়লা তোলা - plogging | Plogging kombiniert Sport mit Umweltschutz.
+[13e] engagieren (sich) | নিজেকে নিয়োজিত করা - to be involved | Sie engagiert sich ehrenamtlich im Tierheim.
+[13e] der Teilnehmer, - | অংশগ্রহণকারী (পুরুষ) - participant (m) | Der Teilnehmer stellt eine interessante Frage.
+[13e] die Teilnehmerin, -nen | অংশগ্রহণকারী (মহিলা) - participant (f) | Jede Teilnehmerin bekommt am Ende ein Zertifikat.
+[k&k] deklinieren | শব্দরূপ করা - to decline | In der Schule lernen wir, Adjektive zu deklinieren.
+[k&k] entfallen | বাদ পড়া - omitted | Der Termin ist heute leider entfallen.
+[k&k] der Finalsatz, "-e | উদ্দেশ্যমূলক বাক্য - final sentence | Ein Finalsatz antwortet auf die Frage „Wozu?“.
+[k&k] die Umweltaktion, -en | পরিবেশ রক্ষা কার্যক্রম - environmental campaign | Die Umweltaktion war ein großer Erfolg.
+
+--------------------------------------------------------------------
+KAPITEL 6 (অধ্যায় ৬)
+--------------------------------------------------------------------
+[1a] die Bildunterschrift, -en | ছবির শিরোনাম - picture subtitle | Lies bitte zuerst die Bildunterschrift.
+[1a] der Chip, -s | চিপ - chip | Der Computer hat einen sehr schnellen Chip.
+[1a] der Daten-Chip, -s | ডাটা চিপ - data chip | Alle Informationen sind auf dem Daten-Chip gespeichert.
+[1a] die Drohne, -n | ড্রোন - drone | Die Drohne macht tolle Fotos von oben.
+[1a] die Haut, "-e | চামড়া / ত্বক - skin | Im Sommer muss man seine Haut vor der Sonne schützen.
+[1a] irgendwann | কোনো এক সময় - sometime | Irgendwann möchte ich eine Weltreise machen.
+[1a] der Mars (Sg.) | মঙ্গল গ্রহ - Mars | Gibt es wirklich Leben auf dem Mars?
+[1a] die Mobilität (Sg.) | গতিশীলতা - mobility | Elektroautos verändern die Mobilität in der Stadt.
+[1a] der Passagier, -e | যাত্রী (পুরুষ) - passenger (m) | Der Passagier wartet am Gate auf sein Flugzeug.
+[1a] die Passagierin, -nen | যাত্রী (মহিলা) - passenger (f) | Die Passagierin hat ihr Ticket verloren.
+[1a] der Planet, -en | গ্রহ - planet | Die Erde ist ein wunderschöner Planet.
+[1a] staubsaugen | ভ্যাকুয়াম দিয়ে পরিষ্কার করা - to vacuum | Er muss am Samstag das ganze Haus staubsaugen.
+[1a] übernehmen | দায়িত্ব গ্রহণ করা - to take on | Wer übernimmt die Kosten für die Reparatur?
+[1a] die Wohnanlage, -n | আবাসিক এলাকা - residential complex | In dieser Wohnanlage wohnen viele Familien.
+[1b] die Prognose, -n | পূর্বাভাস - prognosis | Die Wetterprognose für das Wochenende ist gut.
+[2a] von ... aus | থেকে - from | Ich arbeite viel von zu Hause aus.
+[3a] der Anlass, "-e | কারণ / উপলক্ষ - reason | Was ist der Anlass für dein Fest?
+[3a] Silvester, - | থার্টি ফার্স্ট নাইট - new year | Zu Silvester gibt es oft ein Feuerwerk.
+[3a] vornehmen (sich) | পরিকল্পনা করা - to plan to do sth | Ich habe mir vorgenommen, mehr Sport zu treiben.
+[3b] die Ausrede, -n | অজুহাত - excuse | Das ist doch nur eine Ausrede!
+[3b] befragen | প্রশ্ন করা / জিজ্ঞাসাবাদ করা - to question | Die Polizei befragt die Zeugen.
+[3b] dauernd | অনবরত / ক্রমাগত - constant | Er beschwert sich dauernd über das Wetter.
+[3b] einfach so | এমনি এমনি - just like that | Er hat mir einfach so Blumen geschenkt.
+[3b] fassen (einen Vorsatz) | সংকল্প করা - to make (a resolution) | Zum Neujahr fassen viele einen Vorsatz.
+[3b] der Leser, - | পাঠক (পু.) - reader (m) | Der Leser schreibt einen Brief an die Zeitung.
+[3b] die Leserin, -nen | পাঠক (মহিলা) - reader (f) | Die Leserin mag spannende Krimis.
+[3b] Süßes | মিষ্টি কিছু - sweet | Bringst du uns etwas Süßes aus dem Supermarkt mit?
+[3b] der Vorsatz, "-e | সংকল্প / অঙ্গীকার - resolution | Mein Vorsatz ist es, weniger Zeit am Handy zu verbringen.
+[3b] werden | হওয়া (ভবিষ্যৎ কাল) - will / to become | Was wird sich in der Zukunft ändern?
+[3d] das Futur (Sg.) | ভবিষ্যৎ কাল - future (tense) | Heute lernen wir das Futur im Deutschunterricht.
+[3e] die Wahrheit, -en | সত্য - truth | Man sollte immer die Wahrheit sagen.
+[4a] gelingen | সফল হওয়া - to succeed | Es ist mir gelungen, die Prüfung zu bestehen.
+[4a] realisieren | বাস্তবায়ন করা - to realize | Er möchte seinen Traum endlich realisieren.
+[4b] das Hauptproblem, -e | প্রধান সমস্যা - main problem | Das Hauptproblem ist der Zeitmangel.
+[4b] konkret | নির্দিষ্ট / বাস্তব - concrete | Haben Sie schon konkrete Pläne für den Urlaub?
+[5a] eventuell | সম্ভাব্য - potential / possibly | Wir können uns eventuell morgen treffen.
+[5a] der Praktikant, -en | ইন্টার্ন (পু.) - intern (m) | Der Praktikant lernt viel in der Firma.
+[5a] die Praktikantin, -nen | ইন্টার্ন (মহিলা) - intern (f) | Die Praktikantin unterstützt das Team.
+[5a] das Zitat, -e | উদ্ধৃতি - quote | Er liest ein berühmtes Zitat vor.
+[5b] der Affe, -n | বানর - monkey | Der Affe klettert flink auf den Baum.
+[5b] der Elefant, -en | হাতি - elephant | Der Elefant hat ein sehr gutes Gedächtnis.
+[5b] der Löwe, -n | সিংহ - lion | Der Löwe wird oft als König der Tiere bezeichnet.
+[5b] der Pädagoge, -n | শিক্ষাবিদ (পু.) - educator (m) | Der Pädagoge arbeitet mit Kindern.
+[5b] die Pädagogin, -nen | শিক্ষাবিদ (মহিলা) - educator (f) | Die Pädagogin entwickelt neue Lernmethoden.
+[6a] die Vokallänge, -n | স্বরবর্ণের দৈর্ঘ্য - vowel length | Im Deutschen ist die Vokallänge sehr wichtig.
+[7b] anonym | বেনামী - anonymous | Der Brief wurde anonym verfasst.
+[7b] der Arbeitsort, -e | কর্মস্থল - place of work | Mein Arbeitsort ist im Zentrum der Stadt.
+[7b] aufhalten (sich) | অবস্থান করা - to be (stay) | Während des Urlaubs hielten wir uns oft am Strand auf.
+[7b] ausgehen (von + D.) | ধারণা করা - to assume | Wir gehen davon aus, dass das Wetter morgen gut wird.
+[7b] autonom | স্বায়ত্তশাসিত - autonomous | In Zukunft gibt es vielleicht autonome Busse.
+[7b] befinden (sich) | অবস্থিত হওয়া - to be located | Das Hotel befindet sich direkt am Strand.
+[7b] begegnen | সাক্ষাৎ হওয়া - to see / meet | Ich bin ihm gestern zufällig begegnet.
+[7b] der Dienstleistungsbereich, -e | সেবা খাত - service industry | Viele Menschen arbeiten im Dienstleistungsbereich.
+[7b] die Erholungsmöglichkeit, -en | বিনোদনের সুযোগ - recreational opportunities | Die Stadt bietet viele Erholungsmöglichkeiten.
+[7b] das Fünftel, - | এক পঞ্চমাংশ - fifth | Ein Fünftel der Bewohner nutzt das Fahrrad.
+[7b] der Fußweg, -e | হাঁটার পথ - foot path | Der Fußweg führt direkt zum Park.
+[7b] die Grünfläche, -n | সবুজ এলাকা - green space | Mehr Grünflächen verbessern das Stadtklima.
+[7b] der Hausbewohner, - | বাড়ির বাসিন্দা (পু.) - inhabitant (m) | Der Hausbewohner kümmert sich um den Garten.
+[7b] die Hausbewohnerin, -nen | বাড়ির বাসিন্দা (মহিলা) - inhabitant (f) | Die Hausbewohnerin ist sehr freundlich.
+[7b] die Hausfassade, -n | বাড়ির সামনের অংশ - house front | Die Hausfassade wurde neu gestrichen.
+[7b] heutig | বর্তমান সময়ের - present day | Heutige Fahrzeuge können noch nicht fliegen.
+[7b] das Homeoffice (Sg.) | হোম অফিস - home office | Er arbeitet drei Tage pro Woche im Homeoffice.
+[7b] längst | দীর্ঘকাল ধরে - for a long time | Das Problem ist längst bekannt.
+[7b] lauten | হওয়া / বলা - to be | Wie lautet Ihre Adresse?
+[7b] die Lebensqualität (Sg.) | জীবনযাত্রার মান - quality of life | Die Lebensqualität in dieser Stadt ist hoch.
+[7b] lebenswert | বসবাসের যোগ্য - to be worth living in | Wir wollen eine lebenswerte Zukunft gestalten.
+[7b] das Mikro-Wohnen (Sg.) | ক্ষুদ্র আবাসন - mikro living | Mikro-Wohnen ist ein Trend in Großstädten.
+[7b] miteinander | একসাথে - togetherness | Wir müssen mehr miteinander sprechen.
+[7b] das Prinzip, -ien | নীতি / নিয়ম - principle | Das ist ein wichtiges Prinzip unserer Firma.
+[7b] das Privatauto, -s | ব্যক্তিগত গাড়ি - private car | Er verzichtet auf ein Privatauto.
+[7b] die Rolle, -n | ভূমিকা - role | Geld spielt eine große Rolle im Leben.
+[7b] die Solarzelle, -n | সৌর কোষ - solar cell | Auf dem Dach befinden sich Solarzellen.
+[7b] spielen (eine Rolle) | ভূমিকা রাখা - to play (a role) | Sport spielt eine wichtige Rolle für ihn.
+[7b] das Stadtviertel, - | শহরের এলাকা - area / quarter | Das Stadtviertel ist sehr lebendig.
+[7b] vergrößern | বড় করা - to enlarge | Wir möchten unser Team vergrößern.
+[7b] voraussichtlich | সম্ভাব্য - to be expected | Der Zug hat voraussichtlich 10 Minuten Verspätung.
+[7b] wachsen | বেড়ে ওঠা / বৃদ্ধি পাওয়া - to grow | Die Stadt wächst jedes Jahr.
+[7b] die Windturbine, -n | বায়ুকল - wind turbine | Eine Windturbine erzeugt sauberen Strom.
+[7c ÜB] die Akademie, -n | একাডেমি - academy | Sie studiert an einer Kunstakademie.
+[7c ÜB] das Altenheim, -e | বৃদ্ধাশ্রম - care home | Mein Opa lebt jetzt in einem Altenheim.
+[7c ÜB] das Fundbüro, -s | হারানো-প্রাপ্তি দপ্তর - lost and found office | Ich habe meine Tasche im Fundbüro abgeholt.
+[7c ÜB] die Fußgängerzone, -n | পথচারী এলাকা - pedestrian zone | In der Fußgängerzone darf man nicht Auto fahren.
+[7c ÜB] das Hallenbad, "-er | ইনডোর সুইমিং পুল - indoor swimming pool | Im Winter gehen wir oft ins Hallenbad.
+[7c ÜB] die Kindertagesstätte, -n | শিশু যত্ন কেন্দ্র - kindergarten / daycare | Die neue Kindertagesstätte öffnet im August.
+[7c ÜB] der Kiosk, -e | কিওস্ক / ছোট দোকান - kiosk | Ich kaufe die Zeitung am Kiosk.
+[7c ÜB] die Klinik, -en | ক্লিনিক / হাসপাতাল - hospital | Er arbeitet als Arzt in einer Klinik.
+[7c ÜB] der Tierpark, -s | চিড়িয়াখানা - zoo | Am Sonntag gehen wir in den Tierpark.
+[7c ÜB] die Volkshochschule, -n | কমিউনিটি কলেজ - community college | Ich mache einen Fotokurs an der Volkshochschule.
+[7c ÜB] der Zirkus, -se | সার্কাস - circus | Die Kinder freuen sich auf den Zirkus.
+[7d] der Anteil, -e | অংশ / হার - percentage | Der Anteil der Frauen in der Firma steigt.
+[8a] umformulieren | পুনরায় গঠন করা - to rephrase | Könnten Sie diesen schwierigen Satz bitte umformulieren?
+[8b] der Kasus (Sg.) | কারক - case | Im Deutschen gibt es vier Kasus.
+[8c] der Bürgermeister, - | মেয়র (পুরুষ) - mayor (m) | Der Bürgermeister hielt eine Rede.
+[8c] die Bürgermeisterin, -nen | মেয়র (মহিলা) - mayor (f) | Unsere Stadt hat eine neue Bürgermeisterin.
+[8d] die Bildung (Sg.) | শিক্ষা - education | Eine gute Bildung ist sehr wichtig.
+[8d] möglicherweise | সম্ভবত - possibly | Er kommt möglicherweise etwas später.
+[8d] die Verkehrssituation, -en | ট্রাফিক পরিস্থিতি - traffic situation | Die Verkehrssituation am Morgen ist schwierig.
+[8d] der Wohnraum, "-e | বাসস্থানের জায়গা - living space | Bezahlbarer Wohnraum ist in Städten knapp.
+[9a] die Vorfreude (Sg.) | আগাম আনন্দ - anticipation | Die Vorfreude auf den Urlaub ist groß.
+[9b] die Melodie, -n | সুর - melody | Diese Melodie geht mir nicht aus dem Kopf.
+[9b] der Rhythmus, Rhythmen | ছন্দ - rhythm | Das Lied hat einen tollen Rhythmus.
+[9c] der Stern, -e | তারা / নক্ষত্র - star | Der Stern leuchtet hell am Nachthimmel.
+[9c] dahin | সেখানে / সেই দিকে - there | Er schaut genau dahin, wo das Licht brennt.
+[9c] grad | এই মুহূর্তে (সংক্ষেপিত) - at the moment | Ich bin grad nicht in der Lage, mich zu bewegen.
+[9c] die Hürde, -n | বাধা / প্রতিবন্ধকতা - hurdle | Er hat jede Hürde in seinem Leben überwunden.
+[9c] die Liedzeile, -n | গানের কলি - lyric | Diese Liedzeile erinnert mich an meine Kindheit.
+[9c] nachdenken (über + A.) | চিন্তা করা - to think (about) | Er denkt lange über seine Zukunft nach.
+[9c] schweben | ভেসে থাকা - to float | Die Wolken schweben am blauen Himmel.
+[9c] selber | নিজে - self | Das musst du schon selber machen.
+[9c] stapeln | স্তূপ করা / একটার ওপর একটা রাখা - to stack | Kannst du die Bücher bitte stapeln?
+[9c] die Tiefe, -n | গভীরতা - depth | Die Tiefe des Sees ist beeindruckend.
+[9c] die Umschreibung, -en | সমার্থক বর্ণনা / ব্যাখ্যা - paraphrase | Kennst du eine Umschreibung für dieses Wort?
+[9d] bewerten | মূল্যায়ন করা - to evaluate | Der Lehrer muss die Hausaufgaben bewerten.
+[9d] kitschig | রুচিহীন বা সস্তা (শিল্পকলা) - cheesy | Der Film war mir ein bisschen zu kitschig.
+[9d] verständlich | বোধগম্য - understandable | Ihre Erklärung war sehr klar und verständlich.
+[9 ÜB] der Bass, "-e | বেস (বাদ্যযন্ত্র) - bass | Er spielt den Bass in einer Rockband.
+[9 ÜB] die Flöte, -n | বাঁশি - flute | Die Melodie der Flöte klingt sehr sanft.
+[9 ÜB] das Musikinstrument, -e | বাদ্যযন্ত্র - musical instrument | Welches Musikinstrument möchtest du lernen?
+[9 ÜB] das Piano, -s | পিয়ানো - piano | Sie spielt jeden Tag zwei Stunden Piano.
+[9 ÜB] das Schlagzeug, -e | ড্রামস - drums | Das Schlagzeug gibt den Rhythmus vor.
+[9 ÜB] die Violine, -n | ভায়োলিন - violin | Die Violine ist ein klassisches Saiteninstrument.
+[10a] die Auszeichnung, -en | পুরস্কার / সম্মাননা - award | Er erhielt eine Auszeichnung für seine Arbeit.
+[10a] die Biografie, -n | জীবনী - biography | Ich lese gerade die Biografie von Einstein.
+[10a] die Casting-Show, -s | কাস্টিং শো - casting show | Er hat bei einer Casting-Show gewonnen.
+[10a] die Charts (Pl.) | জনপ্রিয় গানের তালিকা - charts | Das Lied steht seit Wochen in den Charts.
+[10a] der Coversong, -s | কভার সং - cover song | Das ist ein bekannter Coversong von Adele.
+[10a] die Jury, -s | বিচারক মণ্ডলী - jury | Die Jury bewertet die Leistung der Sänger.
+[10a] der Preis, -e | পুরস্কার / দাম - prize | Er hat den ersten Preis gewonnen.
+[10a] der Songwriter, - | গান লেখক (পু.) - songwriter (m) | Der Songwriter schreibt Hits für viele Stars.
+[10a] die Songwriterin, -nen | গান লেখক (মহিলা) - songwriter (f) | Sie ist eine erfolgreiche Songwriterin.
+[10b] mitsingen | একসাথে গান গাওয়া - to sing along | Das Publikum konnte jeden Song mitsingen.
+[10b] der Song, -s | গান - song | Dieser Song gefällt mir besonders gut.
+[10b] der Songtitel, - | গানের শিরোনাম - song title | Wie heißt eigentlich der Songtitel?
+[k&k] bezeichnen | বর্ণনা করা / চিহ্নিত করা - to mean / denote | Was bezeichnen diese Begriffe genau?
+[k&k] die Bezeichnung, -en | নাম / সংজ্ঞা - term | „Nachhaltigkeit“ ist eine wichtige Bezeichnung.
+[k&k] der Doktorand, -en | পিএইচডি ছাত্র - PhD student (m) | Der Doktorand schreibt seine Dissertation.
+[k&k] die Doktorandin, -nen | পিএইচডি ছাত্রী - PhD student (f) | Die Doktorandin forscht im Labor.
+[k&k] der Internationalismus | আন্তর্জাতিকতাবাদ - internationalism | Viele Wörter sind Beispiele für Internationalismus.
+
+--------------------------------------------------------------------
+KAPITEL 7 (অধ্যায় ৭)
+--------------------------------------------------------------------
+[1a] zwischenmenschlich | আন্তঃব্যক্তিক - interpersonal | Kommunikation ist wichtig für das zwischenmenschliche Leben.
+[1a ÜB] decken (den Tisch decken) | টেবিল সাজানো - to lay (the table) | Kannst du bitte schon mal den Tisch decken?
+[1a ÜB] die Erhöhung, -en | বৃদ্ধি - increase | Wir hoffen auf eine Erhöhung des Gehalts.
+[1a ÜB] die Förderung, -en | সহায়তা / পদোন্নতি - demand / support | Die Förderung junger Talente ist wichtig.
+[1a ÜB] das Gelände, - | এলাকা / প্রাঙ্গণ - site / grounds | Das Firmengelände ist am Stadtrand.
+[1a ÜB] die Gelegenheit, -en | সুযোগ - opportunity | Das war eine gute Gelegenheit zum Reden.
+[1a ÜB] der Grill, -s | গ্রিল - grill | Im Sommer benutzen wir oft den Grill.
+[1a ÜB] hassen | ঘৃণা করা - to hate | Ich hasse es, wenn Leute unpünktlich sind.
+[1a ÜB] das Institut, -e | ইনস্টিটিউট / প্রতিষ্ঠান - institute | Das Institut forscht über soziale Medien.
+[1a ÜB] die Kabine, -n | কেবিন - cabin | Bitte gehen Sie in die Umkleidekabine.
+[1a ÜB] klären | সমাধান করা / পরিষ্কার করা - to settle | Wir müssen dieses Problem sofort klären.
+[1a ÜB] die Krankenkasse, -n | স্বাস্থ্য বীমা কোম্পানি - insurance company | Die Krankenkasse bezahlt die Behandlung.
+[1a ÜB] das Lagerfeuer, - | ক্যাম্পফায়ার - campfire | Wir saßen am Abend gemütlich am Lagerfeuer.
+[1a ÜB] die Mahnung, -en | অনুস্মারক / সর্তকতা - reminder | Ich habe eine Mahnung von der Bank bekommen.
+[1a ÜB] die Pflicht, -en | কর্তব্য - duty | Es ist meine Pflicht, dir zu helfen.
+[1a ÜB] der Präsident, -en | রাষ্ট্রপতি / সভাপতি (পু.) - president (m) | Der Präsident hält heute eine wichtige Rede.
+[1a ÜB] die Präsidentin, -nen | রাষ্ট্রপতি / সভাপতি (মহিলা) - president (f) | Sie ist die erste Präsidentin dieses Vereins.
+[1a ÜB] der Prof, -s | প্রফেসর (সংক্ষেপে) - professor | Unser Prof erklärt die Grammatik sehr gut.
+[1a ÜB] der Schatz, "-e | প্রিয়তম / প্রিয়তমা - darling | Hallo, mein Schatz, wie war dein Tag?
+[1a ÜB] schätzen | ধারণা করা - to guess | Ich schätze, so tolle Nachbarn findet man selten.
+[1a ÜB] die Spätschicht, -en | রাতের শিফট - late shift | Diese Woche habe ich leider Spätschicht.
+[1a ÜB] streiken | ধর্মঘট করা - to go on strike | Die Lokführer streiken seit heute Morgen.
+[1a ÜB] die Teilnahme (Sg.) | অংশগ্রহণ - participation | Die Teilnahme am Kurs ist kostenlos.
+[1a ÜB] die Versammlung, -en | সমাবেশ - assembly | Alle Mitarbeiter kommen zur Versammlung.
+[1a ÜB] verspäten (sich) | দেরি করা - to be late | Der Zug wird sich voraussichtlich verspäten.
+[1a ÜB] das Verständnis (Sg.) | সহানুভূতি / বুঝ - sympathy | Haben Sie bitte Verständnis für die Situation.
+[2a] hervorheben | হাইলাইট করা / গুরুত্ব দেওয়া - to highlight | Der Lehrer möchte die wichtigsten Punkte hervorheben.
+[2a] schätzen (an + D.) | কদর করা / মূল্যায়ন করা - to value | Ich schätze an meinem Chef seine Ruhe.
+[2b] aus den Augen verlieren | যোগাযোগ হারিয়ে ফেলা - to lose touch | Meine Freunde habe ich leider aus den Augen verloren.
+[2b] die Ausgabe, -n | সংস্করণ - edition | Lesen Sie den Artikel in der Juli-Ausgabe.
+[2b] beim Alten bleiben | আগের মতোই থাকা - to stay the same | Früher dachte ich, dass alles beim Alten bleibt.
+[2b] berufstätig | চাকুরিজীবী / কর্মজীবী - working | Meine Eltern sind beide voll berufstätig.
+[2b] beschließen | সিদ্ধান্ত নেওয়া - to decide | Wir haben beschlossen, zusammenzuziehen.
+[2b] die Clique, -n | বন্ধুদের দল - clique | Am Wochenende treffe ich mich mit meiner Clique.
+[2b] eingespannt sein | খুব ব্যস্ত থাকা - to be very busy | Meine Freunde und ich sind beruflich stark eingespannt.
+[2b] entgegen (+ G.) | বিপরীতে - against | Entgegen aller Erwartungen hat er gewonnen.
+[2b] die Erwartung, -en | প্রত্যাশা - expectation | Die Erwartungen an das neue Projekt sind hoch.
+[2b] die Ewigkeit, -en | অনন্তকাল / দীর্ঘ সময় - ages | Wir haben uns schon eine Ewigkeit nicht gesehen.
+[2b] feststellen | বুঝতে পারা / নির্ণয় করা - to realize | Der Arzt konnte keine Krankheit feststellen.
+[2b] die Freundschaftsgeschichte, -n | বন্ধুত্বের গল্প - friendship history | Das ist eine sehr schöne Freundschaftsgeschichte.
+[2b] das Gespräch, -e | কথোপকথন - conversation | Wir müssen ins Gespräch kommen.
+[2b] guttun | উপকার করা / ভাল লাগা - to benefit | Die frische Luft wird dir nach der Arbeit guttun.
+[2b] halten | টিকে থাকা (সম্পর্ক) - to hold | Unsere Freundschaft hält schon seit 20 Jahren.
+[2b] der Konflikt, -e | দ্বন্দ্ব - conflict | Es gibt oft Konflikte wegen kleiner Dinge.
+[2b] kräftig | শক্ত / কঠোর - hard | Er gab mir einen kräftigen Händedruck.
+[2b] nachdem | পরে - after | Nachdem er gegessen hatte, ging er schlafen.
+[2b] selbe | একই - same | Inga und ich wohnen im selben Haus.
+[2b] der Studienplatz, "-e | উচ্চশিক্ষার সুযোগ / স্থান - place to study | Er hat endlich einen Studienplatz in Berlin bekommen.
+[2b] verlieren | হারানো - to lose | Ich habe meine alten Schulfreunde aus den Augen verloren.
+[2b] verstehen (sich) (mit + D.) | সুসম্পর্ক থাকা - to get along | Ich verstehe mich sehr gut mit meinem Mitbewohner.
+[2b] der Weg, -e | পথ - path | Ich bin meiner besten Freundin zufällig über den Weg gelaufen.
+[2b] zusammenstoßen | সংঘর্ষ হওয়া / ধাক্কা লাগা - to crash together | Die beiden Autos sind an der Kreuzung zusammengestoßen.
+[2b] zusammenwohnen | একসাথে থাকা - to live together | Wir haben beschlossen, ab nächstem Monat zusammenzuwohnen.
+[3a] die Bildung, -en | গঠন - formation | Wie ist die Bildung des Plusquamperfekts?
+[3a] die Gegenwart (Sg.) | বর্তমান কাল - present | In der deutschen Sprache gibt es verschiedene Zeiten für die Gegenwart.
+[3a] das Plusquamperfekt (Sg.) | পুরাঘটিত অতীত - pluperfect | Das Plusquamperfekt nutzt man für Ereignisse, die noch vor der Vergangenheit liegen.
+[3a] die Vorvergangenheit (Sg.) | অতীতেরও আগের সময় - past perfect | Das Plusquamperfekt beschreibt die Vorvergangenheit.
+[4c] das Netzwerk, -e | নেটওয়ার্ক - network | Ein gutes berufliches Netzwerk ist heute sehr wichtig.
+[6a] die Konfliktsituation, -en | দ্বন্দ্বময় পরিস্থিতি - conflict situation | In einer Konfliktsituation sollte man ruhig bleiben.
+[6c] bevor | পূর্বে / আগে - before | Bevor du gehst, musst du noch aufräumen.
+[6c] erschöpft | ক্লান্ত / পরিশ্রান্ত - exhausted | Nach der langen Wanderung war ich völlig erschöpft.
+[6c] seit | থেকে (অতীত থেকে বর্তমান) - since | Seit ich dich kenne, bin ich glücklich.
+[6c] während | চলাকালীন - while | Ich putze, während ich telefoniere.
+[6d] der Schülerjob, -s | ছাত্রাবস্থায় খণ্ডকালীন কাজ - student job | Er verdient sich mit einem Schülerjob etwas dazu.
+[8a] akzeptieren | গ্রহণ করা / মেনে নেওয়া - to accept | Du musst meine Entscheidung akzeptieren.
+[8a] bereit sein (zu + D.) | প্রস্তুত হওয়া - to be ready | Bist du bereit zur Abfahrt?
+[8a] diplomatisch | কূটনৈতিক - diplomatic | Er hat das Problem auf eine diplomatische Weise gelöst.
+[8a] einigen (sich) (auf + A.) | একমত হওয়া - to agree | Wir konnten uns auf einen Kompromiss einigen.
+[8a] erleichtern | সহজ করা - to facilitate | Das Internet erleichtert die Suche nach Informationen.
+[8a] gehören (zu + D.) | অন্তর্ভুক্ত হওয়া - to belong to | Wer gehört alles zu deiner Familie?
+[8a] die Goldwaage, -n | নিখুঁত পরিমাপক দাঁড়িপাল্লা - gold scales | Leg doch nicht jedes Wort auf die Goldwaage!
+[8a] die Harmonie, -n | সম্প্রীতি / মিল - harmony | In unserer WG herrscht große Harmonie.
+[8a] die Ich-Aussage, -n | নিজের অনুভূতি ভিত্তিক উক্তি - I-statement | In einem Streit sind Ich-Aussagen oft besser.
+[8a] die Kritik, -en | সমালোচনা - criticism | Konstruktive Kritik hilft uns, besser zu werden.
+[8a] nachgeben | হার মানা / ছাড় দেওয়া - to give in | In einer Diskussion muss manchmal einer nachgeben.
+[8a] schweigen | নীরব থাকা - to remain silent | Wenn er sauer ist, beginnt er zu schweigen.
+[8a] der Streit, -e | ঝগড়া / তর্ক - argument | Gestern hatten wir einen heftigen Streit.
+[8a] das Wort, "-er | শব্দ - word | Leg doch nicht jedes Wort auf die Goldwaage!
+[8a] zu Ende sein | শেষ হওয়া - to finish | Der Film ist leider schon zu Ende.
+[9a] aufregen (sich) (über + A.) | উত্তেজিত হওয়া / বিরক্ত হওয়া - to get annoyed | Reg dich doch nicht über diese Kleinigkeit auf!
+[9a] das Streitgespräch, -e | তর্কমূলক আলোচনা - argument | Das Streitgespräch im Fernsehen war sehr hitzig.
+[9a] übertreiben | বাড়িয়ে বলা - to exaggerate | Er neigt dazu, bei seinen Geschichten zu übertreiben.
+[9a] undiplomatisch | অ-কূটনৈতিক - undiplomatic | Deine Antwort war leider etwas undiplomatisch.
+[10a] die Modalpartikel, -n | আবেগসূচক অব্যয় - modal particle | Modalpartikeln machen die Sprache lebendiger.
+[11a ÜB] amüsieren (sich) (über + A.) | আনন্দিত হওয়া / মজা পাওয়া - to amuse | Wir amüsieren uns über den lustigen Film.
+[11a ÜB] angeblich | কথিত / তথাকথিত - allegedly | Er hat angeblich im Lotto gewonnen.
+[11a ÜB] behaupten | দাবি করা - to claim | Er behauptet, dass er die Wahrheit sagt.
+[11a ÜB] die Behauptung, -en | দাবি - claim | Das ist eine sehr mutige Behauptung.
+[11a ÜB] beschäftigt sein (mit + D.) | ব্যস্ত থাকা - to be busy | Ich bin gerade mit den Hausaufgaben beschäftigt.
+[11a ÜB] beweisen | প্রমাণ করা - to prove | Kannst du deine Behauptung auch beweisen?
+[11a ÜB] der Ehegatte, -n | স্বামী - spouse (m) | Mein Ehegatte arbeitet in einer Bank.
+[11a ÜB] die Ehegattin, -nen | স্ত্রী - spouse (f) | Seine Ehegattin ist eine berühmte Ärztin.
+[11a ÜB] eigen | নিজস্ব - own | Ich hätte gerne ein eigenes Auto.
+[11a ÜB] der Einfluss, "-e | প্রভাব - influence | Er hat einen großen Einfluss auf seine Freunde.
+[11a ÜB] die Einzelheit, -en | বিস্তারিত বিবরণ - detail | Erzähl mir bitte alle Einzelheiten von der Reise.
+[11a ÜB] der Ersatz (Sg.) | বিকল্প / প্রতিস্থাপন - replacement | Wir brauchen schnell einen Ersatz für den Spieler.
+[11a ÜB] die Fake News (Pl.) | মিথ্যা সংবাদ - fake news | Man sollte nicht alles glauben, was in Fake News steht.
+[11a ÜB] das Familienleben (Sg.) | পারিবারিক জীবন - family life | Ein ruhiges Familienleben ist ihm sehr wichtig.
+[11a ÜB] fürchten | ভয় পাওয়া - to be scared | Viele Menschen fürchten sich vor der Dunkelheit.
+[11a ÜB] geheim | গোপন - secret | Das Treffen fand an einem geheimen Ort statt.
+[11a ÜB] klicken (auf + A.) | ক্লিক করা - to click | Bitte klicken Sie auf den Link in der E-Mail.
+[11a ÜB] die Mehrheit, -en | সংখ্যাগরিষ্ঠতা - majority | Die Mehrheit der Schüler war für den Ausflug.
+[11a ÜB] die Presse (Sg.) | সংবাদপত্র / গণমাধ্যম - press | Die Presse berichtet täglich über die Krise.
+[11a ÜB] der/die Promi, -s | বিখ্যাত ব্যক্তি - famous person | Im Hotel waren viele Promis zu Gast.
+[11a ÜB] die Scheidung, -en | বিবাহবিচ্ছেদ - divorce | Nach der Scheidung lebten sie in verschiedenen Städten.
+[11a ÜB] die Schlagzeile, -n | সংবাদ শিরোনাম - headline | Diese Nachricht war heute in jeder Schlagzeile.
+[11a ÜB] wundervoll | চমৎকার - wonderful | Wir hatten einen wundervollen Abend zusammen.
+[11b] arm | গরিব - poor | Die Familie ist arm, aber sehr glücklich.
+[11b] die Fernsehkrimiserie, -n | টিভি অপরাধ ধারাবাহিক - TV crime series | Ich schaue jeden Sonntag meine Lieblings-Fernsehkrimiserie.
+[11b] das Gericht, -e (vor Gericht gehen) | আদালত (আদালতে যাওয়া) - court (to go to court) | Wir müssen mit diesem Fall vor Gericht gehen.
+[11b] kommerziell | বাণিজ্যিক - commercial | Das ist ein kommerzielles Projekt der Firma.
+[11b] komponieren | সুর করা - to compose | Er hat schon viele Lieder selbst komponiert.
+[11b] der Komponist, -en | সুরকার (পু.) - composer (m) | Beethoven war ein genialer Komponist.
+[11b] die Komponistin, -nen | সুরকার (মহিলা) - composer (f) | Sie ist eine bekannte Komponistin für Filmmusik.
+[11b] leidenschaftlich | আবেগপ্রবণ - passionate | Er ist ein leidenschaftlicher Koch.
+[11b] die Musikgeschichte (Sg.) | সংগীতের ইতিহাস - musical history | Wir lernen viel über die Musikgeschichte Europas.
+[11b] der Pianist, -en | পিয়ানোবাদক (পু.) - piano player (m) | Der Pianist spielte das Konzert fehlerfrei.
+[11b] die Pianistin, -nen | পিয়ানোবাদক (মহিলা) - piano player (f) | Die Pianistin übt jeden Tag mehrere Stunden.
+[11b] die Schauspielkarriere, -n | অভিনয় জীবন - acting career | Ihre Schauspielkarriere begann bereits im Kindesalter.
+[11b] verhindern | প্রতিরোধ করা - to prevent | Man konnte den Unfall leider nicht verhindern.
+[11b] zwingen | বাধ্য করা - to force | Niemand kann dich zwingen, das zu tun.
+[11c] dokumentieren | নথিবদ্ধ করা - to document | Wir müssen alle Ergebnisse genau dokumentieren.
+[11c] erhalten sein | সংরক্ষিত থাকা - to be preserved | Die alten Briefe sind sehr gut erhalten.
+[11c] die Inspiration, -en | অনুপ্রেরণা - inspiration | Die Natur ist für sie eine große Inspiration.
+[11c] die Konzentration (Sg.) | একাগ্রতা - concentration | Bei dieser Arbeit braucht man viel Konzentration.
+[11c] die Konzertreise, -n | সংগীত সফর - concert tour | Die Band geht nächsten Monat auf Konzertreise.
+[11c] die Krimireihe, -n | অপরাধ কাহিনী সিরিজ - crime series | Diese Krimireihe läuft schon seit vielen Jahren.
+[11c] die Parade-Rolle, -n | শ্রেষ্ঠ ভূমিকা - main role | Das war für ihn eine echte Parade-Rolle.
+[11c] der Tod, -e | মৃত্যু - death | Der Tod des Sängers war ein Schock für die Fans.
+[11c] um (+ A.) | চারপাশ / চারপাশে - around | Wir spazieren gerne um den See.
+[11d] die Sammlung, -en | সংগ্রহ - collection | Er besitzt eine große Sammlung von alten Münzen.
+[12a] der Fuchs, "-e | শিয়াল - fox | Der Fuchs gilt als ein sehr schlaues Tier.
+[12a] die Moral (Sg.) | নৈতিকতা - moral | Jede Fabel hat eine wichtige Moral.
+[12b] beißen | কামড়ানো - to bite | Pass auf, dass der Hund dich nicht beißt.
+[12b] die Beute (Sg.) | শিকার - prey | Der Löwe beobachtet seine Beute genau.
+[12b] brüllen | গর্জন করা - roared | Er musste vor Schmerz laut brüllen.
+[12b] davongehen | চলে যাওয়া - to leave | Er drehte sich um und ging einfach davon.
+[12b] die Fabel, -n | উপকথা - fable | In einer Fabel sprechen oft Tiere.
+[12b] der Feind, -e | শত্রু (পু.) - enemy (m) | Im Märchen besiegt der Held seinen Feind.
+[12b] die Feindin, -nen | শত্রু (মহিলা) - enemy (f) | Sie ist meine größte Feindin im Spiel.
+[12b] der Hirsch, -e | পুরুষ হরিণ - stag | Der Hirsch stolziert durch den Wald.
+[12b] die Jagd, -en | শিকার (কার্য) - hunt | Die Jagd beginnt früh am Morgen.
+[12b] kraftlos | শক্তিহীন - powerless | Nach der Krankheit fühlte er sich kraftlos.
+[12b] die Lebensweisheit, -en | জীবন দর্শন - worldly wisdom | Mein Großvater gab mir eine Lebensweisheit mit.
+[12b] lügen | মিথ্যা বলা - to lie | Man sollte niemals seine Freunde anlügen.
+[12b] scharf | ধারালো - sharp | Vorsicht, das Messer ist sehr scharf.
+[12b] stecken | লুকানো (এখানে) - to hide (here) | Er steckt den Schlüssel in die Tasche.
+[12b] zurückbrüllen | পাল্টা গর্জন করা - to roar back | Wenn er mich anschreit, brülle ich zurück.
+[12c] fressen | পশুদের খাবার খাওয়া - to eat (for animals) | Die Katze frisst ihren Napf leer.
+[12c] loben | প্রশংসা করা - to praise | Die Lehrerin lobt den Schüler für seine Arbeit.
+[12c] der Rabe, -n | দাঁড়কাক - crow | Ein schwarzer Rabe sitzt auf dem Dach.
+[12c] der Schnabel, "- | পাখির ঠোঁট - beak | Der Vogel hält einen Wurm im Schnabel.
+[12c] stehlen | চুরি করা - to steal | Jemand hat mein Fahrrad gestohlen.
+[12c] vorsingen | গেয়ে শোনানো - to sing for someone | Sie singt ihrer Tochter ein Lied vor.
+[12 ÜB] die Ente, -n | হাঁস - duck | Die Ente schwimmt auf dem Teich.
+[12 ÜB] die Fliege, -n | মাছি - fly | Eine Fliege summt im Zimmer herum.
+[12 ÜB] die Giraffe, -n | জিরাফ - giraffe | Die Giraffe hat einen sehr langen Hals.
+[12 ÜB] das Krokodil, -e | কুমির - crocodile | Im Fluss lebt ein gefährliches Krokodil.
+[12 ÜB] die Mücke, -n | মশা - mosquito | Nachts hat mich eine Mücke gestochen.
+[12 ÜB] der Pinguin, -e | পেঙ্গুইন - penguin | Pinguine können nicht fliegen, aber gut schwimmen.
+[12 ÜB] die Schildkröte, -n | কচ্ছপ - turtle | Die Schildkröte bewegt sich sehr langsam.
+[13a] die Rede, -n | বক্তৃতা - speech | Der Chef hält eine Rede zur Weihnachtsfeier.
+[13a] der Satzteil, -e | বাক্যের অংশ - part of sentence | Wir analysieren heute die einzelnen Satzteile.
+[13b] die Markierung, -en | চিহ্ন / দাগ - marking | Achten Sie auf die gelbe Markierung am Boden.
+[k&k] das Konfliktgespräch, -e | দ্বন্দ্বমূলক আলোচনা - argument / conflict talk | Wir müssen ein klärendes Konfliktgespräch führen.
+[k&k] der Temporalsatz, "-e | সময়বাচক বাক্য - temporal clause | Ein Temporalsatz beginnt oft mit „wenn“ oder „als“.
+[k&k] das Tempus, Tempora | ক্রিয়ার কাল - tense | Welches Tempus benutzen wir für die Vergangenheit?
+
+--------------------------------------------------------------------
+KAPITEL 8 (অধ্যায় ৮)
+--------------------------------------------------------------------
+[1a] anstrengen (sich) | কঠোর পরিশ্রম করা - to show effort | Du musst dich mehr anstrengen, um zu gewinnen.
+[1a] das Apfelmus (Sg.) | আপেলের সস / মণ্ড - apple sauce | Zum Pfannkuchen essen wir gerne Apfelmus.
+[1a] ausreichend | পর্যাপ্ত - sufficient | Acht Stunden Schlaf sind für mich ausreichend.
+[1a] blutig | রক্তাক্ত - bloody | Er hat sich eine blutige Nase geholt.
+[1a] einbauen | স্থাপন করা / যোগ করা - to build in | Wir lassen eine neue Küche einbauen.
+[1a] eincremen | ক্রিম লাগানো - to put on cream | Vor dem Sonnenbaden muss man sich eincremen.
+[1a] eiskalt | বরফ শীতল - ice cold | Das Wasser im See ist heute eiskalt.
+[1a] die Flüssigkeit, -en | তরল - fluid | Man sollte täglich viel Flüssigkeit trinken.
+[1a] der Fruchtsaft, "-e | ফলের রস - fruit juice | Möchten Sie ein Glas frischen Fruchtsaft?
+[1a] das Gehirn, -e | মস্তিষ্ক - brain | Das Gehirn steuert alle Funktionen des Körpers.
+[1a] der Geist, -er | আত্মা / মন - soul | Ein gesunder Geist lebt in einem gesunden Körper.
+[1a] die Gymnastik (Sg.) | জিমন্যাস্টিক / শরীরচর্চা - gymnastics | Morgengymnastik hilft, fit zu bleiben.
+[1a] der Knödel, - | ডাম্পলিং (এক ধরণের খাবার) - German dumpling | In Bayern isst man oft Fleisch mit Knödeln.
+[1a] kühlen | ঠান্ডা করা - to cool | Du solltest die Wunde sofort kühlen.
+[1a] der Pfannkuchen, - | প্যানকেক - pancake | Zum Frühstück gibt es heute Pfannkuchen.
+[1a] raten (+ D.) | পরামর্শ দেওয়া - to advise | Ich rate dir, auf deine Gesundheit zu achten.
+[1a] das Rätsel, - | ধাঁধা - riddle | Dieses Rätsel ist wirklich schwierig zu lösen.
+[1a] roh | কাঁচা - raw | Manche Menschen essen gerne rohen Fisch.
+[1a] der Schatten, - | ছায়া - shadow | Im Sommer suchen wir den Schatten unter Bäumen.
+[1a] der Schweinebraten, - | শুকরের রোস্ট - roast pork | Sonntags essen viele Deutschen Schweinebraten.
+[1a] spüren | অনুভব করা - to sense | Ich spüre, dass es bald regnen wird.
+[1a] stärken | শক্তিশালী করা - to strengthen | Sport kann das Immunsystem stärken.
+[1a] das Steak, -s | স্টেক - steak | Er bestellt im Restaurant ein Steak mit Salat.
+[1a] die Wasserflasche, -n | পানির বোতল - water bottle | Hast du deine Wasserflasche eingepackt?
+[1a] zwischendurch | মাঝেমধ্যে / কাজের ফাঁকে - in between | Er isst zwischendurch gerne einen Apfel.
+[1b] die Auswertung, -en | মূল্যায়ন / বিশ্লেষণ - evaluation | Die Auswertung der Umfrage dauert noch an.
+[1b] bisher | এ পর্যন্ত - so far | Bisher ist alles nach Plan gelaufen.
+[1b] einigermaßen | মোটামুটি - more or less | Die Prüfung war einigermaßen schwierig.
+[1b] das Signal, -e | সংকেত - signal | Das rote Licht ist ein Signal zum Anhalten.
+[1b] zusammenzählen | যোগ করা - to add | Kannst du die Zahlen bitte zusammenzählen?
+[2a ÜB] atmen | শ্বাস নেওয়া - to breathe | Nach dem Sport muss er tief atmen.
+[2a ÜB] auflösen | সমাধান করা / মিশিয়ে ফেলা - to resolve | Du musst die Tablette in Wasser auflösen.
+[2a ÜB] blass | ফ্যাকাশে - pale | Du siehst heute sehr blass aus. Bist du krank?
+[2a ÜB] die Brust, "-e | বুক - chest | Er hat Schmerzen in der Brust.
+[2a ÜB] einnehmen | গ্রহণ করা (ওষুধ) - to take (medicine) | Er muss die Medikamente dreimal täglich einnehmen.
+[2a ÜB] kleben | আঠা দিয়ে লাগানো - to stick | Kannst du das Pflaster auf die Wunde kleben?
+[2a ÜB] der Krankenwagen, - | অ্যাম্বুলেন্স - ambulance | Der Krankenwagen war sehr schnell vor Ort.
+[2a ÜB] krankschreiben | অসুস্থতাজনিত ছুটি দেওয়া - to sign sb off work | Der Arzt hat ihn für eine Woche krankgeschrieben.
+[2a ÜB] die Notaufnahme, -n | জরুরি বিভাগ - emergency room | Er wurde sofort in die Notaufnahme gebracht.
+[2a ÜB] der Notruf, -e | জরুরি কল - SOS, emergency call | Bei einem Unfall wählt man den Notruf.
+[2a ÜB] das Pulver, - | গুঁড়া - powder | Das Medikament gibt es als Tabletten oder Pulver.
+[2a ÜB] der Rest, -e | অবশিষ্টাংশ - rest | Den Rest des Essens stellen wir in den Kühlschrank.
+[2a ÜB] das Schmerzmittel, - | ব্যথানাশক ওষুধ - pain killer | Haben Sie ein Schmerzmittel gegen Kopfschmerzen?
+[2a ÜB] die Schulter, -n | কাঁধ - shoulder | Er trägt seinen Rucksack auf der Schulter.
+[2a ÜB] verschreiben | ব্যবস্থাপত্র দেওয়া (প্রেসক্রিপশন) - to prescribe | Der Arzt verschreibt ihm ein Antibiotikum.
+[2a ÜB] die Versichertenkarte, -n | বিমা কার্ড - insurance card | Bitte zeigen Sie Ihre Versichertenkarte vor.
+[2b] das Krankenzimmer, - | হাসপাতালের কক্ষ - hospital room | Er liegt allein in einem Krankenzimmer.
+[2c] brauchen (+ zu) | প্রয়োজন হওয়া - to need | Sie brauchen mich nur zu rufen, wenn Sie Hilfe brauchen.
+[2c] warnen (vor + D.) | সতর্ক করা - to warn | Die Polizei warnt vor Glatteis auf den Straßen.
+[3a] der Pfleger, - | পুরুষ নার্স - nurse (m) | Der Pfleger kümmert sich um die Patienten.
+[3a] die Pflegerin, -nen | মহিলা নার্স - nurse (f) | Die Pflegerin bringt das Essen ins Zimmer.
+[3c] glatt | মসৃণ - smooth | Die Straße ist nach dem Regen sehr glatt.
+[3c] schwindelig | মাথা ঘোরা - dizzy | Mir ist ein bisschen schwindelig heute.
+[3c] unbequem | অস্বস্তিকর - uncomfortable | Dieser Stuhl ist leider sehr unbequem.
+[4a] das Akkusativobjekt, -e | কর্মকারক (অ্যাকুসাটিভ অবজেক্ট) - direct object | Ein Akkusativobjekt folgt meistens auf Verben wie „haben“.
+[4b] kämmen (sich) | চুল আঁচড়ানো - to comb | Vor dem Ausgehen muss ich mich noch kämmen.
+[5a] die Besuchszeit, -en | দর্শনার্থীদের সময় - visiting hours | Die Besuchszeit im Krankenhaus endet um 20 Uhr.
+[5a] die Wertsachen (Pl.) | মূল্যবান জিনিসপত্র - valuables | Schließen Sie Ihre Wertsachen bitte im Tresor ein.
+[5b] der Alarmknopf, "-e | বিপ সংকেত বাটন - alarm (button) | Drücken Sie im Notfall den roten Alarmknopf.
+[5b] der Apparat, -e | যন্ত্র / সরঞ্জাম - apparatus, machine | Dieser medizinische Apparat ist sehr teuer.
+[5b] aufbewahren | সংরক্ষণ করা - to keep safe | Medikamente sollte man kindersicher aufbewahren.
+[5b] aufteilen | ভাগ করা - to divide | Wir müssen die Arbeit gerecht aufteilen.
+[5b] der Bademantel, "- | গোসলের পোশাক - bathrobe | Nach dem Duschen ziehe ich meinen Bademantel an.
+[5b] die Bedienungsanleitung, -en | ব্যবহারবিধি - instruction manual | Lesen Sie zuerst die Bedienungsanleitung.
+[5b] beschildert | চিহ্নযুক্ত - marked with signs | Der Wanderweg ist sehr gut beschildert.
+[5b] betragen | পরিমাণ হওয়া - to come to | Die Kosten für die Behandlung betragen 100 Euro.
+[5b] der Brand, "-e | অগ্নিকাণ্ড - fire | Die Feuerwehr konnte den Brand schnell löschen.
+[5b] die Chipkarte, -n | চিপ কার্ড - keycard | Sie brauchen eine Chipkarte, um das Zimmer zu öffnen.
+[5b] der Diät-Assistent, -en | খাদ্য বিশেষজ্ঞ (পু.) - dietary assistant (m) | Der Diät-Assistent hilft bei der Essenswahl.
+[5b] die Diät-Assistentin, -nen | খাদ্য বিশেষজ্ঞ (মহিলা) - dietary assistant (f) | Die Diät-Assistentin erklärt den Speiseplan.
+[5b] die Drogerie, -n | প্রসাধনী ও ওষুধের দোকান - drug store | Ich kaufe Shampoo und Zahnpasta in der Drogerie.
+[5b] einschließlich | সহ / অন্তর্ভুক্ত করে - including | Der Preis ist einschließlich Mehrwertsteuer.
+[5b] die Entlassung, -en | হাসপাতাল থেকে ছুটি - discharge | Morgen ist meine Entlassung aus dem Krankenhaus.
+[5b] die Fernbedienung, -en | রিমোট কন্ট্রোল - remote control | Wo liegt eigentlich die Fernbedienung für den Fernseher?
+[5b] das Fernsehgerät, -e | টেলিভিশন যন্ত্র - television | Er hat sich ein neues Fernsehgerät gekauft.
+[5b] das Festnetz (Sg.) | ল্যান্ডলাইন ফোন - landline | Rufen Sie mich bitte auf dem Festnetz an.
+[5b] grundsätzlich | মূলত / নীতিগতভাবে - in general | Grundsätzlich bin ich mit dem Plan einverstanden.
+[5b] der Haupteingang, "-e | প্রধান প্রবেশপথ - main entrance | Wir treffen uns direkt vor dem Haupteingang.
+[5b] die Hauptmahlzeit, -en | প্রধান খাবার - main meal | Mittagessen ist für viele die wichtigste Hauptmahlzeit.
+[5b] der Hausschuh, -e | ঘরের চটি জুতো - slipper | Im Haus trage ich am liebsten bequeme Hausschuhe.
+[5b] das Infoblatt, "-er | তথ্যপত্র - fact sheet | Alle Details finden Sie auf diesem Infoblatt.
+[5b] der Klinikaufenthalt, -e | হাসপাতালে অবস্থান - hospital stay | Nach dem Klinikaufenthalt muss er sich ausruhen.
+[5b] das Küchenteam, -s | রান্নাঘরের দল - kitchen staff | Das Küchenteam bereitet das Essen für alle Patienten vor.
+[5b] das Nachthemd, -en | নাইটগাউন - nightgown | Sie trägt nachts ein bequemes Nachthemd.
+[5b] der Nachttisch, -e | বিছানার পাশের টেবিল - nightstand | Mein Buch liegt auf dem Nachttisch.
+[5b] der Notausgang, "-e | জরুরি বহির্গমন পথ - emergency exit | Halten Sie den Notausgang immer frei.
+[5b] obere | উপরের - upper | Das Zimmer befindet sich im oberen Stockwerk.
+[5b] prinzipiell | নীতিগতভাবে - basically | Das ist prinzipiell eine sehr gute Idee.
+[5b] die Rücksicht (Sg.) | বিবেচনা / সতর্কতা - consideration | Bitte nehmen Sie Rücksicht auf Ihre Nachbarn.
+[5b] der Schlafanzug, "-e | পায়জামা সেট - pyjamas | Kinder ziehen abends ihren Schlafanzug an.
+[5b] das Schließfach, "-er | লকার - safe / locker | Man kann seine Tasche im Schließfach lassen.
+[5b] das Shampoo, -s | শ্যাম্পু - shampoo | Ich brauche ein mildes Shampoo für meine Haare.
+[5b] sichtbar | দৃশ্যমান - visible | Der Berg war trotz des Nebels gut sichtbar.
+[5b] der Trainingsanzug, "-e | ট্রাকস্যুট - track suit | Zum Joggen ziehe ich meinen Trainingsanzug an.
+[5b] untersagt sein | নিষিদ্ধ হওয়া - to be forbidden | Das Rauchen ist hier streng untersagt.
+[5b] die Zahnbürste, -n | টুথব্রাশ - toothbrush | Ich muss mir eine neue Zahnbürste kaufen.
+[5b] die Zahnpasta, -pasten | টুথপেস্ট - toothpaste | Diese Zahnpasta schmeckt nach Minze.
+[5b] der Zimmernachbar, -n | রুমের প্রতিবেশী (পু.) - next-door neighbour (m) | Mein Zimmernachbar im Krankenhaus ist sehr nett.
+[5b] die Zimmernachbarin, -nen | রুমের প্রতিবেশী (মহিলা) - next-door neighbour (f) | Meine Zimmernachbarin schläft schon.
+[5b] zur Verfügung stehen | হাতের কাছে বা ব্যবহারের জন্য থাকা - to be available | Das WLAN steht Ihnen kostenlos zur Verfügung.
+[5b] zuständig (für + A.) | দায়িত্বপ্রাপ্ত - responsible | Wer ist für diese Abteilung zuständig?
+[5b] die Zwischenmahlzeit, -en | হালকা নাস্তা - snack | Ein Apfel ist eine gesunde Zwischenmahlzeit.
+[5c] der Krankenbesuch, -e | রোগী দেখতে যাওয়া - hospital visit | Ich mache heute Nachmittag einen Krankenbesuch.
+[6b] der Alzheimer (Sg.) | আলঝেইমার রোগ - Alzheimer's Disease | Alzheimer ist eine schwere Krankheit des Gehirns.
+[6b] amerikanisch | আমেরিকান - American | Er hört am liebsten amerikanische Rockmusik.
+[6b] andererseits | অন্যদিকে - on the other hand | Einerseits ist es laut, andererseits macht es Spaß.
+[6b] auslösen | উদ্রেক করা / ঘটানো - to elicit | Musik kann starke Emotionen auslösen.
+[6b] die Beerdigung, -en | অন্ত্যেষ্টিক্রিয়া - funeral | Die Musik bei der Beerdigung war sehr traurig.
+[6b] beruhigend | আরামদায়ক / শান্তিদায়ক - soothing | Klassische Musik hat oft eine beruhigende Wirkung.
+[6b] das Dur (Sg.) | ডার (সংগীতের মেজর স্কেল) - major (music) | Lieder in Dur klingen meistens fröhlich.
+[6b] einerseits ..., andererseits | একদিকে ..., অন্যদিকে... - on the one hand..., on the other hand... | Einerseits will ich gehen, andererseits bleibe ich hier.
+[6b] empfinden | অনুভব করা - to feel | Was empfinden Sie, wenn Sie diese Melodie hören?
+[6b] entweder ... oder ... | হয় এটা ... অথবা ওটা ... - either ... or ... | Wir gehen entweder ins Kino oder ins Konzert.
+[6b] feierlich | উৎসবমুখর / গম্ভীর - festive | Die Stimmung in der Kirche war sehr feierlich.
+[6b] die Filmbranche, -n | চলচ্চিত্র শিল্প - film industry | Er arbeitet seit Jahren in der Filmbranche.
+[6b] der Forscher, - | গবেষক (পু.) - researcher (m) | Der Forscher untersucht die Wirkung von Klängen.
+[6b] die Forscherin, -nen | গবেষক (মহিলা) - researcher (f) | Die Forscherin veröffentlicht ihre neue Studie.
+[6b] gelangen | পৌঁছানো / অর্জন করা - to reach, attain | So gelangen die Signale direkt ins Gehirn.
+[6b] Heavy Metal (Sg.) | হেভি মেটাল সংগীত - heavy metal | Heavy Metal ist ihm viel zu laut.
+[6b] der Käsekuchen, - | চিজকেক - cheesecake | Zum Kaffee gibt es heute leckeren Käsekuchen.
+[6b] die Klassik (Sg.) | শাস্ত্রীয় সংগীত - classic | Viele Menschen entspannen sich bei Klassik.
+[6b] leiden (an + D.) | ভোগা (অসুখে) - to suffer (from) | Viele ältere Menschen leiden an Gedächtnisverlust.
+[6b] die Liebesszene, -n | প্রেমের দৃশ্য - love scene | Die Musik untermalt die romantische Liebesszene.
+[6b] die Medizin (Sg.) | ওষুধ / চিকিৎসা বিজ্ঞান - medicine | Musik kann wie Medizin wirken.
+[6b] Metal (Sg.) | মেটাল সংগীত - metal music | Ich höre gern Metal.
+[6b] mithilfe (von + D.) | সাহায্যে - with the help of | Mithilfe der Musik konnte er sich erinnern.
+[6b] das Moll (Sg.) | মোল (সংগীতের মাইনর স্কেল) - minor (music) | Lieder in Moll klingen oft melancholisch.
+[6b] der Musikgeschmack (Sg.) | সংগীতের রুচি - music taste | Über Musikgeschmack lässt sich nicht streiten.
+[6b] das Musikstudium, -studien | সংগীত বিদ্যা - study of music | Sie hat ihr Musikstudium erfolgreich abgeschlossen.
+[6b] nicht nur ..., sondern auch ... | শুধু এটাই না ..., ওটাও... - not only ... but also ... | Musik ist nicht nur Kunst, sondern auch Therapie.
+[6b] der Puls (Sg.) | নাড়ির স্পন্দন - pulse | Schnelle Musik beschleunigt den Puls.
+[6b] die Reklame, -n | বিজ্ঞাপন - advertisement | In der Reklame wird oft Ohrwurm-Musik benutzt.
+[6b] Salsa (Sg.) | সালসা সংগীত - salsa music | In diesem Club wird meistens Salsa gespielt.
+[6b] sinken | কমে যাওয়া / নিমজ্জিত হওয়া - to sink | Bei ruhiger Musik sinkt der Blutdruck.
+[6b] sowohl ... als auch ... | এটাও... আবার ওটাও ... - as well as | Das Konzert war sowohl laut als auch gut.
+[6b] das Stück, -e | টুকরো / সংগীতের অংশ - piece | Ich spiele ein Stück von Mozart am Klavier.
+[6b] der Ton, "-e | সুর / শব্দ - tone | Er trifft beim Singen jeden Ton genau.
+[6b] die Tonart, -en | তালের ধরন / সুরের চাবিকাঠি - key | In welcher Tonart ist das Lied geschrieben?
+[6b] tragisch | মর্মান্তিক / ট্র্যাজিক - tragic | Die Oper hat ein sehr tragisches Ende.
+[6b] verarbeiten | প্রক্রিয়া করা - to process | Das Gehirn muss die vielen Reize verarbeiten.
+[6b] vermutlich | সম্ভবত - presumably | Das Konzert ist vermutlich schon ausverkauft.
+[6b] weder ... noch ... | এটাও না ... ওটাও না... - neither ... nor ... | Ich mag weder Jazz noch Rockmusik.
+[6b] die Wirkung, -en | প্রভাব / ফলাফল - effect | Die heilende Wirkung von Musik ist bekannt.
+[6b] würzig | মসলাযুক্ত / ঝাল - spicy | Das Essen in diesem Restaurant ist sehr würzig.
+[6b] zwar ..., aber ... | যদিও ..., কিন্তু... - still ... yet ... | Die Musik ist zwar alt, aber immer noch gut.
+[6c] die Heilung, -en | আরোগ্য / নিরাময় - cure | Wir hoffen auf eine schnelle Heilung.
+[6d] das Wort, -e | শব্দ (ব্যাখ্যা করতে) - word (to explain using easy words) | Er erklärt es mit einfachen Worten.
+[7a] die Einschränkung, -en | সীমাবদ্ধতা - limitation | Trotz seiner Einschränkung kann er Klavier spielen.
+[7a] der Konnektor, -en | সংযোজক শব্দ - restriction (connector) | „Sowohl...als auch“ ist ein zweiteiliger Konnektor.
+[7a] zweiteilig | দুই অংশ বিশিষ্ট - two-part | Es gibt viele zweiteilige Konnektoren im Deutschen.
+[7b] der Jazz (Sg.) | জ্যাজ সংগীত - jazz | In der Bar wird heute Abend Jazz gespielt.
+[7b] klassisch | ধ্রুপদী - classic | Er hört am liebsten klassische Musik.
+[8] der Kopf, "-e | মাথা - head | Was geht dir durch den Kopf?
+[9a] die Nachfrage, -n | চাহিদা / অনুসন্ধান - demand, inquiry | Es gibt eine große Nachfrage nach diesem neuen Medikament.
+[9a] die Unsicherheit, -en | অনিশ্চয়তা / দ্বিধা - uncertainty | Am Anfang gab es noch viel Unsicherheit über die Regeln.
+[10a] die Gedächtnisleistung, -en | স্মৃতিশক্তি - memory skills | Rätsel können die Gedächtnisleistung im Alter verbessern.
+[10a] kommen (auf + A.) | মনে আসা / সমাধান পাওয়া - to think (of solution) | Ich komme gerade nicht auf die Lösung des Problems.
+[10a] die Kursstunde, -n | ক্লাসের ঘণ্টা - lesson | In der letzten Kursstunde haben wir Grammatik geübt.
+[10a] überfragt sein | উত্তর দিতে অক্ষম হওয়া - to be stumped | Da bin ich leider überfragt, das weiß ich nicht.
+[10a] woran | কিসের উপর / কিসে - what | Woran denkst du gerade so intensiv?
+[10a] die Zunge, -n | জিহ্বা - tongue | Das Wort liegt mir auf der Zunge, aber ich komme nicht drauf.
+[11a] der Lerncoach, -s | শিখনের প্রশিক্ষক - learning coach | Ein Lerncoach hilft Schülern, besser zu lernen.
+[11a] die Motivation (Sg.) | অনুপ্রেরণা / প্রেষণা - motivation | Ohne Motivation ist es schwer, eine Sprache zu lernen.
+[11a] die Programmankündigung, -en | অনুষ্ঠানের ঘোষণা - program announcement | Hast du die Programmankündigung für heute Abend gelesen?
+[11a] der Studiogast, "-e | স্টুডিওর অতিথি - studio guest | Heute begrüßen wir einen Experten als Studiogast.
+[11a] vermitteln | প্রদান করা / শেখানো - to convey | Lehrer vermitteln den Schülern wichtiges Wissen.
+[11b] der Lerntipp, -s | শেখার কৌশল - learning tip | Kannst du mir einen guten Lerntipp für Vokabeln geben?
+[11b] der Lerntyp, -en | শেখার ধরন - learning type | Jeder Mensch ist ein anderer Lerntyp.
+[11b] die Lernzeit, -en | পড়ার সময় - learning time | Ich plane meine Lernzeit immer fest in den Tag ein.
+[11c] der Moderator, -en | উপস্থাপক (পু.) - moderator (m) | Der Moderator stellt die Gäste der Sendung vor.
+[11c] die Moderatorin, -nen | উপস্থাপক (মহিলা) - moderator (f) | Die Moderatorin leitet die Diskussion sehr gut.
+[11c] motiviert | অনুপ্রাণিত - motivated | Ich bin heute sehr motiviert zu arbeiten.
+[12a] ausdenken (sich) | উদ্ভাবন করা / কল্পনা করা - to think of | Er hat sich eine lustige Geschichte ausgedacht.
+[12a] fantasievoll | কল্পনাপ্রসূত / সৃজনশীল - imaginative | Kinder haben oft sehr fantasievolle Ideen.
+[12a] überprüfen | পরীক্ষা করা / যাচাই করা - to check | Du solltest deine Antworten noch einmal überprüfen.
+[12a] ungewöhnlich | অস্বাভাবিক / অসাধারণ - unusual | Das ist ein sehr ungewöhnliches Hobby.
+[13a] alltäglich | সাধারণ / প্রাত্যহিক - ordinary | Das ist ein ganz alltägliches Problem.
+[13a] die Altersgruppe, -n | বয়স ভিত্তিক দল - peer group | Das Programm ist für die Altersgruppe von 10 bis 12 Jahren.
+[13a] ausbreiten (sich) | ছড়িয়ে পড়া - to spread | Der Duft von frischem Brot breitet sich im Haus aus.
+[13a] der Ausflugstipp, -s | ভ্রমণের পরামর্শ - excursion tip | In diesem Heft gibt es tolle Ausflugstipps für das Wochenende.
+[13a] der Aussichtsturm, "-e | পর্যবেক্ষণ টাওয়ার - observation tower | Vom Aussichtsturm hat man einen tollen Blick über die Stadt.
+[13a] barrierearm | প্রতিবন্ধকতা মুক্ত - partly accessible | Das Museum ist barrierearm und für Rollstuhlfahrer geeignet.
+[13a] essbar | ভক্ষণযোগ্য - edible | Diese Pilze im Wald sind leider nicht essbar.
+[13a] familienfreundlich | পরিবার বান্ধব - family friendly | Das Hotel ist sehr familienfreundlich eingerichtet.
+[13a] die Ferne (Sg.) | দূরত্ব - distance | In der Ferne kann man die Berge sehen.
+[13a] formen | আকার দেওয়া - to form | Er formt aus Ton eine kleine Figur.
+[13a] das Freigelände, - | খোলা প্রাঙ্গণ - open-air site | Das Konzert findet auf dem Freigelände statt.
+[13a] geeignet (für + A.) | উপযুক্ত - suitable | Dieser Film ist nicht für kleine Kinder geeignet.
+[13a] interaktiv | ইন্টারেক্টিভ - interactive | Das Museum bietet viele interaktive Stationen an.
+[13a] der Klang, "-e | শব্দ / সুর - sound | Der Klang der Gitarre ist sehr schön.
+[13a] der/die Musikinteressierte, -n | সংগীতে আগ্রহী ব্যক্তি - musically interested | Das Festival ist ein Muss für alle Musikinteressierten.
+[13a] der Pfad, -e | পথ - way / path | Wir folgen dem schmalen Pfad durch den Wald.
+[13a] Riesen- | বিশাল - huge | Sie wohnen in einem Riesenhaus mit zehn Zimmern.
+[13a] die Schönheit, -en | সৌন্দর্য - beauty | Die Schönheit der Natur beeindruckt mich immer wieder.
+[13a] traumhaft | স্বপ্নের মতো চমৎকার - dreamy | Wir hatten einen traumhaften Urlaub am Meer.
+[13a] die Villa, Villen | ভিলা / অট্টালিকা - mansion | Die alte Villa am See steht zum Verkauf.
+[13a] visuell | চাক্ষুষ / দৃশ্যমান - visual | Er lernt am besten durch visuelle Reize.
+[13a] wundern (sich) (über + A.) | বিস্মিত হওয়া - to marvel | Ich wundere mich über sein seltsames Verhalten.
+
+--------------------------------------------------------------------
+KAPITEL 9 (অধ্যায় ৯)
+--------------------------------------------------------------------
+[1a] das Kunststück, -e | শিল্পের কাজ / কারুকাজ - piece of art | Der Magier zeigte ein beeindruckendes Kunststück.
+[1b] anregen (zu + D.) | উৎসাহিত করা - to inspire | Das Buch regt zum Nachdenken an.
+[1b] die Betonwand, "-e | কংক্রিটের দেয়াল - concrete wall | Die Betonwand war voller bunter Graffitis.
+[1b] der Brunnen, - | ঝরনা / পানির আধার - fountain | In der Stadtmitte steht ein alter Brunnen.
+[1b] die Espressokanne, -n | এসপ্রেসো তৈরির পাত্র - espresso can | Er stellt die Espressokanne auf den Herd.
+[1b] das Graffito, Graffiti | দেয়াল চিত্র (গ্রাফিতি) - graffiti | An der Hauswand ist ein neues Graffito.
+[1b] die Hauswand, "-e | বাড়ির দেয়াল - exterior wall of a house | Die Kinder spielen Ball gegen die Hauswand.
+[1b] hinauf | উপরে / উপরের দিকে - up | Er schaute die steile Treppe hinauf.
+[1b] die Installation, -en | স্থাপনা শিল্প - installation | Die moderne Kunst-Installation ist sehr groß.
+[1b] konsumieren | ভোগ করা - to consume | Wir konsumieren heute zu viele Medien.
+[1b] der Kunstblog, -s | শিল্প বিষয়ক ব্লগ - art blog | Sie schreibt wöchentlich für einen Kunstblog.
+[1b] das Kunstwerk, -e | শিল্পকর্ম - artwork | Das Gemälde ist ein echtes Kunstwerk.
+[1b] rund | গোল - round | Ein Ball ist normalerweise rund.
+[1b] der Spieß, -e | শিক / শূল্য - skewer | Das Fleisch steckt auf einem langen Spieß.
+[1b] der Stadtteil, -e | শহরের অংশ / এলাকা - district | In diesem Stadtteil wohnen viele Künstler.
+[1b] die Statue, -n | মূর্তি - statue | Auf dem Marktplatz steht eine goldene Statue.
+[1b] weich | নরম - soft | Das Kissen auf dem Sofa ist sehr weich.
+[1b] weiterentwickeln | আরও উন্নত করা - to evolve | Die Technik entwickelt sich ständig weiter.
+[1b] steil | খাড়া - steep | Der Weg auf den Berg ist sehr steil.
+[2a] die Umfrage, -n | রেডিও জরিপ - radio survey | Die Radioumfrage zeigt, was die Leute hören.
+[2b] das Kunstobjekt, -e | শিল্প বস্তু - artwork | Das Museum stellt teure Kunstobjekte aus.
+[3a] die Putzfrau, -en | পরিচ্ছন্নতাকর্মী (মহিলা) - cleaner (f) | Die Putzfrau reinigt das Büro jeden Abend.
+[3a] der Putzmann, "-er | পরিচ্ছন্নতাকর্মী (পুরুষ) - cleaner (m) | Der Putzmann wischt gerade den Boden.
+[3a] tierisch | পশু সংক্রান্ত - animal | Die Fabel handelt von tierischen Helden.
+[3a] der Zeitungstext, -e | পত্রিকার অনুচ্ছেদ - newspaper text | Er liest einen interessanten Zeitungstext.
+[3b] die Auktion, -en | নিলাম - auction | Das Bild wurde bei einer Auktion verkauft.
+[3b] der Auktionsbesucher, - | নিলামে আগত ব্যক্তি (পু.) - auction visitor (m) | Der Auktionsbesucher bietet für die Vase.
+[3b] die Auktionsbesucherin, -nen | নিলামে আগত ব্যক্তি (মহিলা) - auction visitor (f) | Sie ist eine regelmäßige Auktionsbesucherin.
+[3b] begrenzt | সীমিত - limited | Die Teilnehmerzahl für den Kurs ist begrenzt.
+[3b] beschädigen | ক্ষতি করা - to damage | Pass auf, dass du das Bild nicht beschädigst.
+[3b] clever | চালাক - smart | Das war eine sehr clevere Entscheidung.
+[3b] erraten | আন্দাজ করে বলা - to guess | Kannst du mein Alter erraten?
+[3b] der Ethnologe, -n | নৃবিজ্ঞানী (পুরুষ) - ethnologist (m) | Der Ethnologe studiert fremde Kulturen.
+[3b] die Ethnologin, -nen | নৃবিজ্ঞানী (মহিলা) - ethnologist (f) | Die Ethnologin schreibt über alte Bräuche.
+[3b] die Galerie, -n | গ্যালারি - gallery | Morgen besuchen wir die neue Kunstgalerie.
+[3b] die Gummiwanne, -n | রবারের গামলা / টব - rubber tub | Er wäscht seine Schuhe in einer Gummiwanne.
+[3b] handeln (sich) (um + A.) | বিষয়ে হওয়া - to be about | Es handelt sich hierbei um ein Missverständnis.
+[3b] herankommen (an + A.) | কাছে আসা - to approach | Man darf nicht zu nah an das Kunstwerk herankommen.
+[3b] das Inland (Sg.) | স্বদেশ - inland | Die Produkte werden im Inland verkauft.
+[3b] der Käufer, - | ক্রেতা (পুরুষ) - buyer (m) | Der Käufer bezahlt das Bild bar.
+[3b] die Käuferin, -nen | ক্রেতা (মহিলা) - buyer (f) | Die Käuferin ist mit dem Preis zufrieden.
+[3b] der Kunsthistoriker, - | শিল্প ইতিহাসবিদ (পু.) - art historian (m) | Der Kunsthistoriker erklärt das Gemälde.
+[3b] die Kunsthistorikerin, -nen | শিল্প ইতিহাসবিদ (মহিলা) - art historian (f) | Sie arbeitet als Kunsthistorikerin im Museum.
+[3b] der Kunstsupermarkt, "-e | শিল্পের সুপারমার্কেট - art supermarket | Im Kunstsupermarkt gibt es günstige Bilder.
+[3b] das Missgeschick, -e | দুর্ভাগ্য / ছোট দুর্ঘটনা - misfortune | Ihm ist ein kleines Missgeschick passiert.
+[3b] nicht ..., sondern ... | এটা না..., বরং ওটা ... - not..., but... | Er ist kein Maler, sondern ein Musiker.
+[3b] original | আসল - original | Das ist ein originales Gemälde aus dem 19. Jahrhundert.
+[3b] das Original, -e | মূল কাজ - original | Das Original hängt im Museum in Paris.
+[3b] die Preiskategorie, -n | মূল্যের বিভাগ - price category | Die Bilder gibt es in verschiedenen Preiskategorien.
+[3b] die Reinigungsfirma, -firmen | পরিষ্কারকারী প্রতিষ্ঠান - cleaning company | Die Reinigungsfirma kommt jeden Montagabend.
+[3b] das Reinigungspersonal (Sg.) | পরিচ্ছন্নতাকর্মী দল - cleaning staff | Das Reinigungspersonal hat das Kunstwerk versehentlich entsorgt.
+[3b] scheinbar | আপাতদৃষ্টিতে - apparent | Das war ein scheinbar unlösbares Problem.
+[3b] der Verkaufsraum, "-e | বিক্রয় কেন্দ্র / শোরুম - showroom | Im Verkaufsraum stehen viele moderne Skulpturen.
+[3b] der Zoodirektor, -en | চিড়িয়াখানা পরিচালক (পু.) - zoo director (m) | Der Zoodirektor freut sich über die neuen Tiere.
+[3b] die Zoodirektorin, -nen | চিড়িয়াখানা পরিচালক (মহিলা) - zoo director (f) | Die Zoodirektorin gibt ein Interview über den Naturschutz.
+[4a] die Präpositionalergänzung, -en | অব্যয়যুক্ত পরিপূরক - prepositional appendix | In diesem Satz gibt es eine Präpositionalergänzung.
+[4a] die Satzverneinung, -en | বাক্য না-বোধক করা - sentence negation | „Nicht“ wird oft für die Satzverneinung benutzt.
+[4a] die Stellung, -en | অবস্থান - position | Achten Sie auf die Stellung des Verbs im Satz.
+[4a] der Verbteil, -e | ক্রিয়ার অংশ - part of the verb | Bei trennbaren Verben steht ein Verbteil am Ende.
+[4a] verneinen | অস্বীকার করা / না বলা - to negate | Er hat die Frage mit einem Kopfschütteln verneint.
+[4b] die Putzfirma, -firmen | পরিষ্কারকারী প্রতিষ্ঠান - cleaning company | Wir haben eine Putzfirma für das Büro beauftragt.
+[5c] durcheinander | বিশৃঙ্খল - disorganized | In meinem Zimmer ist alles total durcheinander.
+[7a ÜB] anwenden | প্রয়োগ করা - to use | Man muss die Theorie auch in der Praxis anwenden.
+[7a ÜB] aufführen | উপস্থাপন করা / অভিনয় করা - to perform | Die Schüler führen am Ende des Jahres ein Theaterstück auf.
+[7a ÜB] auftreten | মঞ্চে আসা / অভিনয় করা - to perform | Die Band wird heute Abend live auftreten.
+[7a ÜB] behandeln | চিকিৎসা করা / আলোচনা করা - to treat | Der Arzt behandelt den verletzten Arm.
+[7a ÜB] besprechen | আলোচনা করা - to discuss | Wir müssen den Termin noch einmal besprechen.
+[7a ÜB] die Broschüre, -n | পুস্তিকা - brochure | In der Broschüre stehen alle wichtigen Informationen.
+[7a ÜB] das Büfett, -s | বুফে - buffet | Das Büfett ist eröffnet, bedienen Sie sich bitte.
+[7a ÜB] die Darstellung, -en | চিত্রণ / বর্ণনা - depiction | Das ist eine realistische Darstellung der Natur.
+[7a ÜB] die Eröffnung, -en | উদ্বোধন - opening | Viele Gäste kamen zur Eröffnung der Galerie.
+[7a ÜB] der Frieden (Sg.) | শান্তি - peace | Wir hoffen alle auf einen dauerhaften Frieden.
+[7a ÜB] der Geschmack (Sg.) | স্বাদ / রুচি - flavour | Das Essen hat einen sehr würzigen Geschmack.
+[7a ÜB] herumspringen | চারপাশে লাফালাফি করা - to jump around | Die Kinder springen fröhlich im Garten herum.
+[7a ÜB] das Kostüm, -e | পোশাক - costume | Für das Theaterstück brauchen wir bunte Kostüme.
+[7a ÜB] der Kursabschluss, "-e | কোর্স শেষ করা - course completion | Nach dem Kursabschluss erhalten alle ein Zertifikat.
+[7a ÜB] die Qualifikation, -en | যোগ্যতা - qualification | Er hat alle notwendigen Qualifikationen für den Job.
+[7a ÜB] rennen | দৌড়ানো - to run | Er musste rennen, um den Bus noch zu erreichen.
+[7a ÜB] schminken (sich) | সাজগোজ করা - to put make up on | Sie schminkt sich jeden Morgen vor dem Spiegel.
+[7a ÜB] schreien | চিৎকার করা - to scream | Man muss nicht schreien, ich höre dich gut.
+[7a ÜB] der Snack, -s | হালকা নাস্তা - snack | Möchtest du einen kleinen Snack für zwischendurch?
+[7a ÜB] das Theaterabenteuer, - | থিয়েটার অভিযান - theatre adventure | Der Abend war ein echtes Theaterabenteuer.
+[7a ÜB] die Uniform, -en | ইউনিফর্ম - uniform | Polizisten tragen im Dienst eine Uniform.
+[7b] das Aquarell, -e | জলরঙের ছবি - watercolour | Sie hat ein wunderschönes Aquarell vom See gemalt.
+[7b] bestehen (aus + D.) | গঠিত হওয়া - to consist | Wasser besteht aus Wasserstoff und Sauerstoff.
+[7b] bewegen | আলোড়িত করা / নড়ানো - to move | Die traurige Musik hat mich sehr bewegt.
+[7b] brasilianisch | ব্রাজিলিয়ান - Brazilian | Er liebt brasilianische Musik und Tänze.
+[7b] erarbeiten | অর্জন করা / তৈরি করা - to develop | Wir müssen uns diesen Erfolg hart erarbeiten.
+[7b] künstlerisch | শৈল্পিক - artistic | Sie hat eine große künstlerische Begabung.
+[7b] die Ölfarbe, -n | তৈলরঙ - oil colour | Das Porträt wurde mit Ölfarben gemalt.
+[7b] die Palette, -n | রঙের থালা - palette | Der Maler mischt die Farben auf seiner Palette.
+[7b] der Schwerpunkt, -e | মূল কেন্দ্র / ফোকাস - focus | Der Schwerpunkt des Kurses liegt auf der Grammatik.
+[7b] der Theatermacher, - | থিয়েটার নির্মাতা (পু.) - theatre maker (m) | Der Theatermacher plant eine neue Produktion.
+[7b] die Theatermacherin, -nen | থিয়েটার নির্মাতা (মহিলা) - theatre maker (f) | Sie ist eine bekannte Theatermacherin in Berlin.
+[7b] umsetzen | বাস্তবায়ন করা - to realize | Wir müssen die neuen Ideen schnell umsetzen.
+[7b] das Upcycling (Sg.) | আপসাইক্লিং (বর্জ্য থেকে নতুন কিছু তৈরি) - upcycling | Upcycling macht aus alten Sachen etwas Neues.
+[7b] die Vase, -n | ফুলদানি - vase | Die Blumen stehen in einer blauen Vase.
+[7c] die Adjektivendung, -en | বিশেষণের বিভক্তি - end of an adjective | Die Adjektivendung ändert sich je nach Kasus.
+[7c] die Eigenschaft, -en | বৈশিষ্ট্য / গুণ - characteristic | Geduld ist eine wichtige Eigenschaft.
+[7c] das Lernplakat, -e | শিখন পোস্টার - revision poster | Wir hängen das Lernplakat an die Wand.
+[7c] nominal | নামমাত্র / সংজ্ঞাবাচক - nominal | In diesem Text gibt es viele nominale Ausdrücke.
+[7d] der/die Teilnehmende, -n | অংশগ্রহণকারী - participant | Alle Teilnehmenden erhalten eine Bestätigung.
+[8a] dankbar | কৃতজ্ঞ - thankful | Ich bin dir für deine Hilfe sehr dankbar.
+[8a] der Farbstift, -e | রঙিন পেন্সিল - crayon | Die Kinder malen mit Farbstiften.
+[8a] die Frisur, -en | চুলের ছাঁট - hair style | Ihre neue Frisur steht ihr sehr gut.
+[8a] der Kuli, -s | বলপয়েন্ট কলম - pen | Hast du einen Kuli für mich?
+[8a] rumliegen | এদিক ওদিক পড়ে থাকা - to lie around | Überall im Zimmer liegen Kleider rum.
+[8c] chaotisch | বিশৃঙ্খল - chaotic | In der Küche sieht es heute chaotisch aus.
+[8c] das Theaterstück, -e | নাটক - theatre play | Das Theaterstück war sehr spannend.
+[8d] erfinden | উদ্ভাবন করা - to invent | Wer hat das Telefon erfunden?
+[8d] die Motto-Party, -s | থিম পার্টি - theme party | Wir organisieren eine Motto-Party zum Geburtstag.
+[8d] das Sportteam, -s | ক্রীড়া দল - sports team | Unser Sportteam hat gestern gewonnen.
+[8d] veranstalten | আয়োজন করা - to organize | Die Schule veranstaltet ein Sommerfest.
+[10a] ersetzen | প্রতিস্থাপন করা - to replace | Wir müssen die alte Lampe ersetzen.
+[10a] improvisieren | উপস্থিত বুদ্ধি দিয়ে করা - to improvise | Wenn etwas schiefgeht, müssen wir improvisieren.
+[10a] das Referat, -e | উপস্থাপনা / প্রবন্ধ - presentation | Er hält morgen ein Referat über Kunst.
+[10b] der Gründer, - | প্রতিষ্ঠাতা (পু.) - founder (m) | Er ist der Gründer dieser Firma.
+[10b] die Gründerin, -nen | প্রতিষ্ঠাতা (মহিলা) - founder (f) | Sie ist die Gründerin des Vereins.
+[10b] das Impro-Theater, - | তাৎক্ষণিক থিয়েটার - improv theatre | Wir gehen heute Abend ins Impro-Theater.
+[10d] die Biene, -n | মৌমাছি - bee | Die Biene sammelt Nektar von den Blumen.
+[10d] die Briefmarke, -n | ডাকটিকিট - postage stamp | Kleben Sie bitte die Briefmarke auf den Brief.
+[10d] die Couch, -s | পালঙ্ক / সোফা - couch | Wir sitzen gemütlich auf der Couch.
+[10d] der Detektiv, -e | গোয়েন্দা (পু.) - detective (m) | Der Detektiv sucht nach Beweisen.
+[10d] die Detektivin, -nen | গোয়েন্দা (মহিলা) - detective (f) | Die Detektivin hat den Fall gelöst.
+[10d] der Dieb, -e | চোর - thief | Der Dieb hat die Tasche gestohlen.
+[10d] die Rose, -n | গোলাপ - rose | Er schenkt ihr eine rote Rose.
+[10d] der Spiegel, - | আয়না - mirror | Sie schaut sich im Spiegel an.
+[10d] die Stufe, -n | ধাপ / সিঁড়ি - step | Vorsicht, die unterste Stufe ist kaputt.
+[10d] der Topf, "-e | পাত্র / হাঁড়ি - pot | Die Suppe kocht im großen Topf.
+[10d] das Treppenhaus, "-er | সিঁড়ি ঘর - stairwell | Das Licht im Treppenhaus ist aus.
+[10d] die Umleitung, -en | বিকল্প পথ - diversion | Wegen der Baustelle gibt es eine Umleitung.
+[11a] der Autoverkauf, "-e | গাড়ি বিক্রয় - car sale | Er arbeitet beim Autoverkauf.
+[11a] der Backofen, "- | ওভেন - oven | Der Kuchen ist noch im Backofen.
+[11a] der Kunstsammler, - | শিল্প সংগ্রাহক (পু.) - art collector (m) | Der Kunstsammler besitzt viele teure Bilder.
+[11a] die Kunstsammlerin, -nen | শিল্প সংগ্রাহক (মহিলা) - art collector (f) | Sie ist eine bekannte Kunstsammlerin.
+[11a] das Missverständnis, -se | ভুল বোঝাবুঝি - misunderstanding | Das war ein bloßes Missverständnis.
+[12b] einzig | একমাত্র / কেবল - only | Er war der einzige Gast auf der Party.
+[12b] heimlich | গোপনে - secret | Sie haben sich heimlich getroffen.
+[12b] her sein | সময় অতিক্রান্ত হওয়া - to be long ago | Es ist schon lange her, dass wir uns sahen.
+[12b] der Meister, - | ওস্তাদ / প্রধান - master (m) | Übung macht den Meister.
+[12b] die Meisterin, -nen | ওস্তাদ / প্রধান (স্ত্রী.) - master (f) | Sie ist eine Meisterin ihres Fachs.
+[12b] die Mode, -n | ফ্যাশন - fashion | Diese Kleidung ist schon lange aus der Mode.
+[12b] musizieren | গান-বাজনা করা - to make music | Die Familie musiziert jeden Abend gemeinsam.
+[12b] die Nachbarschaft (Sg.) | প্রতিবেশী এলাকা - neighbourhood | In unserer Nachbarschaft helfen sich alle gegenseitig.
+[12b] der Neffe, -n | ভাইপো / ভাগ্নে - nephew | Mein Neffe besucht mich in den Ferien.
+[12b] schließen | তৈরি করা (বন্ধুত্ব) - to make (to make friends) | Es ist einfach, im Urlaub neue Freundschaften zu schließen.
+[12b] der Schulchor, "-e | স্কুল গায়কদল - school choir | Der Schulchor übt für das Weihnachtskonzert.
+[12b] talentiert | প্রতিভাবান - talented | Er ist ein sehr talentierter Klavierspieler.
+[12b] die Tradition, -en | ঐতিহ্য - tradition | Diese Tradition wird seit Generationen gepflegt.
+[12b] traditionell | ঐতিহ্যগত - traditional | Wir tragen heute traditionelle Kleidung.
+[12b] das Treffen, - | সাক্ষাৎ / মিটিং - meeting | Das Treffen findet im Konferenzraum statt.
+[12b] uncool | মান্ধাতা আমলের / ভালো নয় - uncool | Manche Jugendlichen finden klassische Musik uncool.
+[12b] das Virus, Viren | ভাইরাস - virus | Das Virus verbreitet sich sehr schnell.
+[12b] das Volkslied, -er | লোকসংগীত - folk song | Wir haben in der Schule viele Volkslieder gelernt.
+[12b] zeitlos | কালজয়ী - timeless | Wahre Kunst ist oft zeitlos.
+[12b] zusehen | দেখা / লক্ষ্য করা - to watch | Kann ich dir bei der Arbeit zusehen?
+[13b] einsperren | আটকে রাখা / বন্দি করা - to lock sb in | Man sollte niemanden gegen seinen Willen einsperren.
+[13b] entzwei | দুই টুকরো - in two | Die Vase fiel auf den Boden und ging entzwei.
+[13b] erschießen | গুলি করে মারা - to shoot | Er hat das Tier versehentlich erschossen.
+[13b] finster | অন্ধকারাচ্ছন্ন - gloomy | Im Wald war es am Abend sehr finster.
+[13b] der Gedanke, -n | চিন্তা / ভাবনা - thought | Mach dir keine negativen Gedanken.
+[13b] der Jäger, - | শিকারি (পু.) - hunter (m) | Der Jäger beobachtet die Tiere im Wald.
+[13b] die Jägerin, -nen | শিকারি (মহিলা) - hunter (f) | Die Jägerin geht früh am Morgen los.
+[13b] der Kerker, - | অন্ধকার কারাগার - dungeon | Die Ritter wurden in den Kerker geworfen.
+[13b] die Mauer, -n | দেয়াল - wall | Die Stadtmauer ist sehr alt.
+[13b] nächtlich | নৈশকালীন - nightly | Der nächtliche Spaziergang war sehr ruhig.
+[13b] die Schranke, -n | বাধা / ব্যারিয়ার - barrier | Die Schranke am Bahnübergang ist geschlossen.
+[13b] vergeblich | বৃথা - in vain | Alle Bemühungen waren leider vergeblich.
+[13b] vorbeifliegen | পাশ দিয়ে উড়ে যাওয়া - to fly past | Ein Vogel ist gerade am Fenster vorbeigeflogen.
+[13b] zerreißen | ছিঁড়ে ফেলা - to tear apart | Er hat den Brief vor Wut zerrissen.
+[k&k] relativieren | আপেক্ষিক করা - to relativise | Man muss diese Ergebnisse etwas relativieren.
+
+--------------------------------------------------------------------
+KAPITEL 10 (অধ্যায় ১০)
+--------------------------------------------------------------------
+[1a] die Demokratie, -n | গণতন্ত্র - democracy | Meinungsfreiheit ist wichtig für die Demokratie.
+[1a] die Ehrlichkeit (Sg.) | সততা - honesty | Ehrlichkeit ist die Basis für jede Freundschaft.
+[1a] die Erziehung (Sg.) | লালন-পালন / শিক্ষা - upbringing | Eine gute Erziehung ist für Kinder sehr wichtig.
+[1a] die Fairness (Sg.) | ন্যায্যতা - fairness | Im Sport steht Fairness an erster Stelle.
+[1a] die Gerechtigkeit (Sg.) | ন্যায়বিচার - justice | Alle Menschen kämpfen für soziale Gerechtigkeit.
+[1a] die Gleichberechtigung (Sg.) | সমঅধিকার - equality | Wir setzen uns für die Gleichberechtigung ein.
+[1a] die Hilfsbereitschaft (Sg.) | পরোপকারিতা - helpfulness | Die Hilfsbereitschaft der Nachbarn war groß.
+[1a] der Respekt (Sg.) | সম্মান - respect | Man sollte anderen Menschen mit Respekt begegnen.
+[1a] der Wert, -e | মূল্য / আদর্শ - value | Welche Werte sind Ihnen im Leben wichtig?
+[1a] die Zivilcourage (Sg.) | সামাজিক সাহস - moral courage | Er zeigte Zivilcourage und half dem Mann.
+[1c ÜB] der/die Abgeordnete, -n | সাংসদ / প্রতিনিধি - MP, congress(wo)man | Die Abgeordneten diskutieren im Parlament.
+[1c ÜB] das Amt, "-er | পদ / অফিস - office | Sie übernimmt das Amt einer Abgeordneten.
+[1c ÜB] die Arbeitsstelle, -n | কর্মস্থল / চাকরি - job | Er hat endlich eine neue Arbeitsstelle gefunden.
+[1c ÜB] die Aufnahme (Sg.) | অন্তর্ভুক্তি - inclusion | Die Aufnahme in ein Team ist nicht immer leicht.
+[1c ÜB] das Bedürfnis, -se | প্রয়োজন / চাহিদা - need | Jeder Mensch hat das Bedürfnis nach Sicherheit.
+[1c ÜB] blind | অন্ধ - blind | Er ist seit seiner Geburt blind.
+[1c ÜB] der/die Blinde, -n | অন্ধ ব্যক্তি - blind person | Blindenhunde helfen Blinden im Alltag.
+[1c ÜB] der Bundeskanzler, - | চ্যান্সেলর (পু.) - chancellor (m) | Der Bundeskanzler hält heute eine Rede.
+[1c ÜB] die Bundeskanzlerin, -nen | চ্যান্সেলর (মহিলা) - chancellor (f) | Die Bundeskanzlerin besucht das Ausland.
+[1c ÜB] der Bundestag (Sg.) | জার্মান সংসদ - Bundestag | Die Gesetze werden im Bundestag beschlossen.
+[1c ÜB] die Flucht (Sg.) | পলায়ন - escape | Er denkt oft an seine Flucht aus der Heimat.
+[1c ÜB] humorvoll | রসিক / কৌতুকপূর্ণ - funny | Unser Lehrer ist ein sehr humorvoller Mensch.
+[1c ÜB] die Integration (Sg.) | একীকরণ - integration | Die Integration in die Gesellschaft braucht Zeit.
+[1c ÜB] der Kandidat, -en | প্রার্থী (পু.) - candidate (m) | Der Kandidat stellt sein Programm vor.
+[1c ÜB] die Kandidatin, -nen | প্রার্থী (মহিলা) - candidate (f) | Die Kandidatin hofft auf viele Stimmen.
+[1c ÜB] körperlich | শারীরিক - physical | Er arbeitet hart und ist körperlich fit.
+[1c ÜB] der Migrant, -en | অভিবাসী (পু.) - migrant (m) | Viele Migranten lernen fleißig Deutsch.
+[1c ÜB] die Migrantin, -nen | অভিবাসী (মহিলা) - migrant (f) | Die Migrantin arbeitet als Ärztin.
+[1c ÜB] die Minderheit, -en | সংখ্যালঘু - minority | Wir müssen die Rechte der Minderheit schützen.
+[1c ÜB] der Minister, - | মন্ত্রী (পু.) - minister (m) | Der Minister beantwortet die Fragen der Presse.
+[1c ÜB] die Ministerin, -nen | মন্ত্রী (মহিলা) - minister (f) | Die Ministerin plant eine neue Reform.
+[1c ÜB] das Recht, -e | আইন / অধিকার - law | Jeder hat das Recht auf freie Meinung.
+[1c ÜB] die Regierung, -en | সরকার - government | Die Regierung plant neue Steuergesetze.
+[1c ÜB] verlassen | ত্যাগ করা - to leave | Er muss seine Heimat leider verlassen.
+[1c ÜB] vollständig | সম্পূর্ণ - complete | Das Formular muss vollständig ausgefüllt werden.
+[1c ÜB] das Vorurteil, -e | কুসংস্কার / পূর্বধারণা - prejudice | Wir sollten Vorurteile gegenüber Fremden abbauen.
+[2a] die Meinungsfreiheit (Sg.) | বাকস্বাধীনতা - freedom of opinion | In einer Demokratie ist Meinungsfreiheit wichtig.
+[2c] sichern | সুরক্ষিত করা - to secure | Wir müssen unsere Daten besser sichern.
+[3b] alarmieren | সতর্ক করা - to alert | Die Feuerwehr wurde sofort alarmiert.
+[3b] die Arbeitssuche (Sg.) | চাকরির সন্ধান - job search | Er ist schon lange auf Arbeitssuche.
+[3b] ausbilden | প্রশিক্ষণ দেওয়া - to train | Der Betrieb bildet jedes Jahr neue Lehrlinge aus.
+[3b] die Ausgabestelle, -n | বিতরণ কেন্দ্র - issuing office | Die Ausgabestelle für Kleidung ist heute offen.
+[3b] bedürftig | অভাবী / দুস্থ - needy | Die Tafel hilft bedürftigen Menschen mit Essen.
+[3b] der Behördengang, "-e | সরকারি দপ্তরে কাজ - visit to authorities | Ich muss heute noch einen Behördengang machen.
+[3b] die Berufsfeuerwehr, -en | পেশাদার দমকল বাহিনী - professional fire brigade | Die Berufsfeuerwehr ist rund um die Uhr bereit.
+[3b] bewältigen | মোকাবিলা করা / সামলানো - to deal with | Gemeinsam können wir das Problem bewältigen.
+[3b] das Ding, -e | জিনিস / কাজ - thing | In der Not zu helfen ist mein Ding.
+[3b] ehrenamtlich | স্বেচ্ছাসেবী - voluntary | Er arbeitet ehrenamtlich im Altersheim.
+[3b] erfüllen | পূর্ণ করা / পালন করা - to fulfill | Er erfüllt eine wichtige Funktion im Verein.
+[3b] die Erste Hilfe (Sg.) | প্রাথমিক চিকিৎসা - first aid | Jeder sollte einen Kurs in Erster Hilfe machen.
+[3b] die Feuerwehrleute (Pl.) | দমকল কর্মীরা - firefighters | Die Feuerwehrleute löschten den Brand schnell.
+[3b] die Funktion, -en | ভূমিকা / কাজ - function | Sie hat eine leitende Funktion in der Firma.
+[3b] das Hochwasser, - | বন্যা - flood | Das Hochwasser hat viele Häuser zerstört.
+[3b] die Jugendgruppe, -n | যুব দল - youth group | Er leitet am Wochenende eine Jugendgruppe.
+[3b] die Mühe, -n | প্রচেষ্টা / কষ্ট - effort | Er gibt sich viel Mühe beim Deutschlernen.
+[3b] die Nachhilfe (Sg.) | ব্যক্তিগত টিউটরিং - tutoring | Sie gibt am Nachmittag Nachhilfe in Mathe.
+[3b] die Nachtzeit, -en | রাতের সময় - nighttime | Anrufe zu später Nachtzeit sind oft wichtig.
+[3b] die Not, "-e | জরুরি অবস্থা / অভাব - need | Ein guter Freund hilft einem in der Not.
+[3b] die Organisation, -en | সংস্থা - organization | Er spendet Geld für eine soziale Organisation.
+[3b] der Pate, -n | ধর্মপিতা / অভিভাবক - godfather | Er ist der Pate meines Sohnes.
+[3b] die Patenschaft (Sg.) | অভিভাবকত্ব - sponsorship | Sie hat eine Patenschaft für ein Kind übernommen.
+[3b] die Patin, -nen | ধর্মমাতা / অভিভাবিকা - godmother | Meine Patin schenkt mir oft Bücher.
+[3b] qualitativ | গুণগত - qualitative | Es gibt große qualitative Unterschiede.
+[3b] spenden | দান করা - to donate | Viele Menschen spenden Geld für die Tafel.
+[3b] übrig | অবশিষ্ট - remaining | Ist noch etwas Suppe übrig?
+[3b] das Vereinsmitglied, -er | সংগঠনের সদস্য - club member | Er ist seit zehn Jahren Vereinsmitglied.
+[3c] die Auswahl (Sg.) | নির্বাচন / পছন্দ - selection | Wir müssen eine Auswahl treffen.
+[3c ÜB] die Apfelsine, -n | কমলা লেবু - orange | Ich trinke gerne Saft aus frischen Apfelsinen.
+[3c ÜB] die Aprikose, -n | খুবানি - apricot | Im Sommer esse ich gerne reife Aprikosen.
+[3c ÜB] das Croissant, -s | ক্রোস্যান্ট - croissant | Zum Frühstück esse ich ein Croissant.
+[3c ÜB] das Gewürz, -e | মশলা - spice | Dieses Gewürz macht das Essen scharf.
+[3c ÜB] das Hackfleisch (Sg.) | কিমা মাংস - ground meat | Für die Pasta brauche ich Hackfleisch.
+[3c ÜB] das Hörnchen, - | ক্রোস্যান্ট জাতীয় রুটি - croissant | Er kauft sich beim Bäcker ein Hörnchen.
+[3c ÜB] das Hühnchen, - | মুরগির মাংস - chicken | Heute gibt es gebratenes Hühnchen.
+[3c ÜB] der/das Ketchup, -s | কেচাপ - ketchup | Kinder essen Pommes gerne mit Ketchup.
+[3c ÜB] die Konfitüre, -n | ফলের মোরব্বা / জ্যাম - jam | Sie streicht Konfitüre auf ihr Brot.
+[3c ÜB] die Margarine, -n | মার্জারিন - margarine | Ich benutze Margarine statt Butter.
+[3c ÜB] das Milchprodukt, -e | দুগ্ধজাত পণ্য - milk product | Käse und Joghurt sind Milchprodukte.
+[3c ÜB] die Orange, -n | কমলা - orange | Eine Orange enthält viel Vitamin C.
+[3c ÜB] die Pflaume, -n | আলুবোখারা - plum | Der Baum im Garten trägt viele Pflaumen.
+[3c ÜB] der Pudding, -e/-s | পুডিং - pudding | Als Nachtisch gibt es Schokoladenpudding.
+[3c ÜB] der Quark (Sg.) | এক ধরণের পনির - curd | Quark schmeckt gut mit frischen Früchten.
+[3c ÜB] die Schlagsahne (Sg.) | হুইপড ক্রিম - whipped cream | Möchten Sie Schlagsahne zu Ihrem Kuchen?
+[3c ÜB] die Soße, -n | ঝোল / সস - sauce | Die Soße ist ein bisschen zu salzig.
+[3c ÜB] die Vollmilch (Sg.) | খাঁটি দুধ - whole milk | Vollmilch hat einen höheren Fettgehalt.
+[3c ÜB] würzen | মশলা দেওয়া - to season | Man sollte das Fleisch gut würzen.
+[3c ÜB] die Zwetschge/Zwetschke, -n | আলুবোখারা বিশেষ - plum | Wir backen einen Kuchen mit Zwetschgen.
+[4a] das Aktiv (Sg.) | কর্তৃবাচ্য - active | Der Satz steht im Aktiv.
+[4a] das Passiv (Sg.) | কর্মবাচ্য - passive | Wir lernen heute das Passiv.
+[4a] der Passivsatz, "-e | কর্মবাচ্যের বাক্য - passive sentence | Bilden Sie bitte einen Passivsatz.
+[4b] die Passivform, -en | কর্মবাচ্যের রূপ - passive form | Das Verb steht in der Passivform.
+[4c] die Anfrage, -n | অনুসন্ধান / জিজ্ঞাসা - enquiry | Ich habe eine schriftliche Anfrage gestellt.
+[5a] bundesweit | দেশব্যাপী - nationwide | Das Gesetz gilt bundesweit.
+[5a] verbreiten | ছড়িয়ে দেওয়া - to spread | Nachrichten verbreiten sich heute sehr schnell.
+[7a] abmelden | নাম প্রত্যাহার করা - to sign off | Vergessen Sie nicht, sich abzumelden.
+[7a] das Einwohnermeldeamt, "-er | নাগরিক নিবন্ধন অফিস - registration office | Er muss zum Einwohnermeldeamt gehen.
+[7a] die Stadtinformation, -en | শহর তথ্য কেন্দ্র - city information | Fragen Sie bei der Stadtinformation nach.
+[7a] verantwortlich (für + A.) | দায়ী / দায়িত্বশীল - responsible | Wer ist für diesen Fehler verantwortlich?
+[7b] abstimmen | ভোট দেওয়া - to vote | Die Bürger dürfen über das Projekt abstimmen.
+[7b] abziehen | কেটে নেওয়া (টাকা) - to be deducted | Die Steuern werden vom Lohn abgezogen.
+[7b] das Arbeitsamt, "-er | কর্মসংস্থান অফিস - job center | Das Arbeitsamt hilft bei der Stellensuche.
+[7b] das Architekturbüro, -s | স্থাপত্য প্রতিষ্ঠান - architecture firm | Er arbeitet in einem großen Architekturbüro.
+[7b] die Brezel, -n | প্রেটজেল (বিস্কুট জাতীয় খাবার) - pretzel | In Bayern isst man gerne eine Brezel.
+[7b] die Bürgerversammlung, -en | নাগরিক সভা - town meeting | Morgen findet eine Bürgerversammlung statt.
+[7b] durchführen | পরিচালনা করা - to conduct | Wir müssen eine Umfrage durchführen.
+[7b] das Elterncafé, -s | অভিভাবকদের ক্যাফে - parent coffee shop | Wir treffen uns im Elterncafé der Schule.
+[7b] elternfrei | অভিভাবকহীন - parent-free | Heute Abend ist die Party elternfrei.
+[7b] entsorgen | বর্জন করা / ফেলা - to dispose of | Man muss den Müll fachgerecht entsorgen.
+[7b] erscheinen | প্রকাশিত হওয়া - to be released | Die neue Zeitschrift erscheint einmal im Monat.
+[7b] finanzieren | অর্থায়ন করা - to finance | Das Projekt wird durch Spenden finanziert.
+[7b] herausfinden | খুঁজে বের করা - to find out | Wir müssen herausfinden, wer das getan hat.
+[7b] die Online-Redaktion, -en | অনলাইন সম্পাদনা দল - online editors | Die Online-Redaktion aktualisiert die Website.
+[7b] die Semmel, -n | ছোট রুটি (দক্ষিণ জার্মানি) - bread roll | In Bayern sagt man „Semmel“ statt „Brötchen“.
+[7b] der Sitz, -e | আসন / সদর দপ্তর - seat / headquarters | Die Firma hat ihren Sitz im Rathaus.
+[7b] das Sommerprojekt, -e | গ্রীষ্মকালীন প্রকল্প - summer project | Das Sommerprojekt bietet Kurse für Kinder an.
+[7b] die Spielstadt, "-e | খেলার শহর - play city | In der Spielstadt lernen Kinder das Stadtleben.
+[7b] die Vertretung, -en | প্রতিনিধি দল / প্রতিনিধি - delegation | Die politische Vertretung tagt heute.
+[7b] das Vorhaben, - | পরিকল্পনা / উদ্যোগ - scheme / plan | Wir unterstützen dieses soziale Vorhaben.
+[7b] der Weblog, -s | ব্লগ - web blog | Er schreibt täglich neue Berichte in seinen Weblog.
+[7b] die Zone, -n | অঞ্চল - zone | In dieser Zone ist das Parken verboten.
+[7b] zulassen | অনুমতি দেওয়া - to be admitted | Das Kind wurde zum Kurs zugelassen.
+[7b] das Zusammenleben (Sg.) | একসাথে বসবাস - communal life | Das Zusammenleben in der WG klappt gut.
+[7b] zuverlässig | নির্ভরযোগ্য - reliable | Er ist ein sehr zuverlässiger Mitarbeiter.
+[7c] mitorganisieren | সংগঠিত করতে সাহায্য করা - to help organise | Wer möchte die Party mitorganisieren?
+[7c] der Organisator, -en | সংগঠক (পু.) - organiser (m) | Der Organisator begrüßt die Gäste.
+[7c] die Organisatorin, -nen | সংগঠক (মহিলা) - organiser (f) | Die Organisatorin plant das Programm.
+[7d] gell | তাই না? (আঞ্চলিক) - right? (tag question) | Das Wetter ist heute schön, gell?
+[7d] hingehen | সেখানে যাওয়া - to go there | Ich möchte morgen gerne zum Fest hingehen.
+[7d] die Partikel, - | অব্যয় / কণা - particle | In diesem Satz gibt es eine Modalpartikel.
+[8b] der Anspruch, "-e | দাবি / অধিকার - entitlement | Angestellte haben Anspruch auf Urlaub.
+[8b] abräumen | পরিষ্কার করা (টেবিল) - to clear | Kannst du bitte den Tisch abräumen?
+[8b] die Lieferung, -en | সরবরাহ / ডেলিভারি - shipment | Die Lieferung kommt voraussichtlich morgen.
+[8b] die Straßenlampe, -n | রাস্তার বাতি - street lamp | Vor dem Haus steht eine Straßenlampe.
+[9a] der Kontrastakzent, -e | বৈপরীত্যমূলক উচ্চারণ - contrast emphasis | Der Sprecher benutzt einen Kontrastakzent.
+[9a] das Kontrastwort, "-er | বৈপরীত্যমূলক শব্দ - contrast word | Betonen Sie im Satz das Kontrastwort.
+[10a] die EU (Sg.) | ইইউ (ইউরোপীয় ইউনিয়ন) - EU | Die EU fördert viele internationale Projekte.
+[10a] die Union, -en | ইউনিয়ন / সংঘ - union | Die Europäische Union besteht aus vielen Staaten.
+[10b] der Ausstieg, -e | প্রস্থান / বের হওয়া - exit | Man diskutiert über den Ausstieg aus dem Vertrag.
+[10b] befürchten | ভয় করা / আশঙ্কা করা - to fear | Wir befürchten, dass das Wetter schlechter wird.
+[10b] beitreten | যোগদান করা - to join | Kroatien ist der EU beigetreten.
+[10b] die Besonderheit, -en | বৈশিষ্ট্য - feature | Jedes Land hat seine kulturellen Besonderheiten.
+[10b] die Dienstleistung, -en | সেবা - service | Unser Unternehmen bietet verschiedene Dienstleistungen an.
+[10b] eine Entscheidung treffen | সিদ্ধান্ত নেওয়া - to make a decision | Wir müssen heute eine Entscheidung treffen.
+[10b] endgültig | চূড়ান্ত - final | Das ist meine endgültige Entscheidung.
+[10b] die Europäische Union (Sg.) | ইউরোপীয় ইউনিয়ন - European Union | Die Europäische Union hat eine gemeinsame Währung.
+[10b] führen | পরিচালনা করা (যুদ্ধ) - to wage (war) | Es ist schrecklich, wenn Länder Krieg führen.
+[10b] die Gemeinschaft, -en | সম্প্রদায় / ইউনিয়ন - community | Die EU ist eine starke Gemeinschaft.
+[10b] die Grenzkontrolle, -n | সীমান্ত নিয়ন্ত্রণ - border control | Innerhalb des Schengen-Raums gibt es oft keine Grenzkontrollen.
+[10b] Großbritannien | গ্রেট ব্রিটেন - Great Britain | Großbritannien liegt in Nordeuropa.
+[10b] im Lauf (+ G.) | সময়ের সাথে সাথে - over the course of | Im Lauf der Zeit hat sich viel verändert.
+[10b] der Krieg, -e | যুদ্ধ - war | Es ist schrecklich, wenn Länder Krieg führen.
+[10b] national | জাতীয় - national | Das ist ein nationaler Feiertag.
+[10b] der Normalfall, "-e | স্বাভাবিক ঘটনা / নিয়ম - rule | Im Normalfall dauert die Reise zwei Stunden.
+[10b] der Skeptiker, - | সংশয়বাদী (পু.) - sceptic (m) | Der Skeptiker glaubt der Nachricht nicht.
+[10b] die Skeptikerin, -nen | সংশয়বাদী (মহিলা) - sceptic (f) | Sie ist eine große Skeptikerin.
+[10b] die Vorschrift, -en | বিধি / নিয়ম - regulation | Man muss die Sicherheitsvorschriften beachten.
+[10b] der Weltkrieg, -e | বিশ্বযুদ্ধ - world war | Der Zweite Weltkrieg endete 1945.
+[10b] wirtschaftlich | অর্থনৈতিক - economic | Das Land hat eine gute wirtschaftliche Lage.
+[10b] zunächst | শুরুতে / প্রথমে - initially | Zunächst müssen wir den Plan besprechen.
+[11a] die Atomkraft (Sg.) | পারমাণবিক শক্তি - atomic power | In Deutschland wird weniger Atomkraft genutzt.
+[11a] Belgien | বেলজিয়াম - Belgium | Brüssel ist die Hauptstadt von Belgien.
+[11a] die Kriegswaffe, -n | যুদ্ধের অস্ত্র - weapon of war | Der Export von Kriegswaffen ist streng geregelt.
+[11a] Luxemburg | লুক্সেমবার্গ - Luxembourg | Luxemburg ist ein kleines europäisches Land.
+[11a] der Mitgliedsstaat, -en | সদস্য রাষ্ট্র - member state | Die EU hat viele Mitgliedsstaaten.
+[11a] die Niederlande (Pl.) | নেদারল্যান্ডস - Netherlands | Die Niederlande sind bekannt für Tulpen.
+[11a] regeln | নিয়ন্ত্রণ করা / নিয়ম করা - to regulate | Ein Gesetz muss diesen Bereich regeln.
+[11a] die Solidarität (Sg.) | সংহতি - solidarity | In der Krise ist Solidarität besonders wichtig.
+[11a] die Toleranz (Sg.) | সহনশীলতা - tolerance | Toleranz ist die Basis für das Zusammenleben.
+[11a] der Umgang (Sg.) | লেনদেন / আচরণ - dealing | Der höfliche Umgang mit Kunden ist wichtig.
+[11a] unterzeichnen | স্বাক্ষর করা - to sign | Der Minister wird das Abkommen unterzeichnen.
+[11a] die Wirtschaftsbeziehung, -en | অর্থনৈতিক সম্পর্ক - economic relationship | Die Wirtschaftsbeziehungen sind sehr stabil.
+[11a] die Würde (Sg.) | মর্যাদা - dignity | Die Würde des Menschen ist unantastbar.
+[11b] der Faden, "- | খেই (চিন্তার) - train of thought | Entschuldigung, ich habe den Faden verloren.
+[11b] der Humor (Sg.) | রসবোধ - humour | Er hat einen sehr trockenen Humor.
+[11b] ins Stocken kommen | তোতলানো / আটকে যাওয়া - to falter | Seine Rede kam kurz ins Stocken.
+[11b] der Vortrag, "-e | বক্তৃতা - lecture | Der Vortrag über Europa war sehr interessant.
+[12b] abschließend | পরিশেষে - in conclusion | Abschließend möchte ich mich bedanken.
+
+--------------------------------------------------------------------
+KAPITEL 11 (অধ্যায় ১১)
+--------------------------------------------------------------------
+[1b] das Bürogebäude, - | অফিস ভবন - office building | In der Stadtmitte stehen viele Bürogebäude.
+[1b] der Dreck (Sg.) | ময়লা - dirt | Nach dem Regen war viel Dreck auf der Straße.
+[1b] der Fußgänger, - | পথচারী (পু.) - pedestrian (m) | Der Fußgänger überquert die Straße.
+[1b] die Fußgängerin, -nen | পথচারী (মহিলা) - pedestrian (f) | Die Fußgängerin wartet an der Ampel.
+[1b] das Schaufenster, - | প্রদর্শনী জানালা - shop window | Im Schaufenster sieht man die neue Mode.
+[1b] der Schmutz (Sg.) | ময়লা / আবর্জনা - dirt | Der Schmutz lässt sich schwer entfernen.
+[1b] das Tempo, Tempi | গতি - speed | Er fährt mit einem hohen Tempo.
+[2a] das Freizeitangebot, -e | অবসর বিনোদনের সুযোগ - leisure activity | Die Stadt hat ein großes Freizeitangebot.
+[4a] der Stadtmensch, -en | শহরের মানুষ - townie | Als Stadtmensch brauche ich den Trubel.
+[4b] angehen | সংশ্লিষ্ট হওয়া / লক্ষ্য করা - to concern | Das geht dich gar nichts an.
+[4b] anscheinend | দৃশ্যত / সম্ভবত - apparent | Er hat anscheinend heute keine Zeit.
+[4b] der Dialekt, -e | আঞ্চলিক ভাষা - dialect | In dieser Region spricht man einen Dialekt.
+[4b] eindeutig | স্পষ্ট - clear | Das Ergebnis der Wahl ist eindeutig.
+[4b] der Forumsname, -n | ফোরামের নাম - forum name | Wähle einen kreativen Forumsnamen aus.
+[4b] irgendein, -eine, -welche | কোনো একটি / যে কোনো - some | Hast du irgendeine Idee, was wir tun können?
+[4b] das Kulturfest, -e | সাংস্কৃতিক উৎসব - cultural festival | Das Kulturfest findet jedes Jahr im Sommer statt.
+[4b] der Landmensch, -en | গ্রামের মানুষ - country person | Als Landmensch genießt er die Ruhe der Natur.
+[4c] entsprechend | অনুরূপ / সংশ্লিষ্ট - equivalent | Bitte wählen Sie die entsprechende Antwort aus.
+[4d] die Sportsachen (Pl.) | খেলাধুলার সরঞ্জাম - sport gear | Ich muss noch meine Sportsachen einpacken.
+[5] irgendeins | যেকোনো একটি - some | Nimm einfach irgendeins, es spielt keine Rolle.
+[5] die Singularform, -en | একবচন রূপ - singular form | Wie lautet die Singularform von „Häuser“?
+[6a] erwachen | জেগে ওঠা - to awaken | Die Stadt erwacht langsam zum Leben.
+[6b] die Backstube, -n | বেকারি / রুটি তৈরির ঘর - bakery | In der Backstube riecht es herrlich nach Brot.
+[6b] der Bauhof, "-e | নির্মাণ ইয়ার্ড - construction yard | Die Fahrzeuge stehen nachts auf dem Bauhof.
+[6b] der Dienst, -e | ডিউটি / সেবা - duty | Er hat heute Spätdienst im Krankenhaus.
+[6b] einliefern | ভর্তি করা / পৌঁছে দেওয়া - admitted | Der Patient wurde gestern eingeliefert.
+[6b] die Frühschicht, -en | সকালের শিফট - morning shift | Meine Frühschicht beginnt bereits um 5 Uhr.
+[6b] das Garagentor, -e | গ্যারেজের দরজা - garage door | Das Garagentor lässt sich automatisch öffnen.
+[6b] herunterfahren | বন্ধ করা (নিচে নামানো) - to shut (down) | Er fährt das System am Abend herunter.
+[6b] hindern (an + D.) | বাধা দেওয়া - to hinder | Der Lärm hindert mich am Einschlafen.
+[6b] hineingehen | ভেতরে যাওয়া - to enter | Wir sollten jetzt ins Haus hineingehn.
+[6b] konzentriert | মনোযোগী - concentrated | Sie arbeitet sehr konzentriert an ihrem Projekt.
+[6b] der Korb, "-e | ঝুড়ি - basket | Sie trägt einen Korb voller Äpfel.
+[6b] der Magazinbericht, -e | ম্যাগাজিন রিপোর্ট - magazine report | Hast du den Magazinbericht über Berlin gelesen?
+[6b] der/die Obdachlose, -n | গৃহহীন ব্যক্তি - homeless person | Die Stadt hilft Obdachlosen im Winter.
+[6b] das Reinigungsfahrzeug, -e | রাস্তা পরিষ্কার করার গাড়ি - street cleaning vehicle | Das Reinigungsfahrzeug fährt früh am Morgen.
+[6b] die Schicht, -en | শিফট - shift | In dieser Fabrik arbeitet man in drei Schichten.
+[6b] schwer | গুরুতর (দুর্ঘটনা) - severe | Es gab einen schweren Unfall auf der Autobahn.
+[6b] städtisch | শহর সংক্রান্ত / পৌর - urban | Er arbeitet für die städtische Verwaltung.
+[6b] die Übergabe, -n | হস্তান্তর - handover | Die Übergabe der Wohnung erfolgt morgen.
+[6b] unruhig | অস্থির - restless, turbulent | Das Kind hatte eine unruhige Nacht.
+[6c] der Nachtdienst, -e | রাতের ডিউটি - night shift | Sie hat diese Woche dreimal Nachtdienst.
+[6d] der Sozialarbeiter, - | সমাজকর্মী (পু.) - social worker (m) | Der Sozialarbeiter berät die Familie.
+[6d] die Sozialarbeiterin, -nen | সমাজকর্মী (মহিলা) - social worker (f) | Sie arbeitet als Sozialarbeiterin im Jugendamt.
+[7] um ... herum (+ A.) | চারপাশে - around | Wir sind einmal um den See herum gelaufen.
+[8b] abhängen (von + D.) | নির্ভর করা - to be dependent on | Das hängt ganz vom Wetter ab.
+[8b] die Arbeitslosigkeit (Sg.) | বেকারত্ব - unemployment | Die Arbeitslosigkeit in der Region ist gesunken.
+[8b] berücksichtigen | বিবেচনা করা - to consider | Wir müssen alle Faktoren berücksichtigen.
+[8b] betreffen | সংশ্লিষ্ট হওয়া - to concern | Diese Regelung betrifft alle Mitarbeiter.
+[8b] die Diversität (Sg.) | বৈচিত্র্য - diversity | Diversität ist eine Stärke unseres Teams.
+[8b] die Elternzeit (Sg.) | পিতামাতার ছুটি - parental leave | Er nimmt ein halbes Jahr Elternzeit.
+[8b] die Fachleute (Pl.) | বিশেষজ্ঞবৃন্দ - specialists | Die Fachleute diskutieren über die neue Technik.
+[8b] festlegen | নির্ধারণ করা - to determine | Wir müssen einen Termin für das Treffen festlegen.
+[8b] die Gender-Gerechtigkeit (Sg.) | লিঙ্গ সমতা - gender equality | Die Firma achtet auf Gender-Gerechtigkeit.
+[8b] gesellschaftlich | সামাজিক - social | Das ist eine wichtige gesellschaftliche Aufgabe.
+[8b] gesetzlich | সংবিধিবদ্ধ / আইনি - statutory | Es gibt eine gesetzliche Frist von vier Wochen.
+[8b] das Gesundheitssystem, -e | স্বাস্থ্য ব্যবস্থা - healthcare system | Das deutsche Gesundheitssystem ist sehr gut.
+[8b] die Hochschule, -n | উচ্চশিক্ষা প্রতিষ্ঠান - institution of higher education | Nach dem Abitur möchte er an einer Hochschule studieren.
+[8b] die Intensität, -en | তীব্রতা - intensity | Die Intensität der Farben ist beeindruckend.
+[8b] jeweilig | নিজ নিজ / সংশ্লিষ্ট - respective | Bitte füllen Sie das jeweilige Formular aus.
+[8b] die Kinderbetreuung (Sg.) | শিশু যত্ন - childcare | Eine gute Kinderbetreuung ist für Eltern wichtig.
+[8b] rechtlich | আইনি - legal | Wir müssen die rechtliche Lage prüfen.
+[8b] sowie | এবং সেইসাথে - as well as | Wir verkaufen Obst sowie Gemüse.
+[8b] der Vordergrund (Sg.) | সম্মুখভাগ - foreground | Im Vordergrund des Bildes sieht man ein Haus.
+[8b] vorgeschrieben sein | নির্ধারিত বা বাধ্যতামূলক হওয়া - to be mandatory | In der Schule ist das Tragen von Masken vorgeschrieben.
+[8b] die Work-Life-Balance (Sg.) | কাজ ও জীবনের ভারসাম্য - work-life-balance | Eine gute Work-Life-Balance reduziert Stress.
+[8b] der Zugang, "-e | প্রবেশাধিকার - access | Der Zugang zum Gebäude ist nur mit Ausweis möglich.
+[8d] der Radiobericht, -e | রেডিও রিপোর্ট - radio report | Ich habe gestern einen interessanten Radiobericht gehört.
+[9a] das Ranking, -s | র‍্যাঙ্কিং / ক্রম - ranking | Die Stadt belegt im Ranking den ersten Platz.
+[9a] werten | মূল্যায়ন করা - to assess | Wie würden Sie diesen Erfolg werten?
+[9c] fortsetzen | চালিয়ে যাওয়া - to continue | Wir werden das Gespräch morgen fortsetzen.
+[10] ausreden lassen | কথা শেষ করতে দেওয়া - to let sb finish speaking | Bitte lass mich kurz ausreden.
+[10] außer Acht lassen | উপেক্ষা করা - to disregard | Diesen Punkt dürfen wir nicht außer Acht lassen.
+[10] das Budget, -s | বাজেট - budget | Unser Budget für die Reise ist begrenzt.
+[10] die Diskussion, -en | আলোচনা - discussion | Es gab eine lange Diskussion über das Thema.
+[10] eingehen (auf + A.) | প্রতিক্রিয়া দেখানো - to react to (a point of view) | Der Redner ging auf alle Fragen ein.
+[10] die Kita, -s | শিশু নিকেতন - kindergarten | Mein Sohn geht seit einem Jahr in die Kita.
+[10] die Open-Air-Arena, -Arenen | উন্মুক্ত রঙ্গমঞ্চ - open air arena | Das Konzert findet in der Open-Air-Arena statt.
+[10] der Rand, "-er | কিনারা / প্রান্ত - edge | Er saß am Rand des Bettes.
+[10] recht geben | সমর্থন করা / একমত হওয়া - to agree | Da muss ich dir absolut recht geben.
+[10] die Renovierung, -en | সংস্কার - renovation | Die Renovierung der Wohnung dauert drei Wochen.
+[10] die Sporthalle, -n | ক্রীড়া মিলনায়তন - gym(nasium) | Am Abend trainieren wir in der Sporthalle.
+[10] die Stadträtin, -nen | সিটি কাউন্সিল সদস্য (মহিলা) - city council member (f) | Die Stadträtin hielt eine kurze Rede.
+[10] der Umbau, -ten | পুনর্নির্মাণ - renovation | Der Umbau des Bahnhofs hat begonnen.
+[10] unterbrechen | বাধা দেওয়া - to interrupt | Bitte unterbrechen Sie mich nicht.
+[10] der Wohnbau (Sg.) | গৃহনির্মাণ - housing construction | Die Stadt investiert viel Geld in den Wohnbau.
+[12b] abbiegen | মোড় নেওয়া - to turn | An der nächsten Kreuzung müssen Sie links abbiegen.
+[12b] die Autowerkstatt, "-en | গ্যারেজ / মেরামত কারখানা - garage | Mein Auto muss heute in die Autowerkstatt.
+[12b] das Billett, -s | টিকিট (সুইস জার্মান) - ticket (Swiss German) | Haben Sie schon ein Billett für den Zug gekauft?
+[12b] die Bootstour, -en | নৌকা ভ্রমণ - boat trip | Eine Bootstour auf dem See macht viel Spaß.
+[12b] der/die Einheimische, -n | স্থানীয় বাসিন্দা - native | Die Einheimischen kennen die besten Restaurants.
+[12b] der Fahrschein, -e | টিকিট - ticket | Bitte zeigen Sie Ihren Fahrschein vor.
+[12b] die Fassade, -n | সম্মুখভাগ (ভবন) - facade | Die Fassade des alten Hauses wurde frisch gestrichen.
+[12b] der Favorit, -en | প্রিয় (পু.) - favourite (m) | Er ist der Favorit für den Sieg.
+[12b] die Favoritin, -nen | প্রিয় (মহিলা) - favourite (f) | Sie ist meine Favoritin in diesem Wettbewerb.
+[12b] fern | দূরবর্তী - distant | Er träumt von fernen Ländern.
+[12b] fließen | প্রবাহিত হওয়া - to flow | Der Fluss fließt mitten durch die Stadt.
+[12b] der Flüchtling, -e | শরণার্থী - refugee | Der Flüchtling sucht Schutz in einem anderen Land.
+[12b] das Flussbad, "-er | নদী ভিত্তিক স্নানাগার - river swimming pool | Im Sommer gehen viele Leute ins Flussbad.
+[12b] die Gasse, -n | গলি - alley | Die Altstadt hat viele kleine Gassen.
+[12b] der Hauptgrund, "-e | প্রধান কারণ - main reason | Das ist der Hauptgrund für meine Entscheidung.
+[12b] das Industrieviertel, - | শিল্প এলাকা - industrial quarter | Die Fabrik liegt im Industrieviertel.
+[12b] die Initiative, -n | উদ্যোগ - initiative | Eine soziale Initiative hilft den Menschen.
+[12b] der Mittelpunkt, -e | কেন্দ্রবিন্দু - centre | Er steht gerne im Mittelpunkt des Interesses.
+[12b] mittendrin | ঠিক মাঝখানে - in the middle of | Wir waren beim Fest mittendrin statt nur dabei.
+[12b] nirgendwo | কোথাও না - nowhere | Ich kann meine Brille nirgendwo finden.
+[12b] parkieren | পার্ক করা (সুইস জার্মান) - to park (Swiss German) | Hier darf man nicht parkieren.
+[12b] rauffahren | উপরে গাড়ি চালিয়ে যাওয়া - to drive up | Wir fahren den Berg rauf.
+[12b] rollen | গড়িয়ে যাওয়া / চলা - to roll | Der Ball rollt über die Straße.
+[12b] rumfahren | এদিক সেদিক ঘুরে বেড়ানো - to drive around | Am Wochenende fahren wir oft einfach nur rum.
+[12b] schmal | সরু / সংকীর্ণ - narrow | Der Weg durch den Wald ist sehr schmal.
+[12b] schweizerdeutsch | সুইস জার্মান - Swiss German | Er spricht fließend Schweizerdeutsch.
+[12b] steigen | আরোহণ করা / বৃদ্ধি পাওয়া - to climb / rise | Die Preise für Benzin steigen wieder.
+[12b] das Trendviertel, - | আধুনিক ও জনপ্রিয় এলাকা - trending district | Viele junge Leute wohnen im Trendviertel.
+[12b] das Velo, -s | সাইকেল (সুইস জার্মান) - bicycle (Swiss German) | In Zürich fahren viele Leute mit dem Velo.
+[12b] das Wahrzeichen, - | প্রতীক / নিদর্শন - landmark | Das Brandenburger Tor ist ein Wahrzeichen von Berlin.
+[12b ÜB] anschauen | তাকিয়ে দেখা - to look at | Schau dir mal dieses schöne Bild an.
+[12b ÜB] das Denkmal, "-er | স্মৃতিস্তম্ভ - memorial / monument | In der Mitte des Platzes steht ein Denkmal.
+[12b ÜB] die Rundfahrt, -en | বৃত্তাকার ভ্রমণ - round trip | Wir machen eine Rundfahrt durch den Hafen.
+[12b ÜB] springen | লাফ দেওয়া - to jump | Das Kind springt vor Freude in die Luft.
+[12b ÜB] der Stadtbummel, - | শহরে অলস ভ্রমণ - stroll through the city | Nach der Arbeit machen wir einen Stadtbummel.
+[13a] der Tourismus (Sg.) | পর্যটন - tourism | Der Tourismus ist wichtig für die Region.
+[13b] der Geschäftspartner, - | ব্যবসায়িক অংশীদার (পু.) - business partner (m) | Mein Geschäftspartner kommt aus Wien.
+[13b] die Geschäftspartnerin, -nen | ব্যবসায়িক অংশীদার (মহিলা) - business partner (f) | Sie ist eine zuverlässige Geschäftspartnerin.
+[k&k] halbformell | আধা-আনুষ্ঠানিক - half formal | Die Einladung zu der Feier ist halbformell.
+
+--------------------------------------------------------------------
+KAPITEL 12 (অধ্যায় ১২)
+--------------------------------------------------------------------
+[1a] regieren | শাসন করা - to rule | Geld regiert die Welt.
+[3a] das Bankgeschäft, -e | ব্যাংকিং লেনদেন - banking | Er erledigt seine Bankgeschäfte online.
+[3a] der Beleg, -e | রসিদ - receipt | Bitte bewahren Sie den Beleg gut auf.
+[3a] einzahlen | জমা দেওয়া - to deposit | Er möchte 500 Euro auf sein Konto einzahlen.
+[3a] der Kontoauszug, "-e | ব্যাংক স্টেটমেন্ট - bank statement | Ich muss meinen Kontoauszug kontrollieren.
+[3a] die Rate, -n | কিস্তি / হার - rate / installment | Wir bezahlen das Auto in monatlichen Raten.
+[3a] überziehen | অতিরিক্ত উত্তোলন করা - to overdraw | Ich hoffe, ich muss mein Konto nicht überziehen.
+[3a] der Zins, -en | সুদ - interest | Die Zinsen für Kredite sind momentan hoch.
+[3b ÜB] angeben | উল্লেখ করা / প্রদান করা - to state | Bitte geben Sie Ihren Namen und Ihre Adresse an.
+[3b ÜB] die BIC, -s | বিআইসি ব্যাংক (কোড) - SWIFT-BIC | Für Auslandsüberweisungen braucht man die BIC.
+[3b ÜB] die Einnahme, -n | আয় / রাজস্ব - revenue / income | Das Geschäft hat hohe monatliche Einnahmen.
+[3b ÜB] fällig | প্রদেয় / বকেয়া - due | Die Rechnung ist am Ende des Monats fällig.
+[3b ÜB] fristgerecht | সময়মতো - on time | Bitte überweisen Sie das Geld fristgerecht.
+[3b ÜB] die IBAN, -s | আইবিএএন - IBAN | Geben Sie für die Überweisung Ihre IBAN an.
+[3b ÜB] monatlich | মাসিক - monthly | Die Miete wird monatlich bezahlt.
+[3b ÜB] die Münze, -n | মুদ্রা / কয়েন - coin | Ich habe keine Münzen für den Automaten.
+[3b ÜB] der Schein, -e | নোট (টাকা) - bill | Er bezahlt mit einem 50-Euro-Schein.
+[3b ÜB] die Schulden (Pl.) | ঋণ - debt | Er hat hohe Schulden bei der Bank.
+[3b ÜB] versäumen | মিস করা / অবহেলা করা - to miss | Er hat die Frist für die Zahlung versäumt.
+[3b ÜB] die Zahlung, -en | পেমেন্ট / প্রদান - payment | Die Zahlung erfolgt per Kreditkarte.
+[3c] abhängig | নির্ভরশীল - dependent | Der Erfolg ist von vielen Faktoren abhängig.
+[3c] je ..., desto ... | যত ..., তত ... - the ..., the ... | Je mehr ich lerne, desto besser werde ich.
+[3c] je ..., umso ... | যত ..., তত ... - the ..., the ... | Je schneller wir arbeiten, umso früher sind wir fertig.
+[3c] die Kontoführungsgebühr, -en | অ্যাকাউন্ট পরিচালনার ফি - account maintenance charge | Die Bank hat die Kontoführungsgebühren erhöht.
+[3d] die Grundform, -en | মূল রূপ - basic form | Nennen Sie die Grundform des Verbs.
+[3e] das Online-Banking (Sg.) | অনলাইন ব্যাংকিং - online banking | Mit Online-Banking kann man Zeit sparen.
+[3e] der/die Bankangestellte, -n | ব্যাংক কর্মকর্তা - bank teller | Die Bankangestellte berät den Kunden.
+[3e] das Bargeld (Sg.) | নগদ টাকা - cash | In diesem Geschäft kann man nur mit Bargeld bezahlen.
+[3e] gering | সামান্য / অল্প - small / low | Das Risiko für einen Fehler ist sehr gering.
+[4a] aufnehmen | গ্রহণ করা (ঋণ) - to take out (a loan) | Ich möchte gerne einen Kredit aufnehmen.
+[4a] der Kleiderschrank, "-e | কাপড়ের আলমারি - wardrobe | Der neue Kleiderschrank bietet viel Platz.
+[5a] anfallen | উৎপন্ন হওয়া / জমা হওয়া - to arise | Bei der Renovierung fallen hohe Kosten an.
+[5a] der Benutzername, -n | ব্যবহারকারীর নাম - user name | Geben Sie bitte Ihren Benutzernamen ein.
+[5a] der Dauerauftrag, "-e | স্থায়ী নির্দেশ (পেমেন্ট) - standing order | Ich habe einen Dauerauftrag für die Miete eingerichtet.
+[5a] einloggen (sich) | লগ ইন করা - to log in | Du musst dich zuerst mit deinem Passwort einloggen.
+[5a] eintragen | নিবন্ধন করা / লেখা - to register / enter | Bitte tragen Sie Ihren Namen in die Liste ein.
+[5a] die Fotoüberweisung, -en | ফটো ট্রান্সফার - picture transfer | Mit einer Fotoüberweisung geht das Bezahlen schneller.
+[5a] die Kontodaten (Pl.) | অ্যাকাউন্টের তথ্য - account information | Bitte schicken Sie mir Ihre Kontodaten.
+[5a] die Kontoübersicht, -en | অ্যাকাউন্টের সংক্ষিপ্ত বিবরণ - account overview | In der Kontoübersicht sieht man alle Buchungen.
+[5a] der Log-in, -s | লগ-ইন - log-in | Der Log-in auf der Seite funktioniert gerade nicht.
+[5a] das Menü, -s | মেনু - menu | Klicken Sie im Menü auf „Start“.
+[5a] die Standardübersicht, -en | সাধারণ সংক্ষিপ্ত বিবরণ - standard overview | Das ist die Standardübersicht für Ihr Konto.
+[5c] gutschreiben | জমা করা (টাকা) - to credit | Der Betrag wurde Ihrem Konto gutgeschrieben.
+[5c] die Kontoeröffnung, -en | অ্যাকাউন্ট খোলা - account opening | Für die Kontoeröffnung brauchen Sie einen Ausweis.
+[5c] die Kopie, -n | অনুলিপি / কপি - copy | Kannst du mir eine Kopie des Vertrags machen?
+[5c] umgehend | অবিলম্বে - immediate | Wir brauchen eine umgehende Antwort von Ihnen.
+[5c] der Verlust, -e | ক্ষতি / হারানো - loss | Der Verlust der Brieftasche war sehr ärgerlich.
+[5c] zudem | তাছাড়া - in addition | Er ist müde und zudem hat er Kopfschmerzen.
+[6a] global | বিশ্বব্যাপী - global | Die Klimaerwärmung ist ein globales Problem.
+[6a] die Globalisierung (Sg.) | বিশ্বায়ন - globalization | Die Globalisierung verändert die Weltwirtschaft.
+[7a] Asien | এশিয়া - Asia | Er möchte nächstes Jahr nach Asien reisen.
+[7a] bedenken | বিবেচনা করা - to consider | Man muss auch die Folgen bedenken.
+[7a] die Bekämpfung (Sg.) | মোকাবিলা / দমন - combat / fighting | Die Bekämpfung der Armut ist ein wichtiges Ziel.
+[7a] contra | বিপক্ষে - con | Bist du pro oder contra?
+[7a] die Forschung, -en | গবেষণা - research | Die medizinische Forschung macht Fortschritte.
+[7a] der Handyhersteller, - | মোবাইল ফোন প্রস্তুতকারক - mobile phone manufacturer | Er arbeitet bei einem großen Handyhersteller.
+[7a] irgendwo | কোথাও - somewhere | Ich habe den Schlüssel irgendwo hingelegt.
+[7a] der Irrsinn (Sg.) | পাগলামি - insanity | Der heutige Konsum ist echter Irrsinn.
+[7a] der Konsument, -en | ভোক্তা (পু.) - consumer (m) | Der Konsument achtet auf den Preis.
+[7a] die Konsumentin, -nen | ভোক্তা (মহিলা) - consumer (f) | Die Konsumentin kauft Bioprodukte.
+[7a] nützen | কাজে আসা / উপকারে আসা - to be of use | Die Globalisierung nützt allen.
+[7a] pauschal | সামগ্রিকভাবে - across-the-board | Das kann man nicht pauschal sagen.
+[7a] der Pluspunkt, -e | ইতিবাচক দিক - advantage | Ein Pluspunkt ist die gute Lage.
+[7a] pro | পক্ষে - pro | Sind Sie pro oder contra Globalisierung?
+[7a] problematisch | সমস্যাযুক্ত - problematic | Die Situation ist sehr problematisch.
+[7a] das Produktangebot, -e | পণ্যের অফার / সীমা - range of offered products | Das Produktangebot im Supermarkt ist riesig.
+[7a] profitieren (von + D.) | লাভবান হওয়া - to profit | Viele Länder profitieren vom Welthandel.
+[7a] die Sicht (Sg.) | দৃষ্টিভঙ্গি - view | Aus meiner Sicht ist das ein Fehler.
+[7a] teilweise | আংশিকভাবে - partly | Das ist nur teilweise richtig.
+[7a] überleben | বেঁচে থাকা - to survive | Viele Firmen müssen um das Überleben kämpfen.
+[7a] überzeugend | বিশ্বাসযোগ্য - convincing | Seine Argumente waren sehr überzeugend.
+[7a] das Umweltproblem, -e | পরিবেশগত সমস্যা - environmental problem | Plastikmüll ist ein großes Umweltproblem.
+[7a] der Verbraucher, - | গ্রাহক (পু.) - user / consumer (m) | Der Verbraucher will mehr Information.
+[7a] die Verbraucherin, -nen | গ্রাহক (মহিলা) - user / consumer (f) | Die Verbraucherin schützt ihre Daten.
+[7a] verlegen | স্থানান্তর করা - to move (production) | Die Firma will die Produktion ins Ausland verlegen.
+[7a] der Weltmarkt (Sg.) | বিশ্ববাজার - world market | Die Preise auf dem Weltmarkt sinken.
+[7a] die Wissenschaft, -en | বিজ্ঞান - science | Die Wissenschaft sucht nach neuen Lösungen.
+[7a] der Wohlstand (Sg.) | সমৃদ্ধি - prosperity | Der Wohlstand im Land ist gestiegen.
+[7a] wünschenswert | বাঞ্ছনীয় - preferable | Eine schnelle Lösung wäre wünschenswert.
+[9a] das Versprechen, - | প্রতিশ্রুতি - promise | Er hat sein Versprechen gehalten.
+[9a] der Wortakzent, -e | শব্দের ঝোঁক / উচ্চারণ - lexical stress | Der Wortakzent liegt auf der ersten Silbe.
+[9a] der Wortstamm, "-e | শব্দের মূল - root word | Suchen Sie den Wortstamm dieses Wortes.
+[9c] der Geldbetrag, "-e | টাকার পরিমাণ - sum of money | Er hat einen hohen Geldbetrag gewonnen.
+[10a] basieren (auf + D.) | ভিত্তিশীল হওয়া - to be based on | Der Film basiert auf einer wahren Geschichte.
+[10a] betrügen | প্রতারণা করা - to cheat | Er hat beim Spiel betrogen.
+[10a] drin sein | অন্তর্ভুক্ত থাকা - to be in | In der Suppe muss viel Gemüse drin sein.
+[10a] einwerfen | ভেতরে ফেলা (টাকা) - to insert | Man muss eine Münze einwerfen.
+[10a] das Gewissen, - | বিবেক - conscience | Er hat ein reines Gewissen.
+[10a] die Gewissensfrage, -n | বিবেকের প্রশ্ন - question of conscience | Das ist für mich eine echte Gewissensfrage.
+[10a] der Kasten, "- | বক্স / বাক্স - box | Der Kasten steht im Keller.
+[10a] das Kleingeld (Sg.) | খুচরা টাকা - small change | Haben Sie etwas Kleingeld für den Automaten?
+[10a] nachprüfen | পুনরায় পরীক্ষা করা - to check | Wir müssen die Angaben noch einmal nachprüfen.
+[10a] der Staub (Sg.) | ধুলো - dust | Auf dem Schrank liegt viel Staub.
+[10a] der Vorwurf, "-e | অভিযোগ - accusation | Er macht ihr einen schweren Vorwurf.
+[10a] weiterverschenken | উপহার হিসেবে দিয়ে দেওয়া - to pass on as a gift | Er hat das Buch einfach weiterverschenkt.
+[10a] der Zeitungskasten, "- | খবরের কাগজের বাক্স - newspaper rack | Im Zeitungskasten lagen keine Zeitungen mehr.
+[10c] befürworten | সমর্থন করা - to agree with | Viele Bürger befürworten den Plan.
+[10c] der Blickkontakt, -e | চোখের যোগাযোগ - eye contact | Beim Sprechen ist Blickkontakt wichtig.
+[10c] räuspern (sich) | গলা পরিষ্কার করা - to clear one's throat | Er räusperte sich vor seiner Rede.
+[10c] tolerieren | সহ্য করা - to tolerate | Wir tolerieren kein unfaires Verhalten.
+[10c] unmöglich | অসম্ভব - impossible | Es ist unmöglich, alles an einem Tag zu schaffen.
+[10d] fort | চলে গেছে / নেই - gone | Das ganze Geld ist schon wieder fort.
+[10d] merken | লক্ষ্য করা - to notice | Er merkt erst nach dem Einkauf, dass er zu viel bezahlt hat.
+[11b] ausziehen | বাড়ি ছেড়ে চলে যাওয়া - to move out of | Wann zieht ihr aus der Wohnung aus?
+[11b] beten | প্রার্থনা করা - to pray | Viele Menschen gehen in die Kirche, um zu beten.
+[11b] damalig | তখনকার - bygone, past | In der damaligen Zeit war alles ganz anders.
+[11b] die Entstehungszeit, -en | সৃষ্টির সময় - time of origin | Die Entstehungszeit des Gebäudes ist unbekannt.
+[11b] fortschrittlich | প্রগতিশীল - progressive | Das Unternehmen nutzt sehr fortschrittliche Methoden.
+[11b] geraten (in + A.) | কোনো অবস্থায় পড়া - to fall into | Er ist unverschuldet in Not geraten.
+[11b] die Immobilie, -n | স্থাবর সম্পত্তি - real estate | Er investiert sein Geld in Immobilien.
+[11b] die Jahresmiete, -n | বার্ষিক ভাড়া - yearly rent | Die Jahresmiete für das Haus ist sehr hoch.
+[11b] katholisch | ক্যাথলিক - Catholic | Er gehört der katholischen Kirche an.
+[11b] die Kaufmannsfamilie, -n | বণিক পরিবার - merchant family | Er stammt aus einer alten Kaufmannsfamilie.
+[11b] die Konzeption, -en | ধারণা / পরিকল্পনা - idea, conception | Die neue Konzeption der Stadt gefällt mir.
+[11b] der Nachtwächter, - | নৈশপ্রহরী (পু.) - night watchman | Der Nachtwächter macht seinen Rundgang.
+[11b] die Nachtwächterin, -nen | নৈশপ্রহরী (মহিলা) - night watchwoman | Sie arbeitet als Nachtwächterin im Museum.
+[11b] der Originalzustand, "-e | আদি অবস্থা - original condition | Das Auto ist noch im Originalzustand.
+[11b] die Schuld (Sg.) | অপরাধ / দোষ - fault | Sie ist ohne Schuld in Not geraten.
+[11b] die Selbsthilfe (Sg.) | স্বনির্ভরতা - self-help | In der Gruppe lernen die Leute Selbsthilfe.
+[11b] die Siedlung, -en | জনবসতি / হাউজিং স্কিম - settlement | Wir wohnen in einer ruhigen Siedlung am Stadtrand.
+[11b] die Sozialsiedlung, -en | সামাজিক আবাসন প্রকল্প - social housing project | Die Sozialsiedlung bietet günstigen Wohnraum an.
+[11b] die Stadtmauer, -n | শহরের প্রাচীর - city wall | Die alte Stadtmauer ist gut erhalten.
+[11b] stammen (aus + D.) | থেকে আসা / উদ্ভূত হওয়া - to originate (from) | Die Familie stammt aus dem Süden.
+[11b] das Stiftungsvermögen, - | ফাউন্ডেশনের সম্পদ - endowment capital | Das Stiftungsvermögen wird für soziale Zwecke genutzt.
+[11b] symbolisch | প্রতীকী - symbolic | Er zahlte einen symbolischen Preis von einem Euro.
+[11b] touristisch | পর্যটন সংক্রান্ত - touristic | Die Stadt hat viele touristische Attraktionen.
+[11b] der Urgroßvater, "- | প্রপিতামহ - great-grandfather | Mein Urgroßvater war ein bekannter Bäcker.
+[11b] zusätzlich | অতিরিক্ত - additional | Wir brauchen für das Projekt zusätzliche Hilfe.
+[11b] der Zustand, "-e | অবস্থা - state | Die Wohnung ist in einem sehr guten Zustand.
+[11e] wohltätig | জনহিতকর - benevolent | Er spendet viel Geld an wohltätige Organisationen.
+[k&k] einleiten | শুরু করা / সূচনা করা - to introduce | Der Redner leitete das Thema kurz ein.
